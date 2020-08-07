@@ -1,0 +1,6244 @@
+AREA|CODE
+Abbeville County, SC|5053
+Abbeville, SC|1795
+Acadia Parish, LA|5401
+Acadia, LA|2166
+Accomack County, VA|4335
+Accomack, VA|1694
+Ada County, ID|3275
+Ada, ID|1203
+Adair County, IA|5501
+Adair County, KY|5140
+Adair County, MO|5051
+Adair County, OK|5082
+Adair, IA|2546
+Adair, KY|2075
+Adair, MO|2200
+Adair, OK|879
+Adams County, CO|3255
+Adams County, IA|5789
+Adams County, ID|5518
+Adams County, IL|3868
+Adams County, IN|4800
+Adams County, MS|5018
+Adams County, ND|5720
+Adams County, NE|5729
+Adams County, OH|4409
+Adams County, PA|3674
+Adams County, WA|4876
+Adams County, WI|4565
+Adams, CO|108
+Adams, IA|2796
+Adams, ID|2446
+Adams, IL|1452
+Adams, IN|2024
+Adams, MS|1711
+Adams, ND|2715
+Adams, NE|784
+Adams, OH|808
+Adams, PA|370
+Adams, WA|2254
+Adams, WI|910
+Addison County, VT|4267
+Addison, VT|730
+Aguadilla, PR|2158
+Aiken County, SC|3487
+Aiken, SC|259
+Aitkin County, MN|4646
+Aitkin, MN|1918
+Alachua County, FL|3368
+Alachua, FL|1241
+Alamance County, NC|3513
+Alamance, NC|1292
+Alameda County, CA|3131
+Alameda, CA|16
+Alamosa County, CO|5194
+Alamosa, CO|991
+Albany County, NY|3315
+Albany County, WY|4276
+Albany, NY|149
+Albany, WY|1652
+Albemarle County, VA|3685
+Albemarle, VA|376
+Alcona County, MI|4704
+Alcona, MI|1960
+Alcorn County, MS|5008
+Alcorn, MS|2175
+Aleutians East Borough, AK|6098
+Aleutians West Borough, AK|6219
+Alexander County, IL|5724
+Alexander County, NC|4255
+Alexander, IL|2761
+Alexander, NC|721
+Alexandria City, VA|290
+Alexandria County, VA|5827
+Alfalfa County, OK|6022
+Alfalfa, OK|1131
+Alger County, MI|5307
+Alger, MI|2134
+Allamakee County, IA|4924
+Allamakee, IA|1005
+Allegan County, MI|3631
+Allegan, MI|1343
+Allegany County, MD|3815
+Allegany County, NY|4064
+Allegany, MD|456
+Allegany, NY|604
+Alleghany County, NC|4701
+Alleghany County, VA|4906
+Alleghany, NC|1053
+Alleghany, VA|2093
+Allegheny County, PA|3140
+Allegheny, PA|23
+Allen County, IN|3288
+Allen County, KS|4935
+Allen County, KY|4588
+Allen County, OH|3655
+Allen Parish, LA|5715
+Allen, IN|1205
+Allen, KS|2315
+Allen, KY|1866
+Allen, LA|3086
+Allen, OH|355
+Allendale County, SC|5929
+Allendale, SC|2744
+Alpena County, MI|4388
+Alpena, MI|1732
+Alpine County, CA|6174
+Alpine, CA|1154
+Amador County, CA|4239
+Amador, CA|710
+Amelia County, VA|5246
+Amelia, VA|2114
+Amherst County, VA|4360
+Amherst, VA|777
+Amite County, MS|5739
+Amite, MS|2858
+Anchorage Borough, AK|3326
+Anchorage, AK|1221
+Anderson County, KS|4973
+Anderson County, KY|4555
+Anderson County, SC|3433
+Anderson County, TN|3814
+Anderson County, TX|3954
+Anderson, KS|2139
+Anderson, KY|1846
+Anderson, SC|223
+Anderson, TN|455
+Anderson, TX|1485
+Andrew County, MO|4891
+Andrew, MO|2843
+Andrews County, TX|5208
+Andrews, TX|2291
+Androscoggin County, ME|3646
+Androscoggin, ME|348
+Angelina County, TX|3746
+Angelina, TX|1390
+Anne Arundel County, MD|3223
+Anne Arundel, MD|83
+Anoka County, MN|3300
+Anoka, MN|139
+Anson County, NC|4442
+Anson, NC|825
+Antelope County, NE|5996
+Antelope, NE|2612
+Antrim County, MI|4516
+Antrim, MI|1818
+Apache County, AZ|3836
+Apache, AZ|468
+Appanoose County, IA|5243
+Appanoose, IA|1035
+Appling County, GA|5149
+Appling, GA|2567
+Appomattox County, VA|5202
+Appomattox, VA|2288
+Aransas County, TX|4526
+Aransas, TX|1824
+Arapahoe County, CO|3216
+Arapahoe, CO|78
+Archer County, TX|5571
+Archer, TX|2375
+Archuleta County, CO|4694
+Archuleta, CO|1044
+Arecibo, PR|2151
+Arenac County, MI|4652
+Arenac, MI|1920
+Arkansas County, AR|5135
+Arkansas, AR|934
+Arlington County, VA|3401
+Arlington, VA|202
+Armstrong County, PA|3855
+Armstrong County, TX|5653
+Armstrong, PA|477
+Armstrong, TX|3051
+Aroostook County, ME|3835
+Aroostook, ME|1433
+Arthur County, NE|6216
+Arthur, NE|2838
+Ascension Parish, LA|3651
+Ascension, LA|1355
+Ashe County, NC|4435
+Ashe, NC|821
+Ashland County, OH|4007
+Ashland County, WI|4647
+Ashland, OH|1512
+Ashland, WI|976
+Ashley County, AR|5097
+Ashley, AR|893
+Ashtabula County, OH|3672
+Ashtabula, OH|368
+Asotin County, WA|4552
+Asotin, WA|1842
+Assumption Parish, LA|5428
+Assumption, LA|2695
+Atascosa County, TX|4129
+Atascosa, TX|1569
+Atchison County, KS|4894
+Atchison County, MO|6020
+Atchison, KS|2269
+Athens County, OH|3892
+Athens, OH|498
+Atkinson County, GA|5964
+Atkinson, GA|2757
+Atlantic County, NJ|3341
+Atlantic, NJ|163
+Atoka County, OK|4927
+Atoka, OK|1010
+Attala County, MS|5130
+Attala, MS|2247
+Audrain County, MO|4477
+Audrain, MO|1792
+Audubon County, IA|5371
+Audubon, IA|2778
+Auglaize County, OH|4111
+Auglaize, OH|630
+Augusta County, VA|3825
+Augusta, VA|461
+Aurora County, SD|6112
+Aurora, SD|3020
+Austin County, TX|4415
+Austin, TX|1749
+Autauga County, AL|3993
+Autauga, AL|1505
+Avery County, NC|4618
+Avery, NC|1893
+Avoyelles Parish, LA|5405
+Avoyelles, LA|2172
+Baca County, CO|6077
+Baca, CO|2799
+Bacon County, GA|5922
+Bacon, GA|2739
+Bailey County, TX|5583
+Bailey, TX|2897
+Baker County, FL|4439
+Baker County, GA|6085
+Baker County, OR|4648
+Baker, FL|1766
+Baker, GA|2800
+Baker, OR|977
+Baldwin County, AL|3440
+Baldwin County, GA|4116
+Baldwin, AL|228
+Baldwin, GA|1562
+Ballard County, KY|5339
+Ballard, KY|2760
+Baltimore City, MD|73
+Baltimore County, MD|3176
+Baltimore, MD|48
+Bamberg County, SC|5872
+Bamberg, SC|2511
+Bandera County, TX|4578
+Bandera, TX|1860
+Banks County, GA|4879
+Banks, GA|2077
+Banner County, NE|6189
+Banner, NE|2833
+Bannock County, ID|3762
+Bannock, ID|1396
+Baraga County, MI|5325
+Baraga, MI|2380
+Barber County, KS|5616
+Barber, KS|2947
+Barbour County, AL|4431
+Barbour County, WV|4898
+Barbour, AL|1762
+Barbour, WV|2089
+Barnes County, ND|5554
+Barnes, ND|2864
+Barnstable County, MA|3391
+Barnstable, MA|196
+Barnwell County, SC|5731
+Barnwell, SC|881
+Barren County, KY|4172
+Barren, KY|1593
+Barron County, WI|4113
+Barron, WI|1561
+Barrow County, GA|3852
+Barrow, GA|1443
+Barry County, MI|3946
+Barry County, MO|4289
+Barry, MI|1483
+Barry, MO|1662
+Bartholomew County, IN|3800
+Bartholomew, IN|1414
+Barton County, KS|4833
+Barton County, MO|5251
+Barton, KS|2043
+Barton, MO|2327
+Bartow County, GA|3677
+Bartow, GA|1362
+Bastrop County, TX|3823
+Bastrop, TX|1428
+Bates County, MO|5167
+Bates, MO|2086
+Bath County, KY|5265
+Bath County, VA|5394
+Bath, KY|2124
+Bath, VA|2441
+Baxter County, AR|4186
+Baxter, AR|678
+Bay County, FL|3466
+Bay County, MI|3644
+Bay, FL|1279
+Bay, MI|1353
+Bayamon, PR|2152
+Bayfield County, WI|4668
+Bayfield, WI|1931
+Baylor County, TX|5628
+Baylor, TX|2977
+Beadle County, SD|5445
+Beadle, SD|2503
+Bear Lake County, ID|5375
+Bear Lake, ID|2435
+Beaufort County, NC|4077
+Beaufort County, SC|3480
+Beaufort, NC|1543
+Beaufort, SC|253
+Beauregard Parish, LA|4286
+Beauregard, LA|1660
+Beaver County, OK|5688
+Beaver County, PA|3461
+Beaver County, UT|5366
+Beaver, OK|2620
+Beaver, PA|239
+Beaver, UT|2427
+Beaverhead County, MT|4966
+Beaverhead, MT|2137
+Becker County, MN|4358
+Becker, MN|775
+Beckham County, OK|4542
+Beckham, OK|892
+Bedford City, VA|2431
+Bedford County, PA|4052
+Bedford County, TN|4125
+Bedford County, VA|3861
+Bedford, PA|596
+Bedford, TN|1567
+Bedford, VA|479
+Bee County, TX|5022
+Bee, TX|2183
+Belknap County, NH|3938
+Belknap, NH|1480
+Bell County, KY|5419
+Bell County, TX|3311
+Bell, KY|2189
+Bell, TX|1214
+Belmont County, OH|4731
+Belmont, OH|471
+Beltrami County, MN|4138
+Beltrami, MN|645
+Ben Hill County, GA|4886
+Ben Hill, GA|2080
+Benewah County, ID|5570
+Benewah, ID|2136
+Bennett County, SD|6086
+Bennett, SD|2986
+Bennington County, VT|4257
+Bennington, VT|722
+Benson County, ND|5997
+Benson, ND|2907
+Bent County, CO|6000
+Bent, CO|2776
+Benton County, AR|3386
+Benton County, IA|4459
+Benton County, IN|5326
+Benton County, MN|4232
+Benton County, MO|4597
+Benton County, MS|5700
+Benton County, OR|3750
+Benton County, TN|4642
+Benton County, WA|3453
+Benton, AR|191
+Benton, IA|1778
+Benton, IN|2381
+Benton, MN|1628
+Benton, MO|1875
+Benton, MS|2683
+Benton, OR|420
+Benton, TN|1913
+Benton, WA|235
+Benzie County, MI|4621
+Benzie, MI|1896
+Bergen County, NJ|3163
+Bergen, NJ|39
+Berkeley County, SC|3448
+Berkeley County, WV|3661
+Berkeley, SC|232
+Berkeley, WV|1359
+Berks County, PA|3270
+Berks, PA|119
+Berkshire County, MA|3572
+Berkshire, MA|306
+Bernalillo County, NM|3201
+Bernalillo, NM|1182
+Berrien County, GA|4594
+Berrien County, MI|3500
+Berrien, GA|1872
+Berrien, MI|1287
+Bertie County, NC|5434
+Bertie, NC|2235
+Bethel Borough, AK|5896
+Bexar County, TX|3128
+Bexar, TX|1161
+Bibb County, AL|5081
+Bibb County, GA|3502
+Bibb, AL|2219
+Bibb, GA|1288
+Bienville Parish, LA|5674
+Bienville, LA|2702
+Big Horn County, MT|5545
+Big Horn County, WY|4948
+Big Horn, MT|2859
+Big Horn, WY|2123
+Big Stone County, MN|5845
+Big Stone, MN|2555
+Billings County, ND|6184
+Billings, ND|3079
+Bingham County, ID|4117
+Bingham, ID|1563
+Black Hawk County, IA|3573
+Black Hawk, IA|307
+Blackford County, IN|4939
+Blackford, IN|2113
+Bladen County, NC|5728
+Bladen, NC|2176
+Blaine County, ID|4557
+Blaine County, MT|5591
+Blaine County, NE|6194
+Blaine County, OK|5914
+Blaine, ID|1848
+Blaine, MT|2908
+Blaine, NE|2837
+Blaine, OK|1045
+Blair County, PA|3581
+Blair, PA|312
+Blanco County, TX|4708
+Blanco, TX|1963
+Bland County, VA|5361
+Bland, VA|1116
+Bleckley County, GA|5740
+Bleckley, GA|2526
+Bledsoe County, TN|5244
+Bledsoe, TN|1949
+Blount County, AL|3962
+Blount County, TN|3590
+Blount, AL|1490
+Blount, TN|319
+Blue Earth County, MN|3899
+Blue Earth, MN|502
+Boise County, ID|4977
+Boise, ID|2143
+Bolivar County, MS|5704
+Bolivar, MS|2177
+Bollinger County, MO|5254
+Bollinger, MO|2329
+Bon Homme County, SD|5990
+Bond County, IL|5156
+Bond, IL|1894
+Bonner County, ID|4198
+Bonner, ID|1605
+Bonneville County, ID|3660
+Bonneville, ID|1358
+Boone County, AR|4263
+Boone County, IA|4454
+Boone County, IL|3997
+Boone County, IN|3968
+Boone County, KY|3603
+Boone County, MO|3478
+Boone County, NE|6026
+Boone County, WV|5060
+Boone, AR|726
+Boone, IA|830
+Boone, IL|1507
+Boone, IN|1493
+Boone, KY|327
+Boone, MO|1281
+Boone, NE|2786
+Boone, WV|2050
+Borden County, TX|6238
+Borden, TX|3083
+Bosque County, TX|4611
+Bosque, TX|1886
+Bossier Parish, LA|3608
+Bossier, LA|1335
+Botetourt County, VA|4337
+Botetourt, VA|764
+Bottineau County, ND|5510
+Bottineau, ND|2564
+Boulder County, CO|3325
+Boulder, CO|155
+Boundary County, ID|4953
+Boundary, ID|2126
+Bourbon County, KS|5197
+Bourbon County, KY|4586
+Bourbon, KS|2515
+Bourbon, KY|927
+Bowie County, TX|3718
+Bowie, TX|1378
+Bowman County, ND|6096
+Bowman, ND|3000
+Box Butte County, NE|5920
+Box Butte, NE|2584
+Box Elder County, UT|4048
+Box Elder, UT|1528
+Boyd County, KY|4057
+Boyd County, NE|6137
+Boyd, KY|1533
+Boyd, NE|2813
+Boyle County, KY|4414
+Boyle, KY|1748
+Bracken County, KY|5334
+Bracken, KY|2604
+Bradford County, FL|4412
+Bradford County, PA|3913
+Bradford, FL|1746
+Bradford, PA|509
+Bradley County, AR|5918
+Bradley County, TN|3686
+Bradley, AR|1049
+Bradley, TN|377
+Branch County, MI|4121
+Branch, MI|1565
+Brantley County, GA|5146
+Brantley, GA|2257
+Braxton County, WV|5214
+Braxton, WV|2296
+Brazoria County, TX|3308
+Brazoria, TX|1213
+Brazos County, TX|3424
+Brazos, TX|1258
+Breathitt County, KY|5902
+Breathitt, KY|2730
+Breckinridge County, KY|5122
+Breckinridge, KY|925
+Bremer County, IA|4505
+Bremer, IA|861
+Brevard County, FL|3220
+Brevard, FL|1188
+Brewster County, TX|5315
+Brewster, TX|2372
+Briscoe County, TX|6158
+Briscoe, TX|3061
+Bristol Bay Borough, AK|6233
+Bristol City, VA|949
+Bristol County, MA|3218
+Bristol County, RI|4050
+Bristol County, VA|5813
+Bristol, MA|80
+Bristol, RI|595
+Broadwater County, MT|4985
+Broadwater, MT|2146
+Bronx County, NY|3135
+Bronx, NY|20
+Brooke County, WV|5065
+Brooke, WV|2053
+Brookings County, SD|5020
+Brookings, SD|2181
+Brooks County, GA|5183
+Brooks County, TX|5989
+Brooks, GA|2276
+Brooks, TX|2686
+Broome County, NY|3411
+Broome, NY|211
+Broomfield County, CO|3974
+Broomfield, CO|550
+Broward County, FL|3127
+Broward, FL|1160
+Brown County, IL|5991
+Brown County, IN|4665
+Brown County, KS|5300
+Brown County, MN|4467
+Brown County, NE|6097
+Brown County, OH|4131
+Brown County, SD|4988
+Brown County, TX|4238
+Brown County, WI|3367
+Brown, IL|2903
+Brown, IN|1928
+Brown, KS|2358
+Brown, MN|1785
+Brown, NE|2803
+Brown, OH|642
+Brown, SD|1648
+Brown, TX|1631
+Brown, WI|177
+Brule County, SD|6034
+Brule, SD|2936
+Brunswick County, NC|3650
+Brunswick County, VA|5777
+Brunswick, NC|352
+Brunswick, VA|957
+Bryan County, GA|4379
+Bryan County, OK|4783
+Bryan, GA|1728
+Bryan, OK|665
+Buchanan County, IA|4860
+Buchanan County, MO|3730
+Buchanan County, VA|4842
+Buchanan, IA|906
+Buchanan, MO|1384
+Buchanan, VA|2052
+Buckingham County, VA|5446
+Buckingham, VA|1902
+Bucks County, PA|3207
+Bucks, PA|71
+Buena Vista City, VA|1119
+Buena Vista County, IA|5116
+Buena Vista County, VA|5832
+Buena Vista, IA|2071
+Buffalo County, NE|4992
+Buffalo County, WI|5470
+Buffalo, NE|627
+Buffalo, WI|1025
+Bullitt County, KY|3821
+Bullitt, KY|1427
+Bulloch County, GA|3844
+Bulloch, GA|1439
+Bullock County, AL|5926
+Bullock, AL|2741
+Buncombe County, NC|3373
+Buncombe, NC|182
+Bureau County, IL|4303
+Bureau, IL|1673
+Burke County, GA|5074
+Burke County, NC|4770
+Burke County, ND|6148
+Burke, GA|2058
+Burke, NC|403
+Burke, ND|3049
+Burleigh County, ND|3773
+Burleigh, ND|1403
+Burleson County, TX|5534
+Burleson, TX|2844
+Burlington County, NJ|3252
+Burlington, NJ|105
+Burnet County, TX|4163
+Burnet, TX|1588
+Burnett County, WI|4660
+Burnett, WI|990
+Burt County, NE|5993
+Burt, NE|1115
+Butler County, AL|5113
+Butler County, IA|5206
+Butler County, KS|3881
+Butler County, KY|6197
+Butler County, MO|4162
+Butler County, NE|6206
+Butler County, OH|3284
+Butler County, PA|3437
+Butler, AL|907
+Butler, IA|1001
+Butler, KS|1457
+Butler, KY|2580
+Butler, MO|1587
+Butler, NE|2605
+Butler, OH|129
+Butler, PA|225
+Butte County, CA|3387
+Butte County, ID|6108
+Butte County, SD|5482
+Butte, CA|192
+Butte, ID|3013
+Butte, SD|2355
+Butts County, GA|4514
+Butts, GA|1817
+Cabarrus County, NC|3446
+Cabarrus, NC|231
+Cabell County, WV|3697
+Cabell, WV|1369
+Cabo Rojo, PR|2159
+Cache County, UT|3627
+Cache, UT|1340
+Caddo County, OK|4819
+Caddo Parish, LA|3359
+Caddo, LA|1237
+Caddo, OK|2029
+Caguas, PR|2149
+Calaveras County, CA|4118
+Calaveras, CA|634
+Calcasieu Parish, LA|3427
+Calcasieu, LA|1259
+Caldwell County, KY|5241
+Caldwell County, MO|5568
+Caldwell County, NC|3758
+Caldwell County, TX|4240
+Caldwell Parish, LA|5723
+Caldwell, KY|2316
+Caldwell, LA|2708
+Caldwell, MO|2366
+Caldwell, NC|425
+Caldwell, TX|1632
+Caledonia County, VT|4370
+Caledonia, VT|786
+Calhoun County, AL|3604
+Calhoun County, AR|6031
+Calhoun County, FL|5211
+Calhoun County, GA|5663
+Calhoun County, IA|5304
+Calhoun County, IL|6037
+Calhoun County, MI|3554
+Calhoun County, MS|5538
+Calhoun County, SC|5459
+Calhoun County, TX|4556
+Calhoun County, WV|5978
+Calhoun, AL|328
+Calhoun, AR|2787
+Calhoun, FL|2519
+Calhoun, GA|2774
+Calhoun, IA|1078
+Calhoun, IL|2790
+Calhoun, MI|1313
+Calhoun, MS|2847
+Calhoun, SC|995
+Calhoun, TX|1847
+Calhoun, WV|2413
+Callahan County, TX|5231
+Callahan, TX|2309
+Callaway County, MO|4140
+Callaway, MO|1575
+Calloway County, KY|4256
+Calloway, KY|1639
+Calumet County, WI|4063
+Calumet, WI|603
+Calvert County, MD|3737
+Calvert, MD|411
+Camas County, ID|6176
+Camas, ID|3073
+Cambria County, PA|3533
+Cambria, PA|288
+Camden County, GA|4041
+Camden County, MO|4144
+Camden County, NC|4713
+Camden County, NJ|3233
+Camden, GA|1526
+Camden, MO|1576
+Camden, NC|1076
+Camden, NJ|91
+Cameron County, PA|5514
+Cameron County, TX|3271
+Cameron Parish, LA|5508
+Cameron, LA|3088
+Cameron, PA|2659
+Cameron, TX|1201
+Camp County, TX|5252
+Camp, TX|2328
+Campbell County, KY|3725
+Campbell County, SD|6229
+Campbell County, TN|4201
+Campbell County, VA|3990
+Campbell County, WY|4107
+Campbell, KY|404
+Campbell, TN|1607
+Campbell, VA|559
+Campbell, WY|1558
+Camuy, PR|2557
+Canadian County, OK|3616
+Canadian, OK|336
+Candler County, GA|5478
+Candler, GA|2125
+Cannon County, TN|5227
+Cannon, TN|1021
+Canyon County, ID|3432
+Canyon, ID|1263
+Cape Girardeau County, MO|3808
+Cape Girardeau, MO|1419
+Cape May County, NJ|3694
+Cape May, NJ|383
+Carbon County, MT|4957
+Carbon County, PA|3889
+Carbon County, UT|5104
+Carbon County, WY|4653
+Carbon, MT|2002
+Carbon, PA|496
+Carbon, UT|2232
+Carbon, WY|1921
+Caribou County, ID|5686
+Caribou, ID|2902
+Carlisle County, KY|5765
+Carlisle, KY|2789
+Carlton County, MN|4294
+Carlton, MN|741
+Carolina, PR|2007
+Caroline County, MD|4340
+Caroline County, VA|4410
+Caroline, MD|768
+Caroline, VA|809
+Carroll County, AR|4432
+Carroll County, GA|3634
+Carroll County, IA|4864
+Carroll County, IL|4662
+Carroll County, IN|4584
+Carroll County, KY|5479
+Carroll County, MD|3468
+Carroll County, MO|5313
+Carroll County, MS|5558
+Carroll County, NH|4074
+Carroll County, OH|4398
+Carroll County, TN|4411
+Carroll County, VA|4382
+Carroll, AR|819
+Carroll, GA|1346
+Carroll, IA|2068
+Carroll, IL|1927
+Carroll, IN|1864
+Carroll, KY|2346
+Carroll, MD|243
+Carroll, MO|2370
+Carroll, MS|2866
+Carroll, NH|1541
+Carroll, OH|800
+Carroll, TN|1745
+Carroll, VA|792
+Carson City, NV|555
+Carson County, TX|5597
+Carson, TX|2914
+Carter County, KY|4832
+Carter County, MO|5856
+Carter County, MT|6210
+Carter County, OK|4082
+Carter County, TN|3960
+Carter, KY|2042
+Carter, MO|2430
+Carter, MT|3072
+Carter, OK|612
+Carter, TN|543
+Carteret County, NC|3875
+Carteret, NC|488
+Carver County, MN|3723
+Carver, MN|402
+Cascade County, MT|3772
+Cascade, MT|1402
+Casey County, KY|4907
+Casey, KY|2280
+Cass County, IA|4931
+Cass County, IL|4933
+Cass County, IN|4740
+Cass County, MI|4020
+Cass County, MN|4408
+Cass County, MO|3682
+Cass County, ND|3517
+Cass County, NE|4484
+Cass County, TX|4377
+Cass, IA|1017
+Cass, IL|2308
+Cass, IN|1983
+Cass, MI|1518
+Cass, MN|807
+Cass, MO|1365
+Cass, ND|1293
+Cass, NE|844
+Cass, TX|1726
+Cassia County, ID|5079
+Cassia, ID|2217
+Castro County, TX|5577
+Castro, TX|2887
+Caswell County, NC|4844
+Caswell, NC|864
+Catahoula Parish, LA|5680
+Catahoula, LA|2707
+Catawba County, NC|3505
+Catawba, NC|271
+Catoosa County, GA|3900
+Catoosa, GA|1466
+Catron County, NM|4987
+Catron, NM|2448
+Cattaraugus County, NY|3777
+Cattaraugus, NY|433
+Cavalier County, ND|6071
+Cayey, PR|2558
+Cayuga County, NY|3779
+Cayuga, NY|434
+Cecil County, MD|3675
+Cecil, MD|371
+Cedar County, IA|4878
+Cedar County, MO|4682
+Cedar County, NE|5885
+Cedar, IA|2076
+Cedar, MO|1941
+Cedar, NE|2599
+Ceiba, PR|6243
+Centre County, PA|3506
+Centre, PA|272
+Cerro Gordo County, IA|4143
+Cerro Gordo, IA|648
+Chaffee County, CO|4617
+Chaffee, CO|951
+Chambers County, AL|4317
+Chambers County, TX|4299
+Chambers, AL|754
+Chambers, TX|1669
+Champaign County, IL|3409
+Champaign County, OH|4211
+Champaign, IL|1253
+Champaign, OH|692
+Chariton County, MO|5725
+Chariton, MO|3103
+Charles City County, VA|5852
+Charles City, VA|1111
+Charles County, MD|3526
+Charles County, VA|5835
+Charles Mix County, SD|5949
+Charles, MD|285
+Charleston County, SC|3291
+Charleston, SC|135
+Charlevoix County, MI|4466
+Charlevoix, MI|1783
+Charlotte County, FL|3488
+Charlotte County, VA|5474
+Charlotte, FL|1283
+Charlotte, VA|2732
+Charlottesville City, VA|1581
+Charlottesville County, VA|5806
+Charlton County, GA|5912
+Charlton, GA|2734
+Chase County, KS|5645
+Chase County, NE|6073
+Chase, KS|3017
+Chase, NE|2797
+Chatham County, GA|3351
+Chatham County, NC|3904
+Chatham, GA|1234
+Chatham, NC|1469
+Chattahoochee County, GA|5742
+Chattahoochee, GA|2738
+Chattooga County, GA|5049
+Chattooga, GA|2199
+Chautauqua County, KS|5698
+Chautauqua County, NY|3556
+Chautauqua, KS|2980
+Chautauqua, NY|298
+Chaves County, NM|3883
+Chaves, NM|1458
+Cheatham County, TN|4224
+Cheatham, TN|701
+Cheboygan County, MI|4456
+Cheboygan, MI|1776
+Chelan County, WA|3832
+Chelan, WA|466
+Chemung County, NY|3734
+Chemung, NY|408
+Chenango County, NY|4042
+Chenango, NY|589
+Cherokee County, AL|4464
+Cherokee County, GA|3393
+Cherokee County, IA|5260
+Cherokee County, KS|4753
+Cherokee County, NC|4433
+Cherokee County, OK|4092
+Cherokee County, SC|3984
+Cherokee County, TX|4040
+Cherokee, AL|834
+Cherokee, GA|1248
+Cherokee, IA|2528
+Cherokee, KS|2065
+Cherokee, NC|820
+Cherokee, OK|617
+Cherokee, SC|554
+Cherokee, TX|1525
+Cherry County, NE|5761
+Cherry, NE|2785
+Chesapeake City, VA|190
+Chesapeake County, VA|5798
+Cheshire County, NH|3797
+Cheshire, NH|1413
+Chester County, PA|3236
+Chester County, SC|5017
+Chester County, TN|5164
+Chester, PA|94
+Chester, SC|765
+Chester, TN|964
+Chesterfield County, SC|4780
+Chesterfield County, VA|3306
+Chesterfield, SC|621
+Chesterfield, VA|144
+Cheyenne County, CO|6151
+Cheyenne County, KS|5646
+Cheyenne County, NE|4766
+Cheyenne, CO|1153
+Cheyenne, KS|3019
+Cheyenne, NE|2131
+Chickasaw County, IA|5250
+Chickasaw County, MS|5532
+Chickasaw, IA|2643
+Chickasaw, MS|2666
+Chicot County, AR|5846
+Chicot, AR|2583
+Childress County, TX|5585
+Childress, TX|2901
+Chilton County, AL|4150
+Chilton, AL|652
+Chippewa County, MI|4231
+Chippewa County, MN|5660
+Chippewa County, WI|3917
+Chippewa, MI|704
+Chippewa, MN|2527
+Chippewa, WI|512
+Chisago County, MN|3999
+Chisago, MN|564
+Chittenden County, VT|3501
+Chittenden, VT|268
+Choctaw County, AL|5904
+Choctaw County, MS|5574
+Choctaw County, OK|4915
+Choctaw, AL|2852
+Choctaw, MS|2882
+Choctaw, OK|2097
+Chouteau County, MT|5606
+Chouteau, MT|2924
+Chowan County, NC|4672
+Chowan, NC|1934
+Christian County, IL|4744
+Christian County, KY|3824
+Christian County, MO|3793
+Christian, IL|2023
+Christian, KY|460
+Christian, MO|1410
+Churchill County, NV|4492
+Churchill, NV|847
+Cibola County, NM|5424
+Cibola, NM|2469
+Cidra, PR|2559
+Cimarron County, OK|6118
+Cimarron, OK|1151
+Citrus County, FL|3537
+Citrus, FL|1303
+Clackamas County, OR|3280
+Clackamas, OR|125
+Claiborne County, MS|5567
+Claiborne County, TN|5019
+Claiborne Parish, LA|5670
+Claiborne, LA|2698
+Claiborne, MS|2878
+Claiborne, TN|1712
+Clallam County, WA|3837
+Clallam, WA|1434
+Clare County, MI|4373
+Clare, MI|1723
+Clarendon County, SC|4304
+Clarendon, SC|744
+Clarion County, PA|5004
+Clarion, PA|695
+Clark County, AR|5078
+Clark County, ID|6180
+Clark County, IL|5181
+Clark County, IN|3635
+Clark County, KS|5650
+Clark County, KY|4288
+Clark County, MO|5712
+Clark County, NV|3122
+Clark County, OH|3544
+Clark County, SD|6080
+Clark County, WA|3262
+Clark County, WI|4310
+Clark, AR|876
+Clark, IL|2509
+Clark, IN|1347
+Clark, KS|3041
+Clark, KY|1661
+Clark, MO|2898
+Clark, NV|10
+Clark, OH|292
+Clark, SD|2978
+Clark, WA|113
+Clark, WI|1677
+Clarke County, AL|5050
+Clarke County, GA|3611
+Clarke County, IA|5314
+Clarke County, MS|5172
+Clarke County, VA|4681
+Clarke, AL|836
+Clarke, GA|1336
+Clarke, IA|2650
+Clarke, MS|2668
+Clarke, VA|1014
+Clatsop County, OR|4261
+Clatsop, OR|723
+Clay County, AL|5221
+Clay County, AR|5185
+Clay County, FL|3428
+Clay County, GA|6094
+Clay County, IA|5173
+Clay County, IL|5905
+Clay County, IN|4443
+Clay County, KS|5331
+Clay County, KY|5894
+Clay County, MN|3949
+Clay County, MO|3384
+Clay County, MS|4868
+Clay County, NC|4707
+Clay County, NE|5823
+Clay County, SD|5903
+Clay County, TN|5343
+Clay County, TX|5282
+Clay County, WV|5311
+Clay, AL|2301
+Clay, AR|2278
+Clay, FL|1260
+Clay, GA|2801
+Clay, IA|969
+Clay, IL|2463
+Clay, IN|1768
+Clay, KS|2389
+Clay, KY|2720
+Clay, MN|536
+Clay, MO|1246
+Clay, MS|2070
+Clay, NC|1067
+Clay, NE|2613
+Clay, TN|2405
+Clay, TX|2347
+Clay, WV|2369
+Clayton County, GA|3356
+Clayton County, IA|4883
+Clayton, GA|1236
+Clayton, IA|2078
+Clear Creek County, CO|5319
+Clear Creek, CO|1087
+Clearfield County, PA|3769
+Clearfield, PA|430
+Clearwater County, ID|5327
+Clearwater County, MN|5959
+Clearwater, ID|2383
+Clearwater, MN|2543
+Cleburne County, AL|5203
+Cleburne County, AR|4465
+Cleburne, AL|2516
+Cleburne, AR|835
+Clermont County, OH|3418
+Clermont, OH|214
+Cleveland County, AR|5681
+Cleveland County, NC|3692
+Cleveland County, OK|3358
+Cleveland, AR|1093
+Cleveland, NC|382
+Cleveland, OK|172
+Clinch County, GA|5994
+Clinch, GA|2772
+Clinton County, IA|4778
+Clinton County, IL|4246
+Clinton County, IN|5525
+Clinton County, KY|5844
+Clinton County, MI|3813
+Clinton County, MO|4570
+Clinton County, NY|3767
+Clinton County, OH|4784
+Clinton County, PA|4221
+Clinton, IA|602
+Clinton, IL|1635
+Clinton, IN|1985
+Clinton, KY|2353
+Clinton, MI|1423
+Clinton, MO|1856
+Clinton, NY|429
+Clinton, OH|672
+Clinton, PA|699
+Cloud County, KS|5308
+Cloud, KS|2364
+Coahoma County, MS|5527
+Coahoma, MS|2664
+Coal County, OK|6014
+Coal, OK|1128
+Coamo, PR|2565
+Cobb County, GA|3195
+Cobb, GA|1179
+Cochise County, AZ|3571
+Cochise, AZ|305
+Cochran County, TX|6099
+Cochran, TX|3001
+Cocke County, TN|4285
+Cocke, TN|1659
+Coconino County, AZ|3558
+Coconino, AZ|300
+Codington County, SD|5423
+Codington, SD|2484
+Coffee County, AL|4049
+Coffee County, GA|5001
+Coffee County, TN|4012
+Coffee, AL|594
+Coffee, GA|2013
+Coffee, TN|1514
+Coffey County, KS|5330
+Coffey, KS|2387
+Coke County, TX|6091
+Coke, TX|2993
+Colbert County, AL|3994
+Colbert, AL|561
+Cole County, MO|3806
+Cole, MO|1418
+Coleman County, TX|5323
+Coleman, TX|2682
+Coles County, IL|4000
+Coles, IL|1508
+Colfax County, NE|5928
+Colfax County, NM|4758
+Colfax, NE|1069
+Colfax, NM|1997
+Colleton County, SC|4226
+Colleton, SC|703
+Collier County, FL|3303
+Collier, FL|1212
+Collin County, TX|3183
+Collin, TX|54
+Collingsworth County, TX|6102
+Collingsworth, TX|3006
+Colonial Heights City, VA|959
+Colonial Heights County, VA|5814
+Colorado County, TX|5114
+Colorado, TX|2494
+Colquitt County, GA|4994
+Colquitt, GA|2170
+Columbia County, AR|5061
+Columbia County, FL|3866
+Columbia County, GA|3588
+Columbia County, NY|3910
+Columbia County, OR|4060
+Columbia County, PA|3867
+Columbia County, WA|5516
+Columbia County, WI|3965
+Columbia, AR|854
+Columbia, FL|1451
+Columbia, GA|1326
+Columbia, NY|507
+Columbia, OR|599
+Columbia, PA|482
+Columbia, WA|2556
+Columbia, WI|544
+Columbiana County, OH|3643
+Columbiana, OH|347
+Columbus County, NC|3957
+Columbus, NC|540
+Colusa County, CA|5103
+Colusa, CA|898
+Comal County, TX|3640
+Comal, TX|1351
+Comanche County, KS|5654
+Comanche County, OK|3587
+Comanche County, TX|5466
+Comanche, KS|3053
+Comanche, OK|318
+Comanche, TX|2300
+Concho County, TX|6066
+Concho, TX|2968
+Concordia Parish, LA|5436
+Concordia, LA|2495
+Conecuh County, AL|5868
+Conecuh, AL|1030
+Conejos County, CO|5338
+Conejos, CO|2400
+Contra Costa County, CA|3146
+Contra Costa, CA|27
+Converse County, WY|4757
+Converse, WY|2108
+Conway County, AR|5107
+Conway, AR|899
+Cook County, GA|5163
+Cook County, IL|3111
+Cook County, MN|4725
+Cook, GA|1900
+Cook, IL|1156
+Cook, MN|1977
+Cooke County, TX|4233
+Cooke, TX|1629
+Cooper County, MO|5159
+Cooper, MO|3092
+Coos County, NH|4342
+Coos County, OR|3912
+Coos, NH|1697
+Coos, OR|508
+Coosa County, AL|5917
+Coosa, AL|2530
+Copiah County, MS|5029
+Copiah, MS|2187
+Corson County, SD|6222
+Cortland County, NY|4734
+Cortland, NY|600
+Coryell County, TX|3812
+Coryell, TX|1422
+Coshocton County, OH|4792
+Coshocton, OH|727
+Costilla County, CO|5387
+Costilla, CO|2450
+Cottle County, TX|6228
+Cotton County, OK|5759
+Cotton, OK|1124
+Cottonwood County, MN|5262
+Cottonwood, MN|2335
+Covington City, VA|2618
+Covington County, AL|4788
+Covington County, MS|5129
+Covington, AL|715
+Covington, MS|2246
+Coweta County, GA|3580
+Coweta, GA|1325
+Cowley County, KS|4275
+Cowley, KS|1651
+Cowlitz County, WA|3666
+Cowlitz, WA|362
+Craig County, OK|4917
+Craig County, VA|6036
+Craig, OK|1930
+Craig, VA|1135
+Craighead County, AR|3696
+Craighead, AR|385
+Crane County, TX|5726
+Crane, TX|2958
+Craven County, NC|3662
+Craven, NC|359
+Crawford County, AR|3921
+Crawford County, GA|4941
+Crawford County, IA|5165
+Crawford County, IL|5440
+Crawford County, IN|5283
+Crawford County, KS|4223
+Crawford County, MI|4680
+Crawford County, MO|4498
+Crawford County, OH|4148
+Crawford County, PA|3735
+Crawford County, WI|4639
+Crawford, AR|515
+Crawford, GA|2325
+Crawford, IA|965
+Crawford, IL|2498
+Crawford, IN|1065
+Crawford, KS|1623
+Crawford, MI|1940
+Crawford, MO|1807
+Crawford, OH|651
+Crawford, PA|409
+Crawford, WI|1910
+Creek County, OK|3848
+Creek, OK|473
+Crenshaw County, AL|5853
+Crenshaw, AL|1019
+Crisp County, GA|5072
+Crisp, GA|2056
+Crittenden County, AR|4039
+Crittenden County, KY|5942
+Crittenden, AR|588
+Crittenden, KY|2596
+Crockett County, TN|5213
+Crockett County, TX|6223
+Crockett, TN|2295
+Crook County, OR|4562
+Crook County, WY|4976
+Crook, OR|904
+Crook, WY|2420
+Crosby County, TX|5600
+Crosby, TX|2918
+Cross County, AR|4728
+Cross, AR|948
+Crow Wing County, MN|3915
+Crow Wing, MN|1474
+Crowley County, CO|5605
+Crowley, CO|2782
+Culberson County, TX|6122
+Cullman County, AL|3776
+Cullman, AL|1405
+Culpeper County, VA|4096
+Culpeper, VA|622
+Cumberland County, IL|5923
+Cumberland County, KY|5855
+Cumberland County, ME|3333
+Cumberland County, NC|3305
+Cumberland County, NJ|3498
+Cumberland County, PA|3375
+Cumberland County, TN|3973
+Cumberland County, VA|5397
+Cumberland, IL|2646
+Cumberland, KY|2425
+Cumberland, ME|161
+Cumberland, NC|142
+Cumberland, NJ|267
+Cumberland, PA|184
+Cumberland, TN|1495
+Cumberland, VA|2471
+Cuming County, NE|5948
+Cuming, NE|1085
+Currituck County, NC|4517
+Currituck, NC|867
+Curry County, NM|4072
+Curry County, OR|4536
+Curry, NM|1540
+Curry, OR|886
+Custer County, CO|4727
+Custer County, ID|5384
+Custer County, MT|4947
+Custer County, NE|5925
+Custer County, OK|4835
+Custer County, SD|5498
+Custer, CO|1978
+Custer, ID|2147
+Custer, MT|2334
+Custer, NE|2587
+Custer, OK|2045
+Custer, SD|2401
+Cuyahoga County, OH|3138
+Cuyahoga, OH|22
+Dade County, GA|5174
+Dade County, MO|5341
+Dade, GA|1911
+Dade, MO|2545
+Daggett County, UT|5877
+Daggett, UT|3074
+Dakota County, MN|3274
+Dakota County, NE|5112
+Dakota, MN|121
+Dakota, NE|902
+Dale County, AL|4044
+Dale, AL|591
+Dallam County, TX|5588
+Dallam, TX|2905
+Dallas County, AL|4996
+Dallas County, AR|5662
+Dallas County, IA|3879
+Dallas County, MO|4634
+Dallas County, TX|3118
+Dallas, AL|650
+Dallas, AR|1097
+Dallas, IA|491
+Dallas, MO|1906
+Dallas, TX|6
+Dane County, WI|3243
+Dane, WI|98
+Daniels County, MT|5655
+Daniels, MT|3055
+Danville City, VA|660
+Danville County, VA|5824
+Dare County, NC|4321
+Dare, NC|756
+Darke County, OH|4008
+Darke, OH|568
+Darlington County, SC|3860
+Darlington, SC|478
+Dauphin County, PA|3348
+Dauphin, PA|167
+Davidson County, NC|3477
+Davidson County, TN|3205
+Davidson, NC|251
+Davidson, TN|69
+Davie County, NC|4193
+Davie, NC|684
+Daviess County, IN|4813
+Daviess County, KY|3695
+Daviess County, MO|5575
+Daviess, IN|1717
+Daviess, KY|1368
+Daviess, MO|3096
+Davis County, IA|5859
+Davis County, UT|3314
+Davis, IA|1091
+Davis, UT|1216
+Davison County, SD|5732
+Davison, SD|3108
+Dawes County, NE|5946
+Dawes, NE|2598
+Dawson County, GA|4539
+Dawson County, MT|4969
+Dawson County, NE|5864
+Dawson County, TX|5469
+Dawson, GA|1830
+Dawson, MT|2376
+Dawson, NE|859
+Dawson, TX|2853
+Day County, SD|6019
+Day, SD|2927
+De Baca County, NM|6144
+De Baca, NM|3046
+De Kalb County, AL|3840
+De Kalb County, IN|4170
+De Kalb, AL|1436
+De Kalb, IL|2566
+De Kalb, IN|1591
+De Soto County, FL|4307
+De Soto Parish, LA|5045
+De Soto, FL|1674
+De Soto, LA|2197
+De Witt County, TX|5120
+De Witt, TX|2241
+DeKalb County, IL|3657
+DeKalb County, MO|5695
+DeKalb, IL|1357
+DeKalb, MO|3093
+DeSoto County, MS|3483
+DeSoto, MS|256
+Deaf Smith County, TX|5716
+Deaf Smith, TX|2248
+Dearborn County, IN|4047
+Dearborn, IN|593
+Decatur County, GA|5035
+Decatur County, IA|5494
+Decatur County, IN|4472
+Decatur County, KS|5644
+Decatur County, TN|4696
+Decatur, GA|2040
+Decatur, IA|1095
+Decatur, IN|1789
+Decatur, KS|3012
+Decatur, TN|1955
+Deer Lodge County, MT|5490
+Deer Lodge, MT|2135
+Defiance County, OH|4225
+Defiance, OH|702
+Dekalb County, GA|3194
+Dekalb County, TN|4601
+Dekalb, GA|1178
+Dekalb, TN|1879
+Del Norte County, CA|4406
+Del Norte, CA|805
+Delaware County, IA|5158
+Delaware County, IN|3606
+Delaware County, NY|4073
+Delaware County, OH|3455
+Delaware County, OK|4187
+Delaware County, PA|3217
+Delaware, IA|953
+Delaware, IN|1333
+Delaware, NY|609
+Delaware, OH|237
+Delaware, OK|679
+Delaware, PA|79
+Delta County, CO|4372
+Delta County, MI|4259
+Delta County, TX|5764
+Delta, CO|787
+Delta, MI|1642
+Delta, TX|2689
+Denali Borough, AK|6152
+Dent County, MO|4911
+Dent, MO|1996
+Denton County, TX|3200
+Denton, TX|65
+Denver County, CO|3213
+Denver, CO|76
+Des Moines County, IA|4206
+Des Moines, IA|690
+Deschutes County, OR|3495
+Deschutes, OR|266
+Desha County, AR|5543
+Desha, AR|2579
+Deuel County, NE|6149
+Deuel County, SD|6056
+Deuel, NE|2819
+Dewey County, OK|5863
+Dewey County, SD|6220
+Dewey, OK|2629
+Dewitt County, IL|5177
+Dewitt, IL|2506
+Dickens County, TX|5771
+Dickens, TX|3031
+Dickenson County, VA|5866
+Dickenson, VA|981
+Dickey County, ND|5690
+Dickey, ND|2711
+Dickinson County, IA|4637
+Dickinson County, KS|4590
+Dickinson County, MI|4838
+Dickinson, IA|970
+Dickinson, KS|1868
+Dickinson, MI|2048
+Dickson County, TN|4055
+Dickson, TN|597
+Dillingham Borough, AK|6043
+Dillon County, SC|5417
+Dillon, SC|2479
+Dimmit County, TX|5565
+Dimmit, TX|2875
+Dinwiddie County, VA|4423
+Dinwiddie, VA|1757
+District of Columbia, DC|75
+Divide County, ND|6138
+Divide, ND|3045
+Dixie County, FL|4643
+Dixie, FL|1914
+Dixon County, NE|6012
+Dixon, NE|1127
+Doddridge County, WV|5785
+Doddridge, WV|2652
+Dodge County, GA|5098
+Dodge County, MN|4754
+Dodge County, NE|4269
+Dodge County, WI|3736
+Dodge, GA|2492
+Dodge, MN|923
+Dodge, NE|1646
+Dodge, WI|410
+Dolores County, CO|5520
+Dolores, CO|2814
+Dona Ana County, NM|3399
+Dona Ana, NM|1251
+Doniphan County, KS|5578
+Doniphan, KS|2888
+Donley County, TX|6081
+Donley, TX|2979
+Dooly County, GA|5882
+Dooly, GA|2289
+Door County, WI|4426
+Door, WI|816
+Dorado, PR|6218
+Dorchester County, MD|4355
+Dorchester County, SC|3552
+Dorchester, MD|774
+Dorchester, SC|296
+Dougherty County, GA|3706
+Dougherty, GA|1374
+Douglas County, CO|3330
+Douglas County, GA|3563
+Douglas County, IL|4587
+Douglas County, KS|3632
+Douglas County, MN|4280
+Douglas County, MO|4932
+Douglas County, NE|3229
+Douglas County, NV|4091
+Douglas County, OR|3647
+Douglas County, SD|6104
+Douglas County, WA|4234
+Douglas County, WI|4142
+Douglas, CO|158
+Douglas, GA|1316
+Douglas, IL|1865
+Douglas, KS|1344
+Douglas, MN|738
+Douglas, MO|2109
+Douglas, NE|89
+Douglas, NV|616
+Douglas, OR|349
+Douglas, SD|3009
+Douglas, WA|706
+Douglas, WI|647
+Drew County, AR|5145
+Drew, AR|939
+Du Page, IL|1169
+DuPage County, IL|3160
+DuPage, IL|3107
+Dubois County, IN|4180
+Dubois, IN|1597
+Dubuque County, IA|3710
+Dubuque, IA|393
+Duchesne County, UT|5141
+Duchesne, UT|2255
+Dukes County, MA|4641
+Dukes, MA|971
+Dundy County, NE|6207
+Dundy, NE|2817
+Dunklin County, MO|5021
+Dunklin, MO|2182
+Dunn County, ND|5792
+Dunn County, WI|4147
+Dunn, ND|2982
+Dunn, WI|1578
+Duplin County, NC|3952
+Duplin, NC|539
+Durham County, NC|3349
+Durham, NC|1232
+Dutchess County, NY|3320
+Dutchess, NY|153
+Duval County, FL|3167
+Duval County, TX|5551
+Duval, FL|1172
+Duval, TX|2861
+Dyer County, TN|5006
+Dyer, TN|2173
+Eagle County, CO|4026
+Eagle, CO|577
+Early County, GA|5924
+Early, GA|2585
+East Baton Rouge Parish, LA|3256
+East Baton Rouge, LA|1196
+East Carroll Parish, LA|5820
+East Carroll, LA|2893
+East Feliciana Parish, LA|5669
+East Feliciana, LA|2697
+Eastland County, TX|4602
+Eastland, TX|1880
+Eaton County, MI|3645
+Eaton, MI|1354
+Eau Claire County, WI|3689
+Eau Claire, WI|379
+Echols County, GA|6069
+Echols, GA|2795
+Ector County, TX|3548
+Ector, TX|1311
+Eddy County, ND|5791
+Eddy County, NM|4001
+Eddy, ND|3034
+Eddy, NM|1509
+Edgar County, IL|6200
+Edgar, IL|2499
+Edgecombe County, NC|3969
+Edgecombe, NC|547
+Edgefield County, SC|4441
+Edgefield, SC|824
+Edmonson County, KY|5259
+Edmonson, KY|2118
+Edmunds County, SD|6067
+Edwards County, IL|5995
+Edwards County, KS|5642
+Edwards County, TX|6208
+Edwards, IL|1117
+Edwards, KS|3007
+Edwards, TX|3047
+Effingham County, GA|4023
+Effingham County, IL|4316
+Effingham, GA|1521
+Effingham, IL|1680
+El Dorado County, CA|3441
+El Dorado, CA|229
+El Paso County, CO|3208
+El Paso County, TX|3178
+El Paso, CO|72
+El Paso, TX|1175
+Elbert County, CO|4527
+Elbert County, GA|5118
+Elbert, CO|875
+Elbert, GA|1863
+Elk County, KS|5861
+Elk County, PA|5395
+Elk, KS|3015
+Elk, PA|781
+Elkhart County, IN|3416
+Elkhart, IN|1256
+Elko County, NV|4066
+Elko, NV|606
+Elliott County, KY|5973
+Elliott, KY|2763
+Ellis County, KS|4413
+Ellis County, OK|6061
+Ellis County, TX|3519
+Ellis, KS|1747
+Ellis, OK|1141
+Ellis, TX|280
+Ellsworth County, KS|5590
+Ellsworth, KS|2428
+Elmore County, AL|3781
+Elmore County, ID|4440
+Elmore, AL|436
+Elmore, ID|1767
+Emanuel County, GA|5084
+Emanuel, GA|2222
+Emery County, UT|5841
+Emery, UT|2532
+Emmet County, IA|5869
+Emmet County, MI|4354
+Emmet, IA|2648
+Emmet, MI|1705
+Emmons County, ND|5693
+Emmons, ND|2714
+Emporia City, VA|2780
+Erath County, TX|4243
+Erath, TX|1634
+Erie County, NY|3159
+Erie County, OH|3798
+Erie County, PA|3335
+Erie, NY|37
+Erie, OH|447
+Erie, PA|162
+Escambia County, AL|4236
+Escambia County, FL|3319
+Escambia, AL|709
+Escambia, FL|1217
+Esmeralda County, NV|6185
+Esmeralda, NV|1155
+Essex County, MA|3186
+Essex County, NJ|3182
+Essex County, NY|4217
+Essex County, VA|4952
+Essex County, VT|4723
+Essex, MA|56
+Essex, NJ|53
+Essex, NY|698
+Essex, VA|1055
+Essex, VT|1122
+Estill County, KY|5210
+Estill, KY|2576
+Etowah County, AL|3659
+Etowah, AL|358
+Eureka County, NV|6146
+Eureka, NV|2818
+Evangeline Parish, LA|5414
+Evangeline, LA|2178
+Evans County, GA|5743
+Evans, GA|2344
+Fairbanks North Star Borough, AK|3693
+Fairbanks North Star, AK|1367
+Fairfax City, VA|884
+Fairfax County, VA|3145
+Fairfax, VA|26
+Fairfield County, CT|3161
+Fairfield County, OH|3529
+Fairfield County, SC|4511
+Fairfield, CT|38
+Fairfield, OH|286
+Fairfield, SC|862
+Fajardo, PR|2153
+Fall River County, SD|5505
+Fall River, SD|3097
+Fallon County, MT|5860
+Fallon, MT|3014
+Falls Church City, VA|1040
+Falls Church County, VA|5818
+Falls County, TX|5153
+Falls, TX|2262
+Fannin County, GA|4513
+Fannin County, TX|4322
+Fannin, GA|1816
+Fannin, TX|1683
+Faribault County, MN|5463
+Faribault, MN|1004
+Faulk County, SD|6225
+Faulkner County, AR|3626
+Faulkner, AR|343
+Fauquier County, VA|3890
+Fauquier, VA|497
+Fayette County, AL|5881
+Fayette County, GA|3654
+Fayette County, IA|4862
+Fayette County, IL|4541
+Fayette County, IN|5064
+Fayette County, KY|3322
+Fayette County, OH|4396
+Fayette County, PA|3551
+Fayette County, TN|4235
+Fayette County, TX|5427
+Fayette County, WV|4781
+Fayette, AL|2568
+Fayette, GA|1356
+Fayette, IA|909
+Fayette, IL|1832
+Fayette, IN|2205
+Fayette, KY|154
+Fayette, OH|798
+Fayette, PA|295
+Fayette, TN|707
+Fayette, TX|2204
+Fayette, WV|2012
+Fentress County, TN|4613
+Fentress, TN|1890
+Fergus County, MT|4950
+Fergus, MT|1998
+Ferry County, WA|5347
+Ferry, WA|2414
+Fillmore County, MN|4566
+Fillmore County, NE|5604
+Fillmore, MN|1854
+Fillmore, NE|2619
+Finney County, KS|4793
+Finney, KS|2019
+Fisher County, TX|6072
+Fisher, TX|2971
+Flagler County, FL|3703
+Flagler, FL|1372
+Flathead County, MT|3724
+Flathead, MT|1380
+Fleming County, KY|5217
+Fleming, KY|2103
+Florence County, SC|3549
+Florence County, WI|5515
+Florence, SC|294
+Florence, WI|2442
+Floyd County, GA|3699
+Floyd County, IA|5182
+Floyd County, IN|3819
+Floyd County, KY|4787
+Floyd County, TX|5594
+Floyd County, VA|4664
+Floyd, GA|1371
+Floyd, IA|2572
+Floyd, IN|1425
+Floyd, KY|2015
+Floyd, TX|2911
+Floyd, VA|994
+Fluvanna County, VA|4474
+Fluvanna, VA|838
+Foard County, TX|6209
+Foard, TX|3066
+Fond du Lac County, WI|3669
+Fond du Lac, WI|365
+Ford County, IL|4679
+Ford County, KS|4801
+Ford, IL|1939
+Ford, KS|2025
+Forest County, PA|5346
+Forest County, WI|5489
+Forest, PA|2410
+Forest, WI|1970
+Forrest County, MS|3816
+Forrest, MS|1424
+Forsyth County, GA|3452
+Forsyth County, NC|3290
+Forsyth, GA|1272
+Forsyth, NC|134
+Fort Bend County, TX|3214
+Fort Bend, TX|1186
+Foster County, ND|5666
+Foster, ND|2992
+Fountain County, IN|5162
+Fountain, IN|2265
+Franklin City, VA|1094
+Franklin County, AL|4812
+Franklin County, AR|5150
+Franklin County, FL|4698
+Franklin County, GA|4544
+Franklin County, IA|5284
+Franklin County, ID|5547
+Franklin County, IL|5410
+Franklin County, IN|4848
+Franklin County, KS|4463
+Franklin County, KY|4061
+Franklin County, MA|3838
+Franklin County, ME|4375
+Franklin County, MO|3673
+Franklin County, MS|5576
+Franklin County, NC|3931
+Franklin County, NE|6093
+Franklin County, NY|4029
+Franklin County, OH|3142
+Franklin County, PA|3518
+Franklin County, TN|4195
+Franklin County, TX|4706
+Franklin County, VA|3972
+Franklin County, VT|4078
+Franklin County, WA|3788
+Franklin Parish, LA|5668
+Franklin, AL|783
+Franklin, AR|2259
+Franklin, FL|1957
+Franklin, GA|1834
+Franklin, IA|1066
+Franklin, ID|2320
+Franklin, IL|1617
+Franklin, IN|874
+Franklin, KS|1782
+Franklin, KY|1535
+Franklin, LA|2696
+Franklin, MA|469
+Franklin, ME|790
+Franklin, MO|369
+Franklin, MS|2886
+Franklin, NC|524
+Franklin, NE|2632
+Franklin, NY|579
+Franklin, OH|24
+Franklin, PA|279
+Franklin, TN|1604
+Franklin, TX|1962
+Franklin, VA|549
+Franklin, VT|611
+Franklin, WA|441
+Frederick County, MD|3379
+Frederick County, VA|3786
+Frederick, MD|186
+Frederick, VA|439
+Fredericksburg City, VA|860
+Fredericksburg County, VA|5809
+Freeborn County, MN|4369
+Freeborn, MN|1721
+Freestone County, TX|4589
+Freestone, TX|1867
+Fremont County, CO|4095
+Fremont County, IA|5349
+Fremont County, ID|4689
+Fremont County, WY|4209
+Fremont, CO|620
+Fremont, IA|1104
+Fremont, ID|1947
+Fremont, WY|1612
+Fresno County, CA|3155
+Fresno, CA|34
+Frio County, TX|5533
+Frio, TX|2667
+Frontier County, NE|6111
+Frontier, NE|2808
+Fulton County, AR|5255
+Fulton County, GA|3157
+Fulton County, IL|4260
+Fulton County, IN|4863
+Fulton County, KY|5363
+Fulton County, NY|3980
+Fulton County, OH|4164
+Fulton County, PA|5207
+Fulton, AR|2330
+Fulton, GA|1168
+Fulton, IL|1643
+Fulton, IN|1993
+Fulton, KY|2549
+Fulton, NY|552
+Fulton, OH|663
+Fulton, PA|2290
+Furnas County, NE|5614
+Furnas, NE|2626
+Gadsden County, FL|4101
+Gadsden, FL|1554
+Gage County, NE|4854
+Gage, NE|888
+Gaines County, TX|4889
+Gaines, TX|2082
+Galax City, VA|2421
+Gallatin County, IL|6024
+Gallatin County, KY|5493
+Gallatin County, MT|3728
+Gallatin, IL|2658
+Gallatin, KY|2602
+Gallatin, MT|1382
+Gallia County, OH|4817
+Gallia, OH|788
+Galveston County, TX|3327
+Galveston, TX|1222
+Garden County, NE|6140
+Garden, NE|2815
+Garfield County, CO|3971
+Garfield County, MT|6173
+Garfield County, NE|6142
+Garfield County, OK|3933
+Garfield County, UT|5381
+Garfield County, WA|6131
+Garfield, CO|548
+Garfield, MT|3070
+Garfield, NE|2816
+Garfield, OK|526
+Garfield, UT|2439
+Garfield, WA|1152
+Garland County, AR|3701
+Garland, AR|387
+Garrard County, KY|4632
+Garrard, KY|1904
+Garrett County, MD|4381
+Garrett, MD|791
+Garvin County, OK|4834
+Garvin, OK|818
+Garza County, TX|5593
+Garza, TX|2910
+Gasconade County, MO|4666
+Gasconade, MO|1929
+Gaston County, NC|3402
+Gaston, NC|203
+Gates County, NC|4944
+Gates, NC|1042
+Geary County, KS|4314
+Geary, KS|1679
+Geauga County, OH|3713
+Geauga, OH|394
+Gem County, ID|4636
+Gem, ID|1908
+Genesee County, MI|3261
+Genesee County, NY|3939
+Genesee, MI|1198
+Genesee, NY|529
+Geneva County, AL|4445
+Geneva, AL|826
+Gentry County, MO|5586
+Gentry, MO|3105
+George County, MS|4852
+George, MS|2061
+Georgetown County, SC|3937
+Georgetown, SC|528
+Gibson County, IN|4802
+Gibson County, TN|4054
+Gibson, IN|1687
+Gibson, TN|1531
+Gila County, AZ|4002
+Gila, AZ|565
+Gilchrist County, FL|4631
+Gilchrist, FL|2087
+Giles County, TN|4390
+Giles County, VA|4892
+Giles, TN|1734
+Giles, VA|1899
+Gillespie County, TX|4493
+Gillespie, TX|1803
+Gilliam County, OR|5772
+Gilliam, OR|2820
+Gilmer County, GA|4417
+Gilmer County, WV|5960
+Gilmer, GA|1751
+Gilmer, WV|2601
+Gilpin County, CO|5379
+Gilpin, CO|1133
+Glacier County, MT|5237
+Glacier, MT|2856
+Glades County, FL|4761
+Glades, FL|2318
+Gladwin County, MI|4473
+Gladwin, MI|1790
+Glascock County, GA|6101
+Glascock, GA|2804
+Glasscock County, TX|6172
+Glasscock, TX|3069
+Glenn County, CA|4830
+Glenn, CA|814
+Gloucester County, NJ|3328
+Gloucester County, VA|4264
+Gloucester, NJ|156
+Gloucester, VA|728
+Glynn County, GA|3780
+Glynn, GA|1407
+Gogebic County, MI|4902
+Gogebic, MI|2275
+Golden Valley County, MT|6183
+Golden Valley County, ND|6156
+Golden Valley, MT|3077
+Golden Valley, ND|3059
+Goliad County, TX|5355
+Goliad, TX|2687
+Gonzales County, TX|5441
+Gonzales, TX|2841
+Goochland County, VA|4548
+Goochland, VA|896
+Goodhue County, MN|4104
+Goodhue, MN|626
+Gooding County, ID|5193
+Gooding, ID|1925
+Gordon County, GA|3986
+Gordon, GA|1502
+Goshen County, WY|4760
+Goshen, WY|2112
+Gosper County, NE|6143
+Gosper, NE|2634
+Gove County, KS|5862
+Gove, KS|3021
+Grady County, GA|5055
+Grady County, OK|4017
+Grady, GA|2049
+Grady, OK|572
+Grafton County, NH|3732
+Grafton, NH|1385
+Graham County, AZ|4254
+Graham County, KS|5648
+Graham County, NC|4716
+Graham, AZ|720
+Graham, KS|3023
+Graham, NC|1090
+Grainger County, TN|4532
+Grainger, TN|880
+Grand County, CO|4671
+Grand County, UT|5870
+Grand Forks County, ND|3872
+Grand Forks, ND|1455
+Grand Isle County, VT|4722
+Grand Isle, VT|1114
+Grand Traverse County, MI|3742
+Grand Traverse, MI|1388
+Grand, CO|1002
+Grand, UT|2373
+Granite County, MT|5389
+Granite, MT|3004
+Grant County, AR|5154
+Grant County, IN|3845
+Grant County, KS|5345
+Grant County, KY|4500
+Grant County, MN|5374
+Grant County, ND|6123
+Grant County, NE|6215
+Grant County, NM|4389
+Grant County, OK|6051
+Grant County, OR|5348
+Grant County, SD|5984
+Grant County, WA|3731
+Grant County, WI|4034
+Grant County, WV|4946
+Grant Parish, LA|5667
+Grant, AR|2263
+Grant, IN|1440
+Grant, KS|2408
+Grant, KY|1808
+Grant, LA|2490
+Grant, MN|2551
+Grant, ND|3033
+Grant, NE|2835
+Grant, NM|1733
+Grant, OK|1137
+Grant, OR|1103
+Grant, SD|2547
+Grant, WA|406
+Grant, WI|584
+Grant, WV|2122
+Granville County, NC|3940
+Granville, NC|530
+Gratiot County, MI|4165
+Gratiot, MI|1589
+Graves County, KY|4790
+Graves, KY|2017
+Gray County, KS|5602
+Gray County, TX|5086
+Gray, KS|2921
+Gray, TX|2062
+Grays Harbor County, WA|3831
+Grays Harbor, WA|465
+Grayson County, KY|4471
+Grayson County, TX|3599
+Grayson County, VA|4659
+Grayson, KY|1788
+Grayson, TX|1331
+Grayson, VA|988
+Greeley County, KS|6171
+Greeley County, NE|6114
+Greeley, KS|3068
+Greeley, NE|2809
+Green County, KY|5272
+Green County, WI|4265
+Green Lake County, WI|4598
+Green Lake, WI|933
+Green, KY|2340
+Green, WI|1644
+Greenbrier County, WV|4292
+Greenbrier, WV|1665
+Greene County, AL|5572
+Greene County, AR|4174
+Greene County, GA|4649
+Greene County, IA|5312
+Greene County, IL|5468
+Greene County, IN|4745
+Greene County, MO|3339
+Greene County, MS|5215
+Greene County, NC|5106
+Greene County, NY|4062
+Greene County, OH|3481
+Greene County, PA|5413
+Greene County, TN|3858
+Greene County, VA|4606
+Greene, AL|2752
+Greene, AR|671
+Greene, GA|1919
+Greene, IA|1083
+Greene, IL|2522
+Greene, IN|1986
+Greene, MO|1227
+Greene, MS|2671
+Greene, NC|2234
+Greene, NY|601
+Greene, OH|254
+Greene, PA|2468
+Greene, TN|1447
+Greene, VA|1883
+Greenlee County, AZ|5962
+Greenlee, AZ|1096
+Greensville County, VA|5475
+Greensville, VA|1041
+Greenup County, KY|4262
+Greenup, KY|725
+Greenville County, SC|3251
+Greenville, SC|104
+Greenwood County, KS|5589
+Greenwood County, SC|3850
+Greenwood, KS|2426
+Greenwood, SC|474
+Greer County, OK|5369
+Greer, OK|1123
+Gregg County, TX|3596
+Gregg, TX|1328
+Gregory County, SD|6058
+Grenada County, MS|4855
+Grenada, MS|2063
+Griggs County, ND|6121
+Griggs, ND|3032
+Grimes County, TX|4447
+Grimes, TX|1770
+Grundy County, IA|5249
+Grundy County, IL|4046
+Grundy County, MO|5294
+Grundy County, TN|5229
+Grundy, IA|1037
+Grundy, IL|1527
+Grundy, MO|2354
+Grundy, TN|2305
+Guadalupe County, NM|5692
+Guadalupe County, TX|3568
+Guadalupe, NM|2951
+Guadalupe, TX|1320
+Guaynabo, PR|2155
+Guernsey County, OH|5003
+Guernsey, OH|693
+Guilford County, NC|3242
+Guilford, NC|1193
+Gulf County, FL|4654
+Gulf, FL|1922
+Gunnison County, CO|4663
+Gunnison, CO|993
+Gurabo, PR|2150
+Guthrie County, IA|5524
+Guthrie, IA|1060
+Gwinnett County, GA|3174
+Gwinnett, GA|1174
+Haakon County, SD|6227
+Habersham County, GA|4158
+Habersham, GA|1584
+Haines Borough, AK|6115
+Hale County, AL|5187
+Hale County, TX|4795
+Hale, AL|2281
+Hale, TX|2021
+Halifax County, NC|3991
+Halifax County, VA|4278
+Halifax, NC|560
+Halifax, VA|735
+Hall County, GA|3445
+Hall County, NE|3951
+Hall County, TX|5634
+Hall, GA|1269
+Hall, NE|538
+Hall, TX|2991
+Hamblen County, TN|3914
+Hamblen, TN|510
+Hamilton County, FL|4920
+Hamilton County, IA|5456
+Hamilton County, IL|5784
+Hamilton County, IN|3340
+Hamilton County, KS|5647
+Hamilton County, NE|5317
+Hamilton County, NY|4769
+Hamilton County, OH|3177
+Hamilton County, TN|3297
+Hamilton County, TX|5701
+Hamilton, FL|2101
+Hamilton, IA|2283
+Hamilton, IL|2651
+Hamilton, IN|1228
+Hamilton, KS|3022
+Hamilton, NE|1086
+Hamilton, NY|1136
+Hamilton, OH|49
+Hamilton, TN|1209
+Hamilton, TX|2391
+Hamlin County, SD|6015
+Hamlin, SD|2923
+Hampden County, MA|3249
+Hampden, MA|103
+Hampshire County, MA|3494
+Hampshire County, WV|4750
+Hampshire, MA|265
+Hampshire, WV|1990
+Hampton City, VA|293
+Hampton County, SC|5109
+Hampton County, VA|5800
+Hampton, SC|2238
+Hancock County, GA|4963
+Hancock County, IA|5781
+Hancock County, IL|5442
+Hancock County, IN|3847
+Hancock County, KY|6205
+Hancock County, ME|3995
+Hancock County, MS|4146
+Hancock County, OH|3817
+Hancock County, TN|5362
+Hancock County, WV|4818
+Hancock, GA|1969
+Hancock, IA|2645
+Hancock, IL|2722
+Hancock, IN|1441
+Hancock, KY|2603
+Hancock, ME|562
+Hancock, MS|1577
+Hancock, OH|457
+Hancock, TN|3100
+Hancock, WV|1988
+Hand County, SD|5631
+Hand, SD|2985
+Hanover County, VA|3680
+Hanover, VA|372
+Hansford County, TX|5847
+Hansford, TX|2930
+Hanson County, SD|6090
+Haralson County, GA|4824
+Haralson, GA|1740
+Hardee County, FL|5038
+Hardee, FL|2041
+Hardeman County, TN|5040
+Hardeman County, TX|6062
+Hardeman, TN|2192
+Hardeman, TX|2965
+Hardin County, IA|4888
+Hardin County, IL|6057
+Hardin County, KY|3656
+Hardin County, OH|4810
+Hardin County, TN|4461
+Hardin County, TX|3992
+Hardin, IA|2636
+Hardin, IL|2443
+Hardin, KY|356
+Hardin, OH|780
+Hardin, TN|1780
+Hardin, TX|1504
+Harding County, NM|6214
+Harding County, SD|6170
+Harding, NM|3082
+Hardy County, WV|4929
+Hardy, WV|2107
+Harford County, MD|3370
+Harford, MD|178
+Harlan County, KY|4820
+Harlan County, NE|6087
+Harlan, KY|2031
+Harlan, NE|2631
+Harmon County, OK|5769
+Harmon, OK|1149
+Harnett County, NC|3619
+Harnett, NC|338
+Harney County, OR|5350
+Harney, OR|1105
+Harper County, KS|5718
+Harper County, OK|5826
+Harper, KS|2919
+Harper, OK|1146
+Harris County, GA|4364
+Harris County, TX|3112
+Harris, GA|1714
+Harris, TX|1157
+Harrison County, IA|5204
+Harrison County, IN|4218
+Harrison County, KY|5136
+Harrison County, MO|5321
+Harrison County, MS|3434
+Harrison County, OH|5186
+Harrison County, TX|3884
+Harrison County, WV|3854
+Harrison, IA|1000
+Harrison, IN|1619
+Harrison, KY|1877
+Harrison, MO|2881
+Harrison, MS|1264
+Harrison, OH|982
+Harrison, TX|1459
+Harrison, WV|476
+Harrisonburg City, VA|605
+Harrisonburg County, VA|5805
+Hart County, GA|4485
+Hart County, KY|4881
+Hart, GA|1797
+Hart, KY|1887
+Hartford County, CT|3166
+Hartford, CT|41
+Hartley County, TX|5599
+Hartley, TX|2917
+Harvey County, KS|4311
+Harvey, KS|1678
+Haskell County, KS|5623
+Haskell County, OK|4938
+Haskell County, TX|5376
+Haskell, KS|2961
+Haskell, OK|1036
+Haskell, TX|2554
+Hatillo, PR|2560
+Hawaii County, HI|3436
+Hawaii, HI|224
+Hawkins County, TN|3964
+Hawkins, TN|1492
+Hayes County, NE|6211
+Hayes, NE|2827
+Hays County, TX|3497
+Hays, TX|1285
+Haywood County, NC|3948
+Haywood County, TN|5138
+Haywood, NC|535
+Haywood, TN|2252
+Heard County, GA|5741
+Heard, GA|2331
+Hemphill County, TX|6076
+Hemphill, TX|2975
+Hempstead County, AR|5083
+Hempstead, AR|882
+Henderson County, IL|5353
+Henderson County, KY|4102
+Henderson County, NC|3653
+Henderson County, TN|4427
+Henderson County, TX|3783
+Henderson, IL|2768
+Henderson, KY|1555
+Henderson, NC|354
+Henderson, TN|1759
+Henderson, TX|1409
+Hendricks County, IN|3530
+Hendricks, IN|1298
+Hendry County, FL|4222
+Hendry, FL|1622
+Hennepin County, MN|3143
+Hennepin, MN|25
+Henrico County, VA|3313
+Henrico, VA|148
+Henry County, AL|4625
+Henry County, GA|3403
+Henry County, IA|5119
+Henry County, IL|4733
+Henry County, IN|4058
+Henry County, KY|4914
+Henry County, MO|4751
+Henry County, OH|4828
+Henry County, TN|4362
+Henry County, VA|3998
+Henry, AL|960
+Henry, GA|1252
+Henry, IA|2635
+Henry, IL|1981
+Henry, IN|1534
+Henry, KY|1926
+Henry, MO|1831
+Henry, OH|812
+Henry, TN|1710
+Henry, VA|563
+Herkimer County, NY|3895
+Herkimer, NY|500
+Hernando County, FL|3457
+Hernando, FL|1274
+Hertford County, NC|4499
+Hertford, NC|851
+Hettinger County, ND|6117
+Hettinger, ND|3028
+Hickman County, KY|5664
+Hickman County, TN|5058
+Hickman, KY|2627
+Hickman, TN|850
+Hickory County, MO|4961
+Hickory, MO|2004
+Hidalgo County, NM|5691
+Hidalgo County, TX|3184
+Hidalgo, NM|2945
+Hidalgo, TX|1176
+Highland County, OH|4151
+Highland County, VA|5390
+Highland, OH|653
+Highland, VA|2451
+Highlands County, FL|3687
+Highlands, FL|1366
+Hill County, MT|5184
+Hill County, TX|4300
+Hill, MT|2277
+Hill, TX|1670
+Hillsborough County, FL|3139
+Hillsborough County, NH|3273
+Hillsborough, FL|1163
+Hillsborough, NH|1202
+Hillsdale County, MI|4097
+Hillsdale, MI|1552
+Hinds County, MS|3369
+Hinds, MS|1242
+Hinsdale County, CO|5392
+Hinsdale, CO|2453
+Hitchcock County, NE|6107
+Hitchcock, NE|1150
+Hocking County, OH|4393
+Hocking, OH|796
+Hockley County, TX|5080
+Hockley, TX|2218
+Hodgeman County, KS|5652
+Hodgeman, KS|3050
+Hoke County, NC|4093
+Hoke, NC|618
+Holmes County, FL|5123
+Holmes County, MS|5706
+Holmes County, OH|5000
+Holmes, FL|2243
+Holmes, MS|2842
+Holmes, OH|667
+Holt County, MO|6041
+Holt County, NE|5747
+Holt, MO|2944
+Holt, NE|2589
+Honolulu County, HI|3152
+Honolulu, HI|31
+Hood County, TX|4035
+Hood River County, OR|4538
+Hood River, OR|887
+Hood, TX|1524
+Hooker County, NE|6212
+Hooker, NE|2831
+Hoonah-Angoon Borough, AK|6203
+Hopewell City, VA|883
+Hopewell County, VA|5811
+Hopkins County, KY|4094
+Hopkins County, TX|4298
+Hopkins, KY|619
+Hopkins, TX|1668
+Horry County, SC|3345
+Horry, SC|166
+Hot Spring County, AR|4345
+Hot Spring, AR|769
+Hot Springs County, WY|4986
+Hot Springs, WY|2949
+Houghton County, MI|4271
+Houghton, MI|1647
+Houston County, AL|3671
+Houston County, GA|3539
+Houston County, MN|4874
+Houston County, TN|5963
+Houston County, TX|4843
+Houston, AL|367
+Houston, GA|1304
+Houston, MN|2251
+Houston, TN|2395
+Houston, TX|2212
+Howard County, AR|5737
+Howard County, IA|5936
+Howard County, IN|3764
+Howard County, MD|3329
+Howard County, MO|5296
+Howard County, NE|6007
+Howard County, TX|4302
+Howard, AR|1023
+Howard, IA|1079
+Howard, IN|1398
+Howard, MD|157
+Howard, MO|2873
+Howard, NE|2616
+Howard, TX|1672
+Howell County, MO|4205
+Howell, MO|1610
+Hubbard County, MN|4580
+Hubbard, MN|1861
+Hudson County, NJ|3203
+Hudson, NJ|67
+Hudspeth County, TX|6083
+Hudspeth, TX|2983
+Huerfano County, CO|4980
+Huerfano, CO|2144
+Hughes County, OK|4930
+Hughes County, SD|5168
+Hughes, OK|1015
+Hughes, SD|3090
+Humacao, PR|2006
+Humboldt County, CA|3557
+Humboldt County, IA|5749
+Humboldt County, NV|4900
+Humboldt, CA|299
+Humboldt, IA|2536
+Humboldt, NV|972
+Humphreys County, MS|5569
+Humphreys County, TN|5143
+Humphreys, MS|2679
+Humphreys, TN|1881
+Hunt County, TX|3748
+Hunt, TX|418
+Hunterdon County, NJ|3578
+Hunterdon, NJ|311
+Huntingdon County, PA|4993
+Huntingdon, PA|631
+Huntington County, IN|4258
+Huntington, IN|1641
+Huron County, MI|4338
+Huron County, OH|3943
+Huron, MI|1695
+Huron, OH|531
+Hutchinson County, SD|5685
+Hutchinson County, TX|5091
+Hutchinson, SD|3106
+Hutchinson, TX|2226
+Hyde County, NC|4983
+Hyde County, SD|6230
+Hyde, NC|2783
+Iberia Parish, LA|4772
+Iberia, LA|1430
+Iberville Parish, LA|5016
+Iberville, LA|2478
+Ida County, IA|5506
+Ida, IA|2653
+Idaho County, ID|5452
+Idaho, ID|1917
+Imperial County, CA|3454
+Imperial, CA|236
+Independence County, AR|5010
+Independence, AR|732
+Indian River County, FL|3546
+Indian River, FL|1309
+Indiana County, PA|4729
+Indiana, PA|407
+Ingham County, MI|3334
+Ingham, MI|1223
+Inyo County, CA|5142
+Inyo, CA|938
+Ionia County, MI|3901
+Ionia, MI|1467
+Iosco County, MI|4468
+Iosco, MI|1786
+Iowa County, IA|5180
+Iowa County, WI|4512
+Iowa, IA|973
+Iowa, WI|865
+Iredell County, NC|3490
+Iredell, NC|261
+Irion County, TX|5657
+Irion, TX|3062
+Iron County, MI|4763
+Iron County, MO|5285
+Iron County, UT|4105
+Iron County, WI|4724
+Iron, MI|2332
+Iron, MO|2348
+Iron, UT|1556
+Iron, WI|1129
+Iroquois County, IL|4387
+Iroquois, IL|1731
+Irwin County, GA|5937
+Irwin, GA|2363
+Isabela, PR|2154
+Isabella County, MI|3843
+Isabella, MI|1438
+Isanti County, MN|4244
+Isanti, MN|713
+Island County, WA|3784
+Island, WA|437
+Isle of Wight County, VA|4296
+Isle of Wight, VA|1667
+Issaquena County, MS|6231
+Itasca County, MN|4124
+Itasca, MN|638
+Itawamba County, MS|5073
+Itawamba, MS|2214
+Izard County, AR|4685
+Izard, AR|1943
+Jack County, TX|5573
+Jack, TX|2680
+Jackson County, AL|4006
+Jackson County, AR|5151
+Jackson County, CO|6166
+Jackson County, FL|4053
+Jackson County, GA|3934
+Jackson County, IA|5124
+Jackson County, IL|3936
+Jackson County, IN|4167
+Jackson County, KS|5235
+Jackson County, KY|5233
+Jackson County, MI|3486
+Jackson County, MN|5825
+Jackson County, MO|3198
+Jackson County, MS|3540
+Jackson County, NC|4207
+Jackson County, OH|4803
+Jackson County, OK|4451
+Jackson County, OR|3404
+Jackson County, SD|6224
+Jackson County, TN|5264
+Jackson County, TX|5218
+Jackson County, WI|4579
+Jackson County, WV|4821
+Jackson Parish, LA|5671
+Jackson, AL|567
+Jackson, AR|2260
+Jackson, FL|1530
+Jackson, GA|1478
+Jackson, IA|2464
+Jackson, IL|1479
+Jackson, IN|1590
+Jackson, KS|2314
+Jackson, KY|2312
+Jackson, LA|2699
+Jackson, MI|1282
+Jackson, MN|2591
+Jackson, MO|1181
+Jackson, MS|1305
+Jackson, NC|691
+Jackson, OH|761
+Jackson, OK|829
+Jackson, OR|205
+Jackson, TN|2336
+Jackson, TX|2298
+Jackson, WI|919
+Jackson, WV|2032
+James City County, VA|5836
+James City, VA|485
+James County, VA|5804
+Jasper County, GA|5224
+Jasper County, IA|4266
+Jasper County, IL|5933
+Jasper County, IN|4327
+Jasper County, MO|3607
+Jasper County, MS|5535
+Jasper County, SC|4494
+Jasper County, TX|4284
+Jasper, GA|1942
+Jasper, IA|729
+Jasper, IL|2746
+Jasper, IN|759
+Jasper, MO|1334
+Jasper, MS|2266
+Jasper, SC|849
+Jasper, TX|1658
+Jay County, IN|5529
+Jay, IN|2236
+Jeff Davis County, GA|5198
+Jeff Davis County, TX|6128
+Jeff Davis, GA|2287
+Jeff Davis, TX|3035
+Jefferson County, AL|3202
+Jefferson County, AR|3792
+Jefferson County, CO|3226
+Jefferson County, FL|5209
+Jefferson County, GA|5169
+Jefferson County, IA|4897
+Jefferson County, ID|4457
+Jefferson County, IL|4227
+Jefferson County, IN|4359
+Jefferson County, KS|4595
+Jefferson County, KY|3187
+Jefferson County, MO|3389
+Jefferson County, MS|5754
+Jefferson County, MT|5269
+Jefferson County, NE|5980
+Jefferson County, NY|3614
+Jefferson County, OH|3849
+Jefferson County, OK|5592
+Jefferson County, OR|4547
+Jefferson County, PA|4995
+Jefferson County, TN|4032
+Jefferson County, TX|3362
+Jefferson County, WA|4384
+Jefferson County, WI|3754
+Jefferson County, WV|4003
+Jefferson Davis County, MS|5549
+Jefferson Davis Parish, LA|5418
+Jefferson Davis, LA|1718
+Jefferson Davis, MS|2673
+Jefferson Parish, LA|3258
+Jefferson, AL|66
+Jefferson, AR|445
+Jefferson, CO|86
+Jefferson, FL|2102
+Jefferson, GA|2569
+Jefferson, IA|966
+Jefferson, ID|1777
+Jefferson, IL|1624
+Jefferson, IN|1708
+Jefferson, KS|1874
+Jefferson, KY|57
+Jefferson, LA|1197
+Jefferson, MO|194
+Jefferson, MS|2894
+Jefferson, MT|2000
+Jefferson, NE|2611
+Jefferson, NY|334
+Jefferson, OH|1442
+Jefferson, OK|2615
+Jefferson, OR|895
+Jefferson, PA|636
+Jefferson, TN|582
+Jefferson, TX|1238
+Jefferson, WA|793
+Jefferson, WI|423
+Jefferson, WV|566
+Jenkins County, GA|5967
+Jenkins, GA|2759
+Jennings County, IN|4826
+Jennings, IN|1744
+Jerauld County, SD|6139
+Jerome County, ID|4535
+Jerome, ID|1828
+Jersey County, IL|4529
+Jersey, IL|1825
+Jessamine County, KY|4068
+Jessamine, KY|607
+Jewell County, KS|5641
+Jewell, KS|3005
+Jim Hogg County, TX|6033
+Jim Hogg, TX|2935
+Jim Wells County, TX|5407
+Jim Wells, TX|2014
+Jo Daviess County, IL|4531
+Jo Daviess, IL|1826
+Johnson County, AR|4475
+Johnson County, GA|5932
+Johnson County, IA|3574
+Johnson County, IL|4943
+Johnson County, IN|3541
+Johnson County, KS|3219
+Johnson County, KY|4846
+Johnson County, MO|4014
+Johnson County, NE|5697
+Johnson County, TN|4610
+Johnson County, TX|3514
+Johnson County, WY|4971
+Johnson, AR|1791
+Johnson, GA|2745
+Johnson, IA|308
+Johnson, IL|2116
+Johnson, IN|1306
+Johnson, KS|1187
+Johnson, KY|2057
+Johnson, MO|1516
+Johnson, NE|2690
+Johnson, TN|1885
+Johnson, TX|276
+Johnson, WY|2388
+Johnston County, NC|3465
+Johnston County, OK|5745
+Johnston, NC|241
+Johnston, OK|1059
+Jones County, GA|4405
+Jones County, IA|4867
+Jones County, MS|3865
+Jones County, NC|4956
+Jones County, SD|6178
+Jones County, TX|5530
+Jones, GA|1743
+Jones, IA|2240
+Jones, MS|1450
+Jones, NC|1074
+Jones, TX|2497
+Josephine County, OR|3765
+Josephine, OR|428
+Juab County, UT|5562
+Juab, UT|2870
+Judith Basin County, MT|5651
+Judith Basin, MT|3044
+Juncos, PR|2455
+Juneau Borough, AK|4816
+Juneau County, WI|4446
+Juneau, AK|1720
+Juneau, WI|827
+Juniata County, PA|5059
+Juniata, PA|852
+Kalamazoo County, MI|3365
+Kalamazoo, MI|1239
+Kalkaska County, MI|4628
+Kalkaska, MI|1901
+Kanabec County, MN|4756
+Kanabec, MN|974
+Kanawha County, WV|3426
+Kanawha, WV|221
+Kandiyohi County, MN|4169
+Kandiyohi, MN|669
+Kane County, IL|3231
+Kane County, UT|4975
+Kane, IL|1190
+Kane, UT|2142
+Kankakee County, IL|3625
+Kankakee, IL|1339
+Karnes County, TX|5673
+Karnes, TX|2848
+Kauai County, HI|3869
+Kauai, HI|483
+Kaufman County, TX|3663
+Kaufman, TX|360
+Kay County, OK|4100
+Kay, OK|624
+Kearney County, NE|6001
+Kearney, NE|2614
+Kearny County, KS|5624
+Kearny, KS|2970
+Keith County, NE|5497
+Keith, NE|2397
+Kemper County, MS|5559
+Kemper, MS|2867
+Kenai Peninsula Borough, AK|3982
+Kenai Peninsula, AK|1501
+Kendall County, IL|3618
+Kendall County, TX|4329
+Kendall, IL|1337
+Kendall, TX|1689
+Kenedy County, TX|6195
+Kenedy, TX|3085
+Kennebec County, ME|3594
+Kennebec, ME|323
+Kenosha County, WI|3471
+Kenosha, WI|246
+Kent County, DE|3479
+Kent County, MD|4583
+Kent County, MI|3211
+Kent County, RI|3472
+Kent County, TX|6236
+Kent, DE|252
+Kent, MD|922
+Kent, MI|1184
+Kent, RI|247
+Kent, TX|3078
+Kenton County, KY|3489
+Kenton, KY|260
+Keokuk County, IA|5289
+Keokuk, IA|2351
+Kern County, CA|3171
+Kern, CA|44
+Kerr County, TX|4056
+Kerr, TX|1532
+Kershaw County, SC|3924
+Kershaw, SC|518
+Ketchikan Gateway Borough, AK|5234
+Ketchikan Gateway, AK|2313
+Kewaunee County, WI|4573
+Kewaunee, WI|917
+Keweenaw County, MI|5391
+Keweenaw, MI|2812
+Keya Paha County, NE|6234
+Keya Paha, NE|2828
+Kidder County, ND|6120
+Kimball County, NE|6075
+Kimball, NE|2630
+Kimble County, TX|5617
+Kimble, TX|2952
+King County, TX|6239
+King County, WA|3123
+King George County, VA|4515
+King George, VA|866
+King William County, VA|4650
+King William, VA|978
+King and Queen County, VA|5360
+King and Queen, VA|2769
+King, WA|11
+Kingfisher County, OK|5201
+Kingfisher, OK|998
+Kingman County, KS|5344
+Kingman, KS|2406
+Kings County, CA|3509
+Kings County, NY|3116
+Kings, CA|274
+Kings, NY|5
+Kingsbury County, SD|5851
+Kingsbury, SD|2939
+Kinney County, TX|5630
+Kinney, TX|2981
+Kiowa County, CO|6165
+Kiowa County, KS|5649
+Kiowa County, OK|5888
+Kiowa, CO|2824
+Kiowa, KS|3025
+Kiowa, OK|1081
+Kit Carson County, CO|5752
+Kit Carson, CO|2544
+Kitsap County, WA|3364
+Kitsap, WA|176
+Kittitas County, WA|4197
+Kittitas, WA|687
+Kittson County, MN|6050
+Kittson, MN|2954
+Klamath County, OR|3876
+Klamath, OR|489
+Kleberg County, TX|4809
+Kleberg, TX|2026
+Klickitat County, WA|4581
+Klickitat, WA|1862
+Knott County, KY|5897
+Knott, KY|2724
+Knox County, IL|4010
+Knox County, IN|4741
+Knox County, KY|4811
+Knox County, ME|4215
+Knox County, MO|6063
+Knox County, NE|5958
+Knox County, OH|3929
+Knox County, TN|3259
+Knox County, TX|6079
+Knox, IL|1513
+Knox, IN|705
+Knox, KY|2027
+Knox, ME|696
+Knox, MO|2966
+Knox, NE|2600
+Knox, OH|522
+Knox, TN|111
+Kodiak Island Borough, AK|5230
+Kodiak Island, AK|2524
+Koochiching County, MN|5238
+Koochiching, MN|2525
+Kootenai County, ID|3542
+Kootenai, ID|1307
+Kosciusko County, IN|3794
+Kosciusko, IN|1411
+Kossuth County, IA|5898
+Kossuth, IA|2638
+Kusilvak Borough, AK|6242
+La Crosse County, WI|3620
+La Crosse, WI|339
+La Paz County, AZ|4577
+La Paz, AZ|918
+La Plata County, CO|4033
+La Plata, CO|583
+La Porte County, IN|3630
+La Porte, IN|1342
+La Salle County, IL|3623
+La Salle County, TX|5757
+La Salle Parish, LA|5460
+La Salle, IL|1338
+La Salle, LA|2701
+La Salle, TX|2904
+LaSalle Parish, LA|5822
+Labette County, KS|4752
+Labette, KS|1843
+Lac Qui Parle County, MN|5504
+Lac Qui Parle, MN|1110
+Lackawanna County, PA|3392
+Lackawanna, PA|197
+Laclede County, MO|4290
+Laclede, MO|1663
+Lafayette County, AR|5977
+Lafayette County, FL|5492
+Lafayette County, MO|4330
+Lafayette County, MS|4087
+Lafayette County, WI|5448
+Lafayette Parish, LA|3385
+Lafayette, AR|1101
+Lafayette, FL|2465
+Lafayette, LA|1247
+Lafayette, MO|1690
+Lafayette, MS|1548
+Lafayette, WI|1905
+Lafourche Parish, LA|3698
+Lafourche, LA|1370
+Lagrange County, IN|4789
+Lagrange, IN|1640
+Lake County, CA|3893
+Lake County, CO|5354
+Lake County, FL|3321
+Lake County, IL|3193
+Lake County, IN|3238
+Lake County, MI|4699
+Lake County, MN|4705
+Lake County, MT|4402
+Lake County, OH|3381
+Lake County, OR|5970
+Lake County, SD|5921
+Lake County, TN|5975
+Lake and Peninsula Borough, AK|6159
+Lake of the Woods County, MN|6068
+Lake of the Woods, MN|2794
+Lake, CA|499
+Lake, CO|2466
+Lake, FL|1218
+Lake, IL|1177
+Lake, IN|95
+Lake, MI|1958
+Lake, MN|1061
+Lake, MT|1741
+Lake, OH|187
+Lake, OR|2404
+Lake, SD|2343
+Lake, TN|2407
+Lamar County, AL|5900
+Lamar County, GA|4608
+Lamar County, MS|3978
+Lamar County, TX|4051
+Lamar, AL|2729
+Lamar, GA|1884
+Lamar, MS|1498
+Lamar, TX|1529
+Lamb County, TX|5220
+Lamb, TX|2299
+Lamoille County, VT|4503
+Lamoille, VT|858
+Lamoure County, ND|5788
+Lamoure, ND|2964
+Lampasas County, TX|4592
+Lampasas, TX|1870
+Lancaster County, NE|3331
+Lancaster County, PA|3228
+Lancaster County, SC|3801
+Lancaster County, VA|4700
+Lancaster, NE|159
+Lancaster, PA|88
+Lancaster, SC|449
+Lancaster, VA|1050
+Lander County, NV|4984
+Lander, NV|1130
+Lane County, KS|5656
+Lane County, OR|3289
+Lane, KS|3056
+Lane, OR|133
+Langlade County, WI|5438
+Langlade, WI|1994
+Lanier County, GA|5298
+Lanier, GA|2129
+Lapeer County, MI|3739
+Lapeer, MI|1387
+Laramie County, WY|3721
+Laramie, WY|1379
+Larimer County, CO|3317
+Larimer, CO|151
+Larue County, KY|4926
+Larue, KY|2105
+Las Animas County, CO|4913
+Las Animas, CO|989
+Las Piedras, PR|2459
+Lassen County, CA|4799
+Lassen, CA|745
+Latah County, ID|4253
+Latah, ID|1638
+Latimer County, OK|5274
+Latimer, OK|1054
+Lauderdale County, AL|3716
+Lauderdale County, MS|3778
+Lauderdale County, TN|5037
+Lauderdale, AL|397
+Lauderdale, MS|1406
+Lauderdale, TN|2482
+Laurel County, KY|4774
+Laurel, KY|1980
+Laurens County, GA|4071
+Laurens County, SC|3873
+Laurens, GA|1539
+Laurens, SC|486
+Lavaca County, TX|5131
+Lavaca, TX|2249
+Lawrence County, AL|5015
+Lawrence County, AR|5444
+Lawrence County, IL|5865
+Lawrence County, IN|4106
+Lawrence County, KY|5672
+Lawrence County, MO|4230
+Lawrence County, MS|5544
+Lawrence County, OH|3916
+Lawrence County, PA|3722
+Lawrence County, SD|4509
+Lawrence County, TN|4181
+Lawrence, AL|752
+Lawrence, AR|958
+Lawrence, IL|2271
+Lawrence, IN|1557
+Lawrence, KY|2726
+Lawrence, MO|1627
+Lawrence, MS|2703
+Lawrence, OH|511
+Lawrence, PA|401
+Lawrence, SD|1814
+Lawrence, TN|1598
+Le Sueur County, MN|4428
+Le Sueur, MN|817
+LeFlore County, OK|4043
+LeFlore, OK|590
+Lea County, NM|5400
+Lea, NM|2165
+Leake County, MS|5067
+Leake, MS|2055
+Leavenworth County, KS|3805
+Leavenworth, KS|1417
+Lebanon County, PA|3562
+Lebanon, PA|303
+Lee County, AL|3538
+Lee County, AR|5849
+Lee County, FL|3209
+Lee County, GA|4416
+Lee County, IA|4743
+Lee County, IL|5011
+Lee County, KY|5971
+Lee County, MS|3760
+Lee County, NC|3958
+Lee County, SC|5776
+Lee County, TX|5176
+Lee County, VA|5396
+Lee, AL|289
+Lee, AR|2590
+Lee, FL|1183
+Lee, GA|1750
+Lee, IA|739
+Lee, IL|1654
+Lee, KY|2762
+Lee, MS|1395
+Lee, NC|541
+Lee, SC|2721
+Lee, TX|2505
+Lee, VA|839
+Leelanau County, MI|4549
+Leelanau, MI|1839
+Leflore County, MS|4807
+Leflore, MS|2180
+Lehigh County, PA|3292
+Lehigh, PA|136
+Lemhi County, ID|4719
+Lemhi, ID|1974
+Lenawee County, MI|3679
+Lenawee, MI|1364
+Lenoir County, NC|3945
+Lenoir, NC|533
+Leon County, FL|3338
+Leon County, TX|5170
+Leon, FL|1226
+Leon, TX|2088
+Leslie County, KY|5919
+Leslie, KY|2736
+Letcher County, KY|5062
+Letcher, KY|2716
+Levy County, FL|4200
+Levy, FL|1606
+Lewis County, ID|5386
+Lewis County, KY|5225
+Lewis County, MO|5930
+Lewis County, NY|4836
+Lewis County, TN|5258
+Lewis County, WA|3809
+Lewis County, WV|4904
+Lewis and Clark County, MT|3907
+Lewis and Clark, MT|1471
+Lewis, ID|2713
+Lewis, KY|2523
+Lewis, MO|3095
+Lewis, NY|823
+Lewis, TN|3094
+Lewis, WA|453
+Lewis, WV|1915
+Lexington City, VA|1112
+Lexington County, SC|3354
+Lexington County, VA|5831
+Lexington, SC|169
+Liberty County, FL|5965
+Liberty County, GA|3906
+Liberty County, MT|6129
+Liberty County, TX|4771
+Liberty, FL|2758
+Liberty, GA|1470
+Liberty, MT|3036
+Liberty, TX|1420
+Licking County, OH|3470
+Licking, OH|245
+Limestone County, AL|3763
+Limestone County, TX|4522
+Limestone, AL|1397
+Limestone, TX|1822
+Lincoln County, AR|5901
+Lincoln County, CO|6028
+Lincoln County, GA|5499
+Lincoln County, ID|5610
+Lincoln County, KS|5638
+Lincoln County, KY|4496
+Lincoln County, ME|4313
+Lincoln County, MN|6016
+Lincoln County, MO|4016
+Lincoln County, MS|5012
+Lincoln County, MT|4591
+Lincoln County, NC|3787
+Lincoln County, NE|4277
+Lincoln County, NM|4576
+Lincoln County, NV|5763
+Lincoln County, OK|4315
+Lincoln County, OR|4108
+Lincoln County, SD|4132
+Lincoln County, TN|4331
+Lincoln County, WA|5287
+Lincoln County, WI|4403
+Lincoln County, WV|5099
+Lincoln County, WY|4755
+Lincoln Parish, LA|4779
+Lincoln, AR|1012
+Lincoln, CO|2621
+Lincoln, GA|2140
+Lincoln, ID|2937
+Lincoln, KS|2998
+Lincoln, KY|1805
+Lincoln, LA|2169
+Lincoln, ME|750
+Lincoln, MN|2657
+Lincoln, MO|571
+Lincoln, MS|2694
+Lincoln, MT|1869
+Lincoln, NC|440
+Lincoln, NE|734
+Lincoln, NM|1859
+Lincoln, NV|1134
+Lincoln, OK|753
+Lincoln, OR|628
+Lincoln, SD|1570
+Lincoln, TN|1691
+Lincoln, WA|2533
+Lincoln, WI|803
+Lincoln, WV|2227
+Lincoln, WY|1889
+Linn County, IA|3395
+Linn County, KS|4960
+Linn County, MO|5472
+Linn County, OR|3612
+Linn, IA|1249
+Linn, KS|2133
+Linn, MO|2321
+Linn, OR|332
+Lipscomb County, TX|6092
+Lipscomb, TX|2997
+Litchfield County, CT|3430
+Litchfield, CT|222
+Little River County, AR|5240
+Little River, AR|1032
+Live Oak County, TX|5267
+Live Oak, TX|2337
+Livingston County, IL|5412
+Livingston County, KY|4962
+Livingston County, MI|3442
+Livingston County, MO|4916
+Livingston County, NY|3887
+Livingston Parish, LA|3579
+Livingston, IL|1984
+Livingston, KY|2365
+Livingston, LA|1324
+Livingston, MI|1266
+Livingston, MO|2098
+Livingston, NY|495
+Llano County, TX|4593
+Llano, TX|1871
+Logan County, AR|4537
+Logan County, CO|5431
+Logan County, IL|4378
+Logan County, KS|6110
+Logan County, KY|4444
+Logan County, ND|6145
+Logan County, NE|6186
+Logan County, OH|4114
+Logan County, OK|4182
+Logan County, WV|4794
+Logan, AR|1829
+Logan, CO|878
+Logan, IL|1727
+Logan, KS|3018
+Logan, KY|1769
+Logan, ND|3048
+Logan, NE|2830
+Logan, OH|632
+Logan, OK|675
+Logan, WV|2020
+Long County, GA|4922
+Long, GA|1936
+Lonoke County, AR|3862
+Lonoke, AR|480
+Lorain County, OH|3316
+Lorain, OH|150
+Los Alamos County, NM|4884
+Los Alamos, NM|2261
+Los Angeles County, CA|3110
+Los Angeles, CA|1
+Loudon County, TN|4069
+Loudon, TN|608
+Loudoun County, VA|3309
+Loudoun, VA|146
+Louisa County, IA|5270
+Louisa County, VA|4336
+Louisa, IA|1051
+Louisa, VA|762
+Loup County, NE|6217
+Love County, OK|4964
+Love, OK|1082
+Loving County, TX|6240
+Lowndes County, AL|5854
+Lowndes County, GA|3638
+Lowndes County, MS|3941
+Lowndes, AL|2737
+Lowndes, GA|1350
+Lowndes, MS|1481
+Lubbock County, TX|3336
+Lubbock, TX|1224
+Lucas County, IA|5661
+Lucas County, OH|3254
+Lucas, IA|2755
+Lucas, OH|107
+Luce County, MI|5998
+Luce, MI|2550
+Lumpkin County, GA|4383
+Lumpkin, GA|1730
+Luna County, NM|4488
+Luna, NM|1799
+Lunenburg County, VA|4937
+Lunenburg, VA|1034
+Luquillo, PR|2457
+Luzerne County, PA|3304
+Luzerne, PA|141
+Lycoming County, PA|3615
+Lycoming, PA|335
+Lyman County, SD|6078
+Lynchburg City, VA|452
+Lynchburg County, VA|5803
+Lynn County, TX|5603
+Lynn, TX|2922
+Lyon County, IA|5915
+Lyon County, KS|4324
+Lyon County, KY|4972
+Lyon County, MN|5425
+Lyon County, NV|4027
+Lyon, IA|2644
+Lyon, KS|1685
+Lyon, KY|1973
+Lyon, MN|2485
+Lyon, NV|578
+Mackinac County, MI|4702
+Mackinac, MI|1959
+Macomb County, MI|3170
+Macomb, MI|1173
+Macon County, AL|5838
+Macon County, GA|5735
+Macon County, IL|3633
+Macon County, MO|4912
+Macon County, NC|4320
+Macon County, TN|5087
+Macon, AL|2231
+Macon, GA|2292
+Macon, IL|1345
+Macon, MO|2096
+Macon, NC|755
+Macon, TN|890
+Macoupin County, IL|4076
+Macoupin, IL|1542
+Madera County, CA|3515
+Madera, CA|277
+Madison County, AL|3298
+Madison County, AR|5189
+Madison County, FL|5132
+Madison County, GA|4420
+Madison County, IA|4656
+Madison County, ID|4250
+Madison County, IL|3346
+Madison County, IN|3565
+Madison County, KY|3759
+Madison County, MO|5256
+Madison County, MS|3704
+Madison County, MT|4720
+Madison County, NC|4569
+Madison County, NE|4305
+Madison County, NY|3827
+Madison County, OH|4154
+Madison County, TN|3691
+Madison County, TX|5542
+Madison County, VA|4936
+Madison Parish, LA|5677
+Madison, AL|138
+Madison, AR|986
+Madison, FL|2074
+Madison, GA|1754
+Madison, IA|987
+Madison, ID|1637
+Madison, IL|1230
+Madison, IN|1317
+Madison, KY|426
+Madison, LA|2704
+Madison, MO|1952
+Madison, MS|1373
+Madison, MT|1975
+Madison, NC|913
+Madison, NE|746
+Madison, NY|463
+Madison, OH|658
+Madison, TN|381
+Madison, TX|2307
+Madison, VA|1028
+Magoffin County, KY|5908
+Magoffin, KY|2857
+Mahaska County, IA|4534
+Mahaska, IA|885
+Mahnomen County, MN|5879
+Mahnomen, MN|2932
+Mahoning County, OH|3372
+Mahoning, OH|181
+Major County, OK|5981
+Major, OK|1102
+Malheur County, OR|4368
+Malheur, OR|785
+Manassas City, VA|712
+Manassas County, VA|5828
+Manassas Park City, VA|1006
+Manassas Park County, VA|5816
+Manatee County, FL|3302
+Manatee, FL|1211
+Manistee County, MI|4497
+Manistee, MI|1806
+Manitowoc County, WI|3771
+Manitowoc, WI|431
+Marathon County, WI|3560
+Marathon, WI|302
+Marengo County, AL|5111
+Marengo, AL|901
+Maricopa County, AZ|3113
+Maricopa, AZ|2
+Maries County, MO|5316
+Maries, MO|2374
+Marin County, CA|3361
+Marin, CA|174
+Marinette County, WI|4183
+Marinette, WI|676
+Marion County, AL|5024
+Marion County, AR|4638
+Marion County, FL|3299
+Marion County, GA|5955
+Marion County, IA|4332
+Marion County, IL|5411
+Marion County, IN|3164
+Marion County, KS|4940
+Marion County, KY|5125
+Marion County, MO|4401
+Marion County, MS|5043
+Marion County, OH|3874
+Marion County, OR|3307
+Marion County, SC|4341
+Marion County, TN|4418
+Marion County, TX|5288
+Marion County, WV|3970
+Marion, AL|789
+Marion, AR|1909
+Marion, FL|1210
+Marion, GA|2756
+Marion, IA|760
+Marion, IL|2476
+Marion, IN|1171
+Marion, KS|2323
+Marion, KY|929
+Marion, MO|1739
+Marion, MS|2195
+Marion, OH|487
+Marion, OR|145
+Marion, SC|1696
+Marion, TN|1752
+Marion, TX|2350
+Marion, WV|1494
+Mariposa County, CA|4609
+Mariposa, CA|945
+Marlboro County, SC|5774
+Marlboro, SC|2188
+Marquette County, MI|3870
+Marquette County, WI|4661
+Marquette, MI|1453
+Marquette, WI|992
+Marshall County, AL|3715
+Marshall County, IA|4203
+Marshall County, IL|5247
+Marshall County, IN|4090
+Marshall County, KS|5564
+Marshall County, KY|4815
+Marshall County, MN|5939
+Marshall County, MS|5007
+Marshall County, OK|4910
+Marshall County, SD|6049
+Marshall County, TN|4376
+Marshall County, WV|4804
+Marshall, AL|396
+Marshall, IA|1608
+Marshall, IL|2324
+Marshall, IN|1551
+Marshall, KS|2874
+Marshall, KY|1719
+Marshall, MN|2593
+Marshall, MS|2174
+Marshall, OK|983
+Marshall, TN|1725
+Marshall, WV|766
+Martin County, FL|3528
+Martin County, IN|5293
+Martin County, KY|5909
+Martin County, MN|4567
+Martin County, NC|5775
+Martin County, TX|6046
+Martin, FL|1297
+Martin, IN|2352
+Martin, KY|2731
+Martin, MN|911
+Martin, NC|2051
+Martin, TX|2950
+Martinsville City, VA|1020
+Martinsville County, VA|5830
+Mason County, IL|5461
+Mason County, KY|4890
+Mason County, MI|4404
+Mason County, TX|6070
+Mason County, WA|3930
+Mason County, WV|4434
+Mason, IL|2639
+Mason, KY|2083
+Mason, MI|1742
+Mason, TX|2969
+Mason, WA|523
+Mason, WV|1763
+Massac County, IL|5195
+Massac, IL|2514
+Matagorda County, TX|4268
+Matagorda, TX|1645
+Matanuska Susitna Borough, AK|3733
+Matanuska Susitna, AK|1386
+Mathews County, VA|4968
+Mathews, VA|1089
+Maui County, HI|3503
+Maui, HI|269
+Maury County, TN|3775
+Maury, TN|1404
+Maverick County, TX|4776
+Maverick, TX|2167
+Mayaguez, PR|2156
+Mayes County, OK|4192
+Mayes, OK|683
+McClain County, OK|4312
+McClain, OK|748
+McCone County, MT|6155
+McCone, MT|3058
+McCook County, SD|6023
+McCook, SD|2929
+McCormick County, SC|4710
+McCormick, SC|1072
+McCracken County, KY|3885
+McCracken, KY|1460
+McCreary County, KY|5880
+McCreary, KY|2500
+McCulloch County, TX|5337
+McCulloch, TX|2399
+McCurtain County, OK|5526
+McCurtain, OK|763
+McDonald County, MO|4528
+McDonald, MO|2215
+McDonough County, IL|4746
+McDonough, IL|2179
+McDowell County, NC|4127
+McDowell County, WV|6196
+McDowell, NC|640
+McDowell, WV|2719
+McDuffie County, GA|5096
+McDuffie, GA|1838
+McHenry County, IL|3312
+McHenry County, ND|5689
+McHenry, IL|1215
+McHenry, ND|2710
+McIntosh County, GA|4923
+McIntosh County, ND|6109
+McIntosh County, OK|4582
+McIntosh, GA|2104
+McIntosh, ND|3016
+McIntosh, OK|920
+McKean County, PA|4998
+McKean, PA|656
+McKenzie County, ND|4982
+McKenzie, ND|2145
+McKinley County, NM|5399
+McKinley, NM|2164
+McLean County, IL|3463
+McLean County, KY|5876
+McLean County, ND|5320
+McLean, IL|1277
+McLean, KY|2748
+McLean, ND|2681
+McLennan County, TX|3376
+McLennan, TX|1243
+McLeod County, MN|4270
+McLeod, MN|731
+McMinn County, TN|4022
+McMinn, TN|1520
+McMullen County, TX|6187
+McMullen, TX|3081
+McNairy County, TN|4460
+McNairy, TN|1779
+McPherson County, KS|4748
+McPherson County, NE|6192
+McPherson County, SD|6119
+McPherson, KS|2033
+McPherson, NE|2836
+McPherson, SD|3030
+Meade County, KS|5618
+Meade County, KY|4407
+Meade County, SD|4480
+Meade, KS|2953
+Meade, KY|806
+Meade, SD|1794
+Meagher County, MT|5521
+Meagher, MT|3052
+Mecklenburg County, NC|3158
+Mecklenburg County, VA|4353
+Mecklenburg, NC|36
+Mecklenburg, VA|773
+Mecosta County, MI|4161
+Mecosta, MI|1586
+Medina County, OH|3458
+Medina County, TX|4109
+Medina, OH|238
+Medina, TX|1559
+Meeker County, MN|5075
+Meeker, MN|872
+Meigs County, OH|5730
+Meigs County, TN|4697
+Meigs, OH|2211
+Meigs, TN|1956
+Mellette County, SD|6226
+Menard County, IL|5843
+Menard County, TX|6133
+Menard, IL|2641
+Menard, TX|3038
+Mendocino County, CA|3741
+Mendocino, CA|414
+Menifee County, KY|5368
+Menifee, KY|2429
+Menominee County, MI|5522
+Menominee County, WI|6060
+Menominee, MI|2207
+Menominee, WI|2444
+Merced County, CA|3357
+Merced, CA|171
+Mercer County, IL|5450
+Mercer County, KY|4559
+Mercer County, MO|5627
+Mercer County, ND|5496
+Mercer County, NJ|3285
+Mercer County, OH|4199
+Mercer County, PA|3613
+Mercer County, WV|3918
+Mercer, IL|2507
+Mercer, KY|1850
+Mercer, MO|2976
+Mercer, ND|2396
+Mercer, NJ|130
+Mercer, OH|688
+Mercer, PA|333
+Mercer, WV|1475
+Meriwether County, GA|4546
+Meriwether, GA|1836
+Merrick County, NE|5974
+Merrick, NE|1100
+Merrimack County, NH|3527
+Merrimack, NH|1296
+Mesa County, CO|3525
+Mesa, CO|284
+Metcalfe County, KY|5483
+Metcalfe, KY|2356
+Miami County, IN|4791
+Miami County, KS|4349
+Miami County, OH|3665
+Miami, IN|2018
+Miami, KS|1703
+Miami, OH|361
+Miami-Dade County, FL|3117
+Miami-Dade, FL|1158
+Middlesex County, CT|3473
+Middlesex County, MA|3132
+Middlesex County, NJ|3173
+Middlesex County, VA|4703
+Middlesex, CT|248
+Middlesex, MA|17
+Middlesex, NJ|46
+Middlesex, VA|1058
+Midland County, MI|3755
+Midland County, TX|3550
+Midland, MI|1393
+Midland, TX|1312
+Mifflin County, PA|4098
+Mifflin, PA|623
+Milam County, TX|5057
+Milam, TX|2203
+Millard County, UT|6198
+Millard, UT|2326
+Mille Lacs County, MN|4458
+Mille Lacs, MN|833
+Miller County, AR|4997
+Miller County, GA|6011
+Miller County, MO|4495
+Miller, AR|655
+Miller, GA|2617
+Miller, MO|1804
+Mills County, IA|5199
+Mills County, TX|6039
+Mills, IA|996
+Mills, TX|2942
+Milwaukee County, WI|3154
+Milwaukee, WI|33
+Miner County, SD|6124
+Mineral County, CO|5393
+Mineral County, MT|5385
+Mineral County, NV|6047
+Mineral County, WV|4829
+Mineral, CO|2454
+Mineral, MT|2445
+Mineral, NV|2440
+Mineral, WV|2038
+Mingo County, WV|5044
+Mingo, WV|2196
+Minidoka County, ID|5121
+Minidoka, ID|2242
+Minnehaha County, SD|3464
+Minnehaha, SD|1278
+Missaukee County, MI|4670
+Missaukee, MI|1933
+Mississippi County, AR|5404
+Mississippi County, MO|5883
+Mississippi, AR|2011
+Mississippi, MO|2521
+Missoula County, MT|3637
+Missoula, MT|1349
+Mitchell County, GA|5071
+Mitchell County, IA|5281
+Mitchell County, KS|5596
+Mitchell County, NC|4658
+Mitchell County, TX|5310
+Mitchell, GA|2213
+Mitchell, IA|2588
+Mitchell, KS|2913
+Mitchell, NC|1924
+Mitchell, TX|2368
+Mobile County, AL|3269
+Mobile, AL|118
+Modoc County, CA|4959
+Modoc, CA|1077
+Moffat County, CO|4684
+Moffat, CO|1022
+Mohave County, AZ|3414
+Mohave, AZ|213
+Moniteau County, MO|5191
+Moniteau, MO|2845
+Monmouth County, NJ|3204
+Monmouth, NJ|68
+Mono County, CA|4676
+Mono, CA|1008
+Monona County, IA|5944
+Monona, IA|2749
+Monongalia County, WV|3700
+Monongalia, WV|386
+Monroe County, AL|5077
+Monroe County, AR|5968
+Monroe County, FL|3829
+Monroe County, GA|4452
+Monroe County, IA|5969
+Monroe County, IL|4343
+Monroe County, IN|3547
+Monroe County, KY|5744
+Monroe County, MI|3511
+Monroe County, MO|5954
+Monroe County, MS|5009
+Monroe County, NY|3185
+Monroe County, OH|5736
+Monroe County, PA|3462
+Monroe County, TN|4136
+Monroe County, WI|4135
+Monroe County, WV|4934
+Monroe, AL|2717
+Monroe, AR|2607
+Monroe, FL|1431
+Monroe, GA|1773
+Monroe, IA|2608
+Monroe, IL|1698
+Monroe, IN|1310
+Monroe, KY|2740
+Monroe, MI|1290
+Monroe, MO|2382
+Monroe, MS|2477
+Monroe, NY|55
+Monroe, OH|2293
+Monroe, PA|240
+Monroe, TN|1573
+Monroe, WI|643
+Monroe, WV|2311
+Montague County, TX|5127
+Montague, TX|2072
+Montcalm County, MI|3908
+Montcalm, MI|1472
+Monterey County, CA|3267
+Monterey, CA|116
+Montezuma County, CO|4476
+Montezuma, CO|840
+Montgomery County, AL|3382
+Montgomery County, AR|5309
+Montgomery County, GA|5318
+Montgomery County, IA|5480
+Montgomery County, IL|4380
+Montgomery County, IN|4237
+Montgomery County, KS|4293
+Montgomery County, KY|4449
+Montgomery County, MD|3151
+Montgomery County, MO|5910
+Montgomery County, MS|5555
+Montgomery County, NC|4425
+Montgomery County, NY|4045
+Montgomery County, OH|3225
+Montgomery County, PA|3179
+Montgomery County, TN|3459
+Montgomery County, TX|3250
+Montgomery County, VA|3708
+Montgomery, AL|188
+Montgomery, AR|1080
+Montgomery, GA|2751
+Montgomery, IA|1064
+Montgomery, IL|1729
+Montgomery, IN|1630
+Montgomery, KS|1666
+Montgomery, KY|1772
+Montgomery, MD|30
+Montgomery, MO|2117
+Montgomery, MS|2865
+Montgomery, NC|815
+Montgomery, NY|592
+Montgomery, OH|85
+Montgomery, PA|50
+Montgomery, TN|1275
+Montgomery, TX|1195
+Montgomery, VA|1375
+Montmorency County, MI|4715
+Montmorency, MI|1968
+Montour County, PA|4880
+Montour, PA|944
+Montrose County, CO|4191
+Montrose, CO|682
+Moody County, SD|6002
+Moody, SD|2909
+Moore County, NC|3740
+Moore County, TN|5367
+Moore County, TX|5095
+Moore, NC|413
+Moore, TN|3089
+Moore, TX|2840
+Mora County, NM|6042
+Mora, NM|2946
+Morehouse Parish, LA|4831
+Morehouse, LA|2039
+Morgan County, AL|3601
+Morgan County, CO|5034
+Morgan County, GA|4615
+Morgan County, IL|4291
+Morgan County, IN|3857
+Morgan County, KY|5223
+Morgan County, MO|4574
+Morgan County, OH|5200
+Morgan County, TN|5094
+Morgan County, UT|5488
+Morgan County, WV|4619
+Morgan, AL|325
+Morgan, CO|813
+Morgan, GA|1892
+Morgan, IL|1664
+Morgan, IN|1446
+Morgan, KY|2577
+Morgan, MO|1857
+Morgan, OH|997
+Morgan, TN|1837
+Morgan, UT|2539
+Morgan, WV|1895
+Morrill County, NE|5612
+Morrill, NE|2625
+Morris County, KS|5512
+Morris County, NJ|3241
+Morris County, TX|5242
+Morris, KS|2436
+Morris, NJ|97
+Morris, TX|2317
+Morrison County, MN|4334
+Morrison, MN|1693
+Morrow County, OH|4308
+Morrow County, OR|5523
+Morrow, OH|1675
+Morrow, OR|1052
+Morton County, KS|5639
+Morton County, ND|5422
+Morton, KS|2999
+Morton, ND|2483
+Motley County, TX|6232
+Moultrie County, IL|4919
+Moultrie, IL|2100
+Mountrail County, ND|5502
+Mountrail, ND|2412
+Mower County, MN|4739
+Mower, MN|700
+Muhlenberg County, KY|5023
+Muhlenberg, KY|2480
+Multnomah County, OR|3188
+Multnomah, OR|58
+Murray County, GA|5005
+Murray County, MN|5956
+Murray County, OK|4759
+Murray, GA|1616
+Murray, MN|2385
+Murray, OK|1026
+Muscatine County, IA|4999
+Muscatine, IA|662
+Muscogee County, GA|3431
+Muscogee, GA|1262
+Muskegon County, MI|3460
+Muskegon, MI|1276
+Muskingum County, OH|3749
+Muskingum, OH|419
+Muskogee County, OK|3841
+Muskogee, OK|470
+Musselshell County, MT|5619
+Musselshell, MT|2956
+Nacogdoches County, TX|3894
+Nacogdoches, TX|1463
+Naguabo, PR|2561
+Nance County, NE|5767
+Nance, NE|1145
+Nantucket County, MA|4711
+Nantucket, MA|1073
+Napa County, CA|3553
+Napa, CA|297
+Nash County, NC|3702
+Nash, NC|388
+Nassau County, FL|3828
+Nassau County, NY|3136
+Nassau, FL|1429
+Nassau, NY|21
+Natchitoches Parish, LA|5409
+Natchitoches, LA|2475
+Natrona County, WY|3810
+Natrona, WY|1421
+Navajo County, AZ|3649
+Navajo, AZ|351
+Navarro County, TX|4079
+Navarro, TX|1544
+Nelson County, KY|4153
+Nelson County, ND|6100
+Nelson County, VA|4667
+Nelson, KY|657
+Nelson, ND|3002
+Nelson, VA|999
+Nemaha County, KS|5563
+Nemaha County, NE|5988
+Nemaha, KS|2872
+Nemaha, NE|2141
+Neosho County, KS|4901
+Neosho, KS|2090
+Neshoba County, MS|5028
+Neshoba, MS|2186
+Ness County, KS|5640
+Ness, KS|3003
+Nevada County, AR|5952
+Nevada County, CA|3688
+Nevada, AR|1088
+Nevada, CA|378
+New Castle County, DE|3222
+New Castle, DE|82
+New Hanover County, NC|3406
+New Hanover, NC|207
+New Haven County, CT|3169
+New Haven, CT|43
+New Kent County, VA|4605
+New Kent, VA|941
+New London County, CT|3342
+New London, CT|164
+New Madrid County, MO|5531
+New Madrid, MO|3102
+New York County, NY|3129
+New York, NY|14
+Newaygo County, MI|4070
+Newaygo, MI|1538
+Newberry County, SC|4251
+Newberry, SC|718
+Newport County, RI|3761
+Newport News City, VA|230
+Newport News County, VA|5799
+Newport, RI|427
+Newton County, AR|5336
+Newton County, GA|3678
+Newton County, IN|4925
+Newton County, MO|3956
+Newton County, MS|5528
+Newton County, TX|5464
+Newton, AR|2398
+Newton, GA|1363
+Newton, IN|1007
+Newton, MO|1487
+Newton, MS|2665
+Newton, TX|2297
+Nez Perce County, ID|4220
+Nez Perce, ID|1621
+Niagara County, NY|3390
+Niagara, NY|195
+Nicholas County, KY|5356
+Nicholas County, WV|4837
+Nicholas, KY|2419
+Nicholas, WV|2046
+Nicollet County, MN|4352
+Nicollet, MN|772
+Niobrara County, WY|6116
+Niobrara, WY|3027
+Noble County, IN|4083
+Noble County, OH|5778
+Noble County, OK|5266
+Noble, IN|1547
+Noble, OH|2518
+Noble, OK|1048
+Nobles County, MN|5105
+Nobles, MN|2233
+Nodaway County, MO|4845
+Nodaway, MO|2162
+Nolan County, TX|5196
+Nolan, TX|2286
+Nome Borough, AK|5938
+Nome, AK|2879
+Norfolk City, VA|180
+Norfolk County, MA|3199
+Norfolk County, VA|5797
+Norfolk, MA|64
+Norman County, MN|5874
+Norman, MN|2654
+North Slope Borough, AK|5940
+Northampton County, NC|4543
+Northampton County, PA|3318
+Northampton County, VA|4692
+Northampton, NC|1833
+Northampton, PA|152
+Northampton, VA|1039
+Northumberland County, PA|3707
+Northumberland County, VA|4693
+Northumberland, PA|391
+Northumberland, VA|1951
+Northwest Arctic Borough, AK|5982
+Norton City, VA|2447
+Norton County, KS|5608
+Norton County, VA|5833
+Norton, KS|2928
+Nottoway County, VA|5455
+Nottoway, VA|2512
+Nowata County, OK|5722
+Nowata, OK|1068
+Noxubee County, MS|5916
+Noxubee, MS|2862
+Nuckolls County, NE|5620
+Nuckolls, NE|1138
+Nueces County, TX|3296
+Nueces, TX|1208
+Nye County, NV|4145
+Nye, NV|649
+O Brien County, IA|5540
+O Brien, IA|2640
+Oakland County, MI|3141
+Oakland, MI|1164
+Obion County, TN|4367
+Obion, TN|1716
+Ocean County, NJ|3215
+Ocean, NJ|77
+Oceana County, MI|4448
+Oceana, MI|1771
+Ochiltree County, TX|5295
+Ochiltree, TX|2871
+Oconee County, GA|4348
+Oconee County, SC|3822
+Oconee, GA|1702
+Oconee, SC|459
+Oconto County, WI|4247
+Oconto, WI|1636
+Ogemaw County, MI|4550
+Ogemaw, MI|1840
+Oglala Lakota County, SD|6241
+Ogle County, IL|4004
+Ogle, IL|1510
+Oglethorpe County, GA|4669
+Oglethorpe, GA|1932
+Ohio County, IN|5598
+Ohio County, KY|5066
+Ohio County, WV|4735
+Ohio, IN|1126
+Ohio, KY|2054
+Ohio, WV|2171
+Okaloosa County, FL|3443
+Okaloosa, FL|1267
+Okanogan County, WA|4194
+Okanogan, WA|685
+Okeechobee County, FL|4213
+Okeechobee, FL|1614
+Okfuskee County, OK|5911
+Okfuskee, OK|1043
+Oklahoma County, OK|3190
+Oklahoma, OK|60
+Okmulgee County, OK|4212
+Okmulgee, OK|694
+Oktibbeha County, MS|4081
+Oktibbeha, MS|1546
+Oldham County, KY|3935
+Oldham County, TX|6141
+Oldham, KY|527
+Oliver County, ND|6150
+Oliver, ND|3054
+Olmsted County, MN|3531
+Olmsted, MN|287
+Oneida County, ID|5622
+Oneida County, NY|3377
+Oneida County, WI|4281
+Oneida, ID|2960
+Oneida, NY|185
+Oneida, WI|1655
+Onondaga County, NY|3247
+Onondaga, NY|102
+Onslow County, NC|3449
+Onslow, NC|1271
+Ontario County, NY|3641
+Ontario, NY|346
+Ontonagon County, MI|5364
+Ontonagon, MI|2773
+Orange County, CA|3115
+Orange County, FL|3144
+Orange County, IN|4870
+Orange County, NC|3561
+Orange County, NY|3283
+Orange County, TX|3768
+Orange County, VA|4326
+Orange County, VT|4397
+Orange, CA|4
+Orange, FL|1165
+Orange, IN|1995
+Orange, NC|1315
+Orange, NY|128
+Orange, TX|1400
+Orange, VA|758
+Orange, VT|799
+Orangeburg County, SC|3719
+Orangeburg, SC|399
+Oregon County, MO|4765
+Oregon, MO|2127
+Orleans County, NY|4160
+Orleans County, VT|4436
+Orleans Parish, LA|3295
+Orleans, LA|1207
+Orleans, NY|661
+Orleans, VT|822
+Osage County, KS|4905
+Osage County, MO|5541
+Osage County, OK|4084
+Osage, KS|2092
+Osage, MO|2303
+Osage, OK|613
+Osborne County, KS|5625
+Osborne, KS|2972
+Osceola County, FL|3347
+Osceola County, IA|6003
+Osceola County, MI|4519
+Osceola, FL|1231
+Osceola, IA|2655
+Osceola, MI|1820
+Oscoda County, MI|4718
+Oscoda, MI|1972
+Oswego County, NY|3595
+Oswego, NY|324
+Otero County, CO|5137
+Otero County, NM|3902
+Otero, CO|936
+Otero, NM|1468
+Otoe County, NE|5188
+Otoe, NE|985
+Otsego County, MI|4507
+Otsego County, NY|3919
+Otsego, MI|1812
+Otsego, NY|513
+Ottawa County, KS|5702
+Ottawa County, MI|3352
+Ottawa County, OH|4189
+Ottawa County, OK|4365
+Ottawa, KS|2433
+Ottawa, MI|1235
+Ottawa, OH|681
+Ottawa, OK|782
+Otter Tail County, MN|3963
+Otter Tail, MN|1491
+Ouachita County, AR|5048
+Ouachita Parish, LA|3508
+Ouachita, AR|832
+Ouachita, LA|1289
+Ouray County, CO|4726
+Ouray, CO|1139
+Outagamie County, WI|3451
+Outagamie, WI|234
+Overton County, TN|4545
+Overton, TN|1835
+Owen County, IN|4553
+Owen County, KY|5279
+Owen, IN|1845
+Owen, KY|1063
+Owsley County, KY|6048
+Owyhee County, ID|5268
+Owyhee, ID|2338
+Oxford County, ME|3959
+Oxford, ME|542
+Ozark County, MO|5302
+Ozark, MO|2132
+Ozaukee County, WI|3747
+Ozaukee, WI|417
+Pacific County, WA|4564
+Pacific, WA|908
+Page County, IA|4909
+Page County, VA|4510
+Page, IA|979
+Page, VA|1815
+Palm Beach County, FL|3137
+Palm Beach, FL|1162
+Palo Alto County, IA|5941
+Palo Alto, IA|2594
+Palo Pinto County, TX|4421
+Palo Pinto, TX|1755
+Pamlico County, NC|4690
+Pamlico, NC|1948
+Panola County, MS|4309
+Panola County, TX|5068
+Panola, MS|1676
+Panola, TX|2208
+Park County, CO|4645
+Park County, MT|4657
+Park County, WY|4419
+Park, CO|975
+Park, MT|1923
+Park, WY|1753
+Parke County, IN|5161
+Parke, IN|2084
+Parker County, TX|3609
+Parker, TX|330
+Parmer County, TX|5560
+Parmer, TX|2869
+Pasco County, FL|3248
+Pasco, FL|1194
+Pasquotank County, NC|4202
+Pasquotank, NC|689
+Passaic County, NJ|3235
+Passaic, NJ|93
+Patrick County, VA|4604
+Patrick, VA|940
+Paulding County, GA|3534
+Paulding County, OH|4871
+Paulding, GA|1300
+Paulding, OH|930
+Pawnee County, KS|4979
+Pawnee County, NE|5890
+Pawnee County, OK|4899
+Pawnee, KS|2423
+Pawnee, NE|2807
+Pawnee, OK|2273
+Payette County, ID|4533
+Payette, ID|1827
+Payne County, OK|3795
+Payne, OK|446
+Peach County, GA|4429
+Peach, GA|1760
+Pearl River County, MS|3975
+Pearl River, MS|1496
+Pecos County, TX|5192
+Pecos, TX|2284
+Pembina County, ND|5711
+Pembina, ND|2896
+Pemiscot County, MO|5148
+Pemiscot, MO|2258
+Pend Oreille County, WA|4691
+Pend Oreille, WA|1033
+Pender County, NC|4025
+Pender, NC|576
+Pendleton County, KY|5205
+Pendleton County, WV|5500
+Pendleton, KY|2575
+Pendleton, WV|2411
+Pennington County, MN|5467
+Pennington County, SD|3676
+Pennington, MN|1018
+Pennington, SD|1361
+Penobscot County, ME|3507
+Penobscot, ME|273
+Peoria County, IL|3435
+Peoria, IL|1265
+Pepin County, WI|5503
+Pepin, WI|2415
+Perkins County, NE|6105
+Perkins County, SD|5790
+Perkins, NE|2805
+Perkins, SD|3011
+Perquimans County, NC|4686
+Perquimans, NC|1944
+Perry County, AL|5927
+Perry County, AR|5292
+Perry County, IL|5433
+Perry County, IN|4872
+Perry County, KY|4825
+Perry County, MO|4599
+Perry County, MS|5550
+Perry County, OH|4797
+Perry County, PA|4110
+Perry County, TN|5753
+Perry, AL|2743
+Perry, AR|1070
+Perry, IL|2489
+Perry, IN|2073
+Perry, KY|2036
+Perry, MO|1876
+Perry, MS|2674
+Perry, OH|737
+Perry, PA|629
+Perry, TN|2403
+Pershing County, NV|5758
+Pershing, NV|2472
+Person County, NC|4216
+Person, NC|1618
+Petersburg Borough, AK|5519
+Petersburg City, VA|776
+Petersburg County, VA|5829
+Petersburg, AK|2798
+Petroleum County, MT|6193
+Petroleum, MT|3084
+Pettis County, MO|4171
+Pettis, MO|1592
+Phelps County, MO|4122
+Phelps County, NE|5945
+Phelps, MO|1566
+Phelps, NE|2597
+Philadelphia County, PA|3130
+Philadelphia, PA|15
+Phillips County, AR|5893
+Phillips County, CO|6053
+Phillips County, KS|5609
+Phillips County, MT|5857
+Phillips, AR|894
+Phillips, CO|2660
+Phillips, KS|2437
+Phillips, MT|2962
+Piatt County, IL|4635
+Piatt, IL|1907
+Pickaway County, OH|3977
+Pickaway, OH|551
+Pickens County, AL|5126
+Pickens County, GA|4391
+Pickens County, SC|3602
+Pickens, AL|2244
+Pickens, GA|1735
+Pickens, SC|326
+Pickett County, TN|5382
+Pickett, TN|3098
+Pierce County, GA|5139
+Pierce County, ND|5719
+Pierce County, NE|5986
+Pierce County, WA|3181
+Pierce County, WI|4196
+Pierce, GA|2253
+Pierce, ND|2959
+Pierce, NE|1108
+Pierce, WA|52
+Pierce, WI|686
+Pike County, AL|4805
+Pike County, AR|5271
+Pike County, GA|4614
+Pike County, IL|5821
+Pike County, IN|5546
+Pike County, KY|4732
+Pike County, MO|5144
+Pike County, MS|4204
+Pike County, OH|5032
+Pike County, PA|3961
+Pike, AL|770
+Pike, AR|2339
+Pike, GA|1891
+Pike, IL|2571
+Pike, IN|2319
+Pike, KY|2008
+Pike, MO|1882
+Pike, MS|1609
+Pike, OH|804
+Pike, PA|1489
+Pima County, AZ|3150
+Pima, AZ|29
+Pinal County, AZ|3281
+Pinal, AZ|126
+Pine County, MN|4386
+Pine, MN|795
+Pinellas County, FL|3162
+Pinellas, FL|1170
+Pipestone County, MN|5487
+Pipestone, MN|2747
+Piscataquis County, ME|4620
+Piscataquis, ME|954
+Pitkin County, CO|4629
+Pitkin, CO|963
+Pitt County, NC|3467
+Pitt, NC|242
+Pittsburg County, OK|4115
+Pittsburg, OK|633
+Pittsylvania County, VA|3903
+Pittsylvania, VA|503
+Piute County, UT|6160
+Placer County, CA|3293
+Placer, CA|137
+Plaquemines Parish, LA|5429
+Plaquemines, LA|2216
+Platte County, MO|3729
+Platte County, NE|4808
+Platte County, WY|5329
+Platte, MO|1383
+Platte, NE|778
+Platte, WY|2386
+Pleasants County, WV|5979
+Pleasants, WV|2609
+Plumas County, CA|4585
+Plumas, CA|926
+Plymouth County, IA|5056
+Plymouth County, MA|3239
+Plymouth, IA|846
+Plymouth, MA|96
+Pocahontas County, IA|5582
+Pocahontas County, WV|4717
+Pocahontas, IA|1107
+Pocahontas, WV|1971
+Poinsett County, AR|5837
+Poinsett, AR|853
+Pointe Coupee Parish, LA|5430
+Pointe Coupee, LA|2220
+Polk County, AR|4572
+Polk County, FL|3212
+Polk County, GA|4188
+Polk County, IA|3260
+Polk County, MN|4814
+Polk County, MO|4371
+Polk County, NC|4575
+Polk County, NE|6030
+Polk County, OR|3811
+Polk County, TN|4633
+Polk County, TX|4120
+Polk County, WI|4141
+Polk, AR|915
+Polk, FL|1185
+Polk, GA|1602
+Polk, IA|112
+Polk, MN|2161
+Polk, MO|1722
+Polk, NC|1858
+Polk, NE|2622
+Polk, OR|454
+Polk, TN|967
+Polk, TX|1564
+Polk, WI|646
+Ponce, PR|2148
+Pondera County, MT|5370
+Pondera, MT|2915
+Pontotoc County, MS|5027
+Pontotoc County, OK|4252
+Pontotoc, MS|2185
+Pontotoc, OK|719
+Pope County, AR|3923
+Pope County, IL|6052
+Pope County, MN|5277
+Pope, AR|517
+Pope, IL|2791
+Pope, MN|2586
+Poquoson City, VA|1953
+Poquoson County, VA|5819
+Portage County, OH|3482
+Portage County, WI|3846
+Portage, OH|255
+Portage, WI|472
+Porter County, IN|3475
+Porter, IN|250
+Portsmouth City, VA|389
+Portsmouth County, VA|5801
+Posey County, IN|4839
+Posey, IN|1784
+Pottawatomie County, KS|4857
+Pottawatomie County, OK|3851
+Pottawatomie, KS|1844
+Pottawatomie, OK|475
+Pottawattamie County, IA|3714
+Pottawattamie, IA|395
+Potter County, PA|4622
+Potter County, SD|6201
+Potter County, TX|3598
+Potter, PA|955
+Potter, SD|3037
+Potter, TX|1330
+Powder River County, MT|6154
+Powder River, MT|3057
+Powell County, KY|4942
+Powell County, MT|5358
+Powell, KY|2115
+Powell, MT|2422
+Power County, ID|5581
+Power, ID|2892
+Poweshiek County, IA|4875
+Poweshiek, IA|935
+Powhatan County, VA|4422
+Powhatan, VA|1756
+Prairie County, AR|5957
+Prairie County, MT|5658
+Prairie, AR|1092
+Prairie, MT|3071
+Pratt County, KS|4767
+Pratt, KS|2003
+Preble County, OH|4168
+Preble, OH|668
+Prentiss County, MS|5054
+Prentiss, MS|2202
+Presidio County, TX|5794
+Presidio, TX|2409
+Presque Isle County, MI|4687
+Presque Isle, MI|1945
+Preston County, WV|4325
+Preston, WV|1686
+Price County, WI|4677
+Price, WI|1011
+Prince Edward County, VA|4523
+Prince Edward, VA|869
+Prince George County, VA|4283
+Prince George, VA|1657
+Prince Georges County, MD|3168
+Prince Georges, MD|42
+Prince William County, VA|3272
+Prince William, VA|120
+Prince of Wales Hyder Borough, AK|5377
+Prince of Wales Hyder, AK|3104
+Prince of Wales-Hyder Borough, AK|5842
+Providence County, RI|3206
+Providence, RI|70
+Prowers County, CO|5779
+Prowers, CO|2642
+Pueblo County, CO|3492
+Pueblo, CO|263
+Pulaski County, AR|3278
+Pulaski County, GA|4945
+Pulaski County, IL|6008
+Pulaski County, IN|5236
+Pulaski County, KY|3911
+Pulaski County, MO|4021
+Pulaski County, VA|4306
+Pulaski, AR|124
+Pulaski, GA|2120
+Pulaski, IL|2777
+Pulaski, IN|2111
+Pulaski, KY|1473
+Pulaski, MO|1519
+Pulaski, VA|747
+Pushmataha County, OK|4951
+Pushmataha, OK|1047
+Putnam County, FL|3820
+Putnam County, GA|4561
+Putnam County, IL|5511
+Putnam County, IN|4242
+Putnam County, MO|5383
+Putnam County, NY|3681
+Putnam County, OH|5013
+Putnam County, TN|3833
+Putnam County, WV|3981
+Putnam, FL|1426
+Putnam, GA|1852
+Putnam, IL|2552
+Putnam, IN|1633
+Putnam, MO|2941
+Putnam, NY|373
+Putnam, OH|749
+Putnam, TN|1432
+Putnam, WV|1500
+Quay County, NM|5708
+Quay, NM|2540
+Quebradillas, PR|2563
+Queen Annes County, MD|4075
+Queen Annes, MD|610
+Queens County, NY|3119
+Queens, NY|7
+Quitman County, GA|5770
+Quitman County, MS|5709
+Quitman, GA|2633
+Quitman, MS|2884
+Rabun County, GA|4644
+Rabun, GA|1916
+Racine County, WI|3422
+Racine, WI|218
+Radford City, VA|2508
+Radford County, VA|5834
+Rains County, TX|5278
+Rains, TX|1961
+Raleigh County, WV|3782
+Raleigh, WV|1408
+Ralls County, MO|4955
+Ralls, MO|2535
+Ramsey County, MN|3234
+Ramsey County, ND|5477
+Ramsey, MN|92
+Ramsey, ND|2531
+Randall County, TX|3600
+Randall, TX|1332
+Randolph County, AL|4530
+Randolph County, AR|5152
+Randolph County, GA|5976
+Randolph County, IL|4328
+Randolph County, IN|5047
+Randolph County, MO|4481
+Randolph County, NC|3535
+Randolph County, WV|4392
+Randolph, AL|877
+Randolph, AR|947
+Randolph, GA|2764
+Randolph, IL|1688
+Randolph, IN|2047
+Randolph, MO|1796
+Randolph, NC|1301
+Randolph, WV|1736
+Rankin County, MS|3536
+Rankin, MS|1302
+Ransom County, ND|5713
+Ransom, ND|2931
+Rapides Parish, LA|3566
+Rapides, LA|1318
+Rappahannock County, VA|5351
+Rappahannock, VA|1106
+Ravalli County, MT|4208
+Ravalli, MT|1611
+Rawlins County, KS|5889
+Rawlins, KS|3026
+Ray County, MO|4521
+Ray, MO|1821
+Reagan County, TX|6088
+Reagan, TX|2989
+Real County, TX|5635
+Real, TX|2994
+Red Lake County, MN|6065
+Red Lake, MN|2793
+Red River County, TX|5245
+Red River Parish, LA|5950
+Red River, LA|2709
+Red River, TX|2672
+Red Willow County, NE|5276
+Red Willow, NE|1057
+Redwood County, MN|5454
+Redwood, MN|2279
+Reeves County, TX|5738
+Reeves, TX|2854
+Refugio County, TX|5684
+Refugio, TX|2416
+Reno County, KS|3896
+Reno, KS|1464
+Rensselaer County, NY|3491
+Rensselaer, NY|262
+Renville County, MN|5733
+Renville County, ND|5694
+Renville, MN|2282
+Renville, ND|3029
+Republic County, KS|5613
+Republic, KS|2940
+Reynolds County, MO|5509
+Reynolds, MO|2906
+Rhea County, TN|4366
+Rhea, TN|1715
+Rice County, KS|5297
+Rice County, MN|3897
+Rice, KS|2357
+Rice, MN|501
+Rich County, UT|5886
+Rich, UT|2452
+Richardson County, NE|5878
+Richardson, NE|2606
+Richland County, IL|5453
+Richland County, MT|5566
+Richland County, ND|5451
+Richland County, OH|3586
+Richland County, SC|3277
+Richland County, WI|4612
+Richland Parish, LA|5437
+Richland, IL|2725
+Richland, LA|2496
+Richland, MT|2877
+Richland, ND|2510
+Richland, OH|317
+Richland, SC|123
+Richland, WI|946
+Richmond City, VA|204
+Richmond County, GA|3412
+Richmond County, NC|4099
+Richmond County, NY|3246
+Richmond County, VA|4965
+Richmond, GA|1254
+Richmond, NC|1553
+Richmond, NY|101
+Richmond, VA|1084
+Riley County, KS|3839
+Riley, KS|1435
+Rincon, PR|2456
+Ringgold County, IA|5513
+Ringgold, IA|2788
+Rio Arriba County, NM|4786
+Rio Arriba, NM|1982
+Rio Blanco County, CO|5365
+Rio Blanco, CO|1118
+Rio Grande County, CO|4695
+Rio Grande, CO|1954
+Rio Grande, PR|2467
+Rio Grande, Puerto Rico|3109
+Ripley County, IN|4399
+Ripley County, MO|4928
+Ripley, IN|1738
+Ripley, MO|2106
+Ritchie County, WV|5291
+Ritchie, WV|2647
+Riverside County, CA|3120
+Riverside, CA|8
+Roane County, TN|3996
+Roane County, WV|4918
+Roane, TN|1506
+Roane, WV|2099
+Roanoke City, VA|384
+Roanoke County, VA|3720
+Roanoke, VA|400
+Roberts County, SD|5931
+Roberts County, TX|6182
+Robertson County, KY|6130
+Robertson County, TN|3878
+Robertson County, TX|5175
+Robertson, KY|2811
+Robertson, TN|490
+Robertson, TX|2272
+Robeson County, NC|3559
+Robeson, NC|301
+Rock County, MN|5303
+Rock County, NE|6161
+Rock County, WI|3485
+Rock Island County, IL|3523
+Rock Island, IL|1295
+Rock, MN|2537
+Rock, NE|2823
+Rock, WI|258
+Rockbridge County, VA|4540
+Rockbridge, VA|889
+Rockcastle County, KY|5166
+Rockcastle, KY|2268
+Rockdale County, GA|3751
+Rockdale, GA|1391
+Rockingham County, NC|3711
+Rockingham County, NH|3324
+Rockingham County, VA|3803
+Rockingham, NC|1376
+Rockingham, NH|1220
+Rockingham, VA|450
+Rockland County, NY|3310
+Rockland, NY|147
+Rockwall County, TX|3785
+Rockwall, TX|438
+Roger Mills County, OK|6082
+Roger Mills, OK|1147
+Rogers County, OK|3744
+Rogers, OK|416
+Rolette County, ND|5717
+Rolette, ND|2851
+Rooks County, KS|5611
+Rooks, KS|2938
+Roosevelt County, MT|5748
+Roosevelt County, NM|5439
+Roosevelt, MT|2868
+Roosevelt, NM|2470
+Roscommon County, MI|4504
+Roscommon, MI|1810
+Roseau County, MN|5190
+Roseau, MN|2095
+Rosebud County, MT|5491
+Rosebud, MT|2371
+Ross County, OH|3789
+Ross, OH|442
+Routt County, CO|4520
+Routt, CO|868
+Rowan County, KY|4847
+Rowan County, NC|3543
+Rowan, KY|871
+Rowan, NC|291
+Runnels County, TX|5290
+Runnels, TX|2677
+Rush County, IN|5160
+Rush County, KS|5637
+Rush, IN|1897
+Rush, KS|2996
+Rusk County, TX|4005
+Rusk County, WI|4673
+Rusk, TX|1511
+Rusk, WI|1003
+Russell County, AL|4009
+Russell County, KS|5359
+Russell County, KY|4887
+Russell County, VA|4822
+Russell, AL|569
+Russell, KS|2424
+Russell, KY|2081
+Russell, VA|2034
+Rutherford County, NC|3864
+Rutherford County, TN|3353
+Rutherford, NC|481
+Rutherford, TN|168
+Rutland County, VT|3925
+Rutland, VT|519
+Sabine County, TX|5280
+Sabine Parish, LA|5793
+Sabine, LA|2487
+Sabine, TX|2345
+Sac County, IA|5782
+Sac, IA|1071
+Sacramento County, CA|3134
+Sacramento, CA|19
+Sagadahoc County, ME|4295
+Sagadahoc, ME|742
+Saginaw County, MI|3415
+Saginaw, MI|1255
+Saguache County, CO|5372
+Saguache, CO|2432
+Saint Bernard Parish, LA|4282
+Saint Bernard, LA|1656
+Saint Charles County, MO|3287
+Saint Charles Parish, LA|4013
+Saint Charles, LA|1515
+Saint Charles, MO|132
+Saint Clair County, AL|3756
+Saint Clair County, IL|3343
+Saint Clair County, MI|3476
+Saint Clair County, MO|5301
+Saint Clair, AL|424
+Saint Clair, IL|1229
+Saint Clair, MI|1280
+Saint Clair, MO|2359
+Saint Croix County, WI|3752
+Saint Croix, VI|2460
+Saint Croix, WI|422
+Saint Francis County, AR|5033
+Saint Francis, AR|811
+Saint Francois County, MO|3888
+Saint Francois, MO|1461
+Saint Helena Parish, LA|5678
+Saint Helena, LA|2706
+Saint James Parish, LA|5093
+Saint James, LA|3087
+Saint John the Baptist Parish, LA|4112
+Saint John the Baptist, LA|1560
+Saint Johns County, FL|3429
+Saint Johns, FL|1261
+Saint Joseph County, IN|3350
+Saint Joseph County, MI|3926
+Saint Joseph, IN|1233
+Saint Joseph, MI|1477
+Saint Landry Parish, LA|3757
+Saint Landry, LA|1394
+Saint Lawrence County, NY|3628
+Saint Lawrence, NY|344
+Saint Louis City, MO|143
+Saint Louis County, MN|3413
+Saint Louis County, MO|3149
+Saint Louis, MN|212
+Saint Louis, MO|28
+Saint Lucie County, FL|3337
+Saint Lucie, FL|1225
+Saint Martin Parish, LA|4777
+Saint Martin, LA|1522
+Saint Mary Parish, LA|5402
+Saint Mary, LA|2009
+Saint Marys County, MD|3658
+Saint Marys, MD|357
+Saint Tammany Parish, LA|3378
+Saint Tammany, LA|1244
+Saint Thomas, VI|2462
+Sainte Genevieve County, MO|4882
+Sainte Genevieve, MO|1888
+Salem City, VA|848
+Salem County, NJ|3880
+Salem County, VA|5808
+Salem, NJ|492
+Saline County, AR|3652
+Saline County, IL|5426
+Saline County, KS|3979
+Saline County, MO|6199
+Saline County, NE|5465
+Saline, AR|353
+Saline, IL|2486
+Saline, KS|1499
+Saline, MO|1991
+Saline, NE|1009
+Salt Lake County, UT|3147
+Salt Lake, UT|1166
+Saluda County, SC|5839
+Saluda, SC|928
+Sampson County, NC|4773
+Sampson, NC|505
+San Augustine County, TX|5953
+San Augustine, TX|2379
+San Benito County, CA|3985
+San Benito, CA|556
+San Bernardino County, CA|3121
+San Bernardino, CA|9
+San Diego County, CA|3114
+San Diego, CA|3
+San Francisco County, CA|3175
+San Francisco, CA|47
+San German, PR|2562
+San Jacinto County, TX|4453
+San Jacinto, TX|1774
+San Joaquin County, CA|3196
+San Joaquin, CA|63
+San Juan County, CO|6188
+San Juan County, NM|3575
+San Juan County, UT|5539
+San Juan County, WA|4655
+San Juan, CO|2832
+San Juan, NM|1323
+San Juan, PR|1979
+San Juan, UT|2849
+San Juan, WA|984
+San Lorenzo, PR|2461
+San Luis Obispo County, CA|3344
+San Luis Obispo, CA|165
+San Mateo County, CA|3191
+San Mateo, CA|61
+San Miguel County, CO|4721
+San Miguel County, NM|4747
+San Miguel, CO|1976
+San Miguel, NM|2030
+San Patricio County, TX|3891
+San Patricio, TX|1462
+San Saba County, TX|6009
+San Saba, TX|2916
+Sanborn County, SD|6127
+Sanders County, MT|4764
+Sanders, MT|1999
+Sandoval County, NM|3567
+Sandoval, NM|1319
+Sandusky County, OH|3928
+Sandusky, OH|521
+Sangamon County, IL|3417
+Sangamon, IL|1257
+Sanilac County, MI|4157
+Sanilac, MI|1583
+Sanpete County, UT|5036
+Sanpete, UT|2191
+Santa Barbara County, CA|3263
+Santa Barbara, CA|114
+Santa Clara County, CA|3126
+Santa Clara, CA|13
+Santa Cruz County, AZ|4085
+Santa Cruz County, CA|3355
+Santa Cruz, AZ|614
+Santa Cruz, CA|170
+Santa Fe County, NM|3532
+Santa Fe, NM|1299
+Santa Rosa County, FL|3512
+Santa Rosa, FL|1291
+Sarasota County, FL|3279
+Sarasota, FL|1204
+Saratoga County, NY|3388
+Saratoga, NY|193
+Sargent County, ND|6074
+Sargent, ND|2974
+Sarpy County, NE|3493
+Sarpy, NE|264
+Sauk County, WI|3920
+Sauk, WI|514
+Saunders County, NE|4866
+Saunders, NE|912
+Sawyer County, WI|4640
+Sawyer, WI|1912
+Schenectady County, NY|3504
+Schenectady, NY|270
+Schleicher County, TX|6084
+Schleicher, TX|2984
+Schley County, GA|6038
+Schley, GA|2691
+Schoharie County, NY|4350
+Schoharie, NY|771
+Schoolcraft County, MI|5335
+Schoolcraft, MI|2393
+Schuyler County, IL|5786
+Schuyler County, MO|6054
+Schuyler County, NY|4607
+Schuyler, IL|2895
+Schuyler, NY|942
+Schuylkill County, PA|3521
+Schuylkill, PA|282
+Scioto County, OH|4730
+Scioto, OH|435
+Scotland County, MO|6044
+Scotland County, NC|4796
+Scotland, MO|2948
+Scotland, NC|736
+Scott County, AR|5273
+Scott County, IA|3474
+Scott County, IL|6032
+Scott County, IN|4841
+Scott County, KS|5615
+Scott County, KY|4088
+Scott County, MN|3576
+Scott County, MO|4738
+Scott County, MS|5891
+Scott County, TN|5089
+Scott County, VA|5076
+Scott, AR|2341
+Scott, IA|249
+Scott, IL|2623
+Scott, IN|2206
+Scott, KS|2943
+Scott, KY|1549
+Scott, MN|309
+Scott, MO|2016
+Scott, MS|2663
+Scott, TN|2225
+Scott, VA|873
+Scotts Bluff County, NE|4742
+Scotts Bluff, NE|724
+Screven County, GA|5212
+Screven, GA|2294
+Scurry County, TX|4895
+Scurry, TX|2270
+Searcy County, AR|5340
+Searcy, AR|2402
+Sebastian County, AR|3583
+Sebastian, AR|314
+Sedgwick County, CO|6125
+Sedgwick County, KS|3237
+Sedgwick, CO|2810
+Sedgwick, KS|1191
+Seminole County, FL|3264
+Seminole County, GA|5328
+Seminole County, OK|4479
+Seminole, FL|1199
+Seminole, GA|2384
+Seminole, OK|841
+Seneca County, NY|4297
+Seneca County, OH|3966
+Seneca, NY|743
+Seneca, OH|545
+Sequatchie County, TN|4678
+Sequatchie, TN|1938
+Sequoyah County, OK|4166
+Sequoyah, OK|666
+Sevier County, AR|5447
+Sevier County, TN|3726
+Sevier County, UT|4568
+Sevier, AR|2267
+Sevier, TN|1381
+Sevier, UT|1855
+Seward County, KS|4849
+Seward County, NE|5171
+Seward, KS|2059
+Seward, NE|968
+Shackelford County, TX|5633
+Shackelford, TX|2988
+Shannon County, MO|5495
+Shannon, MO|2394
+Sharkey County, MS|6040
+Sharp County, AR|4627
+Sharp, AR|962
+Shasta County, CA|3450
+Shasta, CA|233
+Shawano County, WI|4179
+Shawano, WI|1596
+Shawnee County, KS|3447
+Shawnee, KS|1270
+Sheboygan County, WI|3617
+Sheboygan, WI|337
+Shelby County, AL|3423
+Shelby County, IA|5257
+Shelby County, IL|5858
+Shelby County, IN|4139
+Shelby County, KY|4175
+Shelby County, MO|5595
+Shelby County, OH|4059
+Shelby County, TN|3156
+Shelby County, TX|5052
+Shelby, AL|219
+Shelby, IA|2582
+Shelby, IL|2718
+Shelby, IN|1574
+Shelby, KY|1594
+Shelby, MO|2912
+Shelby, OH|598
+Shelby, TN|35
+Shelby, TX|2201
+Shenandoah County, VA|4176
+Shenandoah, VA|673
+Sherburne County, MN|3738
+Sherburne, MN|412
+Sheridan County, KS|6113
+Sheridan County, MT|5632
+Sheridan County, ND|6168
+Sheridan County, NE|6027
+Sheridan County, WY|4395
+Sheridan, KS|3024
+Sheridan, MT|2987
+Sheridan, ND|3067
+Sheridan, NE|1132
+Sheridan, WY|1737
+Sherman County, KS|5601
+Sherman County, NE|6095
+Sherman County, OR|6153
+Sherman County, TX|6103
+Sherman, KS|2920
+Sherman, NE|2802
+Sherman, OR|2821
+Sherman, TX|3008
+Shiawassee County, MI|3842
+Shiawassee, MI|1437
+Shoshone County, ID|5676
+Shoshone, ID|1950
+Sibley County, MN|5458
+Sibley, MN|2727
+Sierra County, CA|5388
+Sierra County, NM|4762
+Sierra, CA|1148
+Sierra, NM|2121
+Silver Bow County, MT|4318
+Silver Bow, MT|1681
+Simpson County, KY|4624
+Simpson County, MS|5039
+Simpson, KY|1898
+Simpson, MS|2044
+Sioux County, IA|5415
+Sioux County, ND|6221
+Sioux County, NE|6169
+Sioux, IA|757
+Sioux, NE|2825
+Siskiyou County, CA|4130
+Siskiyou, CA|641
+Sitka Borough, AK|5324
+Sitka, AK|2541
+Skagit County, WA|3610
+Skagit, WA|331
+Skagway Borough, AK|6181
+Skagway, AK|2826
+Skamania County, WA|5275
+Skamania, WA|1056
+Slope County, ND|6237
+Smith County, KS|5626
+Smith County, MS|5179
+Smith County, TN|5134
+Smith County, TX|3398
+Smith, KS|2973
+Smith, MS|2669
+Smith, TN|931
+Smith, TX|1250
+Smyth County, VA|5416
+Smyth, VA|779
+Snohomish County, WA|3192
+Snohomish, WA|62
+Snyder County, PA|5408
+Snyder, PA|697
+Socorro County, NM|4885
+Socorro, NM|2079
+Solano County, CA|3268
+Solano, CA|117
+Somerset County, MD|4450
+Somerset County, ME|4024
+Somerset County, NJ|3301
+Somerset County, PA|3790
+Somerset, MD|828
+Somerset, ME|575
+Somerset, NJ|140
+Somerset, PA|443
+Somervell County, TX|5333
+Somervell, TX|2392
+Sonoma County, CA|3244
+Sonoma, CA|99
+Southampton County, VA|4603
+Southampton, VA|937
+Southeast Fairbanks Borough, AK|5357
+Southeast Fairbanks, AK|3101
+Spalding County, GA|3898
+Spalding, GA|1465
+Spartanburg County, SC|3332
+Spartanburg, SC|160
+Spencer County, IN|4861
+Spencer County, KY|4893
+Spencer, IN|2067
+Spencer, KY|2085
+Spink County, SD|6004
+Spokane County, WA|3245
+Spokane, WA|100
+Spotsylvania County, VA|3593
+Spotsylvania, VA|322
+Stafford County, KS|5621
+Stafford County, VA|3577
+Stafford, KS|2957
+Stafford, VA|310
+Stanislaus County, CA|3232
+Stanislaus, CA|90
+Stanley County, SD|6106
+Stanly County, NC|3932
+Stanly, NC|525
+Stanton County, KS|6134
+Stanton County, NE|6010
+Stanton, KS|3039
+Stanton, NE|1125
+Stark County, IL|6013
+Stark County, ND|4749
+Stark County, OH|3282
+Stark, IL|2553
+Stark, ND|1989
+Stark, OH|127
+Starke County, IN|4524
+Starke, IN|1823
+Starr County, TX|4990
+Starr, TX|2662
+Staunton City, VA|863
+Staunton County, VA|5810
+Stearns County, MN|3516
+Stearns, MN|278
+Steele County, MN|4272
+Steele County, ND|6147
+Steele, MN|733
+Stephens County, GA|4455
+Stephens County, OK|4126
+Stephens County, TX|5306
+Stephens, GA|1775
+Stephens, OK|639
+Stephens, TX|2362
+Stephenson County, IL|4080
+Stephenson, IL|1545
+Sterling County, TX|6175
+Steuben County, IN|4319
+Steuben County, NY|3684
+Steuben, IN|1682
+Steuben, NY|375
+Stevens County, KS|5607
+Stevens County, MN|5486
+Stevens County, WA|4152
+Stevens, KS|2926
+Stevens, MN|2649
+Stevens, WA|654
+Stewart County, GA|5760
+Stewart County, TN|4688
+Stewart, GA|2779
+Stewart, TN|1946
+Stillwater County, MT|4967
+Stillwater, MT|2138
+Stoddard County, MO|5026
+Stoddard, MO|2184
+Stokes County, NC|4086
+Stokes, NC|615
+Stone County, AR|5253
+Stone County, MO|4363
+Stone County, MS|5155
+Stone, AR|1038
+Stone, MO|1713
+Stone, MS|2264
+Stonewall County, TX|6162
+Stonewall, TX|3063
+Storey County, NV|5766
+Storey, NV|1142
+Story County, IA|3727
+Story, IA|405
+Strafford County, NH|3589
+Strafford, NH|1327
+Stutsman County, ND|5435
+Stutsman, ND|2493
+Sublette County, WY|4954
+Sublette, WY|2001
+Suffolk City, VA|421
+Suffolk County, MA|3189
+Suffolk County, NY|3133
+Suffolk County, VA|5802
+Suffolk, MA|59
+Suffolk, NY|18
+Sullivan County, IN|5102
+Sullivan County, MO|5587
+Sullivan County, NH|4149
+Sullivan County, NY|3791
+Sullivan County, PA|4981
+Sullivan County, TN|3499
+Sullivan, IN|2230
+Sullivan, MO|3099
+Sullivan, NH|1580
+Sullivan, NY|444
+Sullivan, PA|1120
+Sullivan, TN|1286
+Sully County, SD|6167
+Sully, SD|3065
+Summers County, WV|5222
+Summers, WV|2302
+Summit County, CO|4424
+Summit County, OH|3221
+Summit County, UT|4273
+Summit, CO|1758
+Summit, OH|81
+Summit, UT|1649
+Sumner County, KS|4508
+Sumner County, TN|3484
+Sumner, KS|1813
+Sumner, TN|257
+Sumter County, AL|5906
+Sumter County, FL|3712
+Sumter County, GA|4347
+Sumter County, SC|3648
+Sumter, AL|2855
+Sumter, FL|1377
+Sumter, GA|1701
+Sumter, SC|350
+Sunflower County, MS|5705
+Sunflower, MS|2839
+Surry County, NC|3826
+Surry County, VA|5787
+Surry, NC|462
+Surry, VA|2548
+Susquehanna County, PA|4155
+Susquehanna, PA|659
+Sussex County, DE|3419
+Sussex County, NJ|3520
+Sussex County, VA|5913
+Sussex, DE|215
+Sussex, NJ|281
+Sussex, VA|2119
+Sutter County, CA|3705
+Sutter, CA|390
+Sutton County, TX|6064
+Sutton, TX|2967
+Suwannee County, FL|4185
+Suwannee, FL|1601
+Swain County, NC|4683
+Swain, NC|1016
+Sweet Grass County, MT|5629
+Sweet Grass, MT|2449
+Sweetwater County, WY|4736
+Sweetwater, WY|1579
+Swift County, MN|5485
+Swift, MN|2360
+Swisher County, TX|5972
+Swisher, TX|2891
+Switzerland County, IN|5557
+Switzerland, IN|2349
+Talbot County, GA|5507
+Talbot County, MD|4245
+Talbot, GA|2688
+Talbot, MD|714
+Taliaferro County, GA|5773
+Taliaferro, GA|2822
+Talladega County, AL|3766
+Talladega, AL|1399
+Tallahatchie County, MS|5815
+Tallahatchie, MS|2846
+Tallapoosa County, AL|4184
+Tallapoosa, AL|1600
+Tama County, IA|5157
+Tama, IA|952
+Taney County, MO|4028
+Taney, MO|1523
+Tangipahoa Parish, LA|3597
+Tangipahoa, LA|1329
+Taos County, NM|4344
+Taos, NM|1699
+Tarrant County, TX|3125
+Tarrant, TX|12
+Tate County, MS|4823
+Tate, MS|2035
+Tattnall County, GA|4478
+Tattnall, GA|1793
+Taylor County, FL|5085
+Taylor County, GA|5884
+Taylor County, IA|6006
+Taylor County, KY|4840
+Taylor County, TX|3569
+Taylor County, WI|4571
+Taylor County, WV|4896
+Taylor, FL|1992
+Taylor, GA|2754
+Taylor, IA|1121
+Taylor, KY|855
+Taylor, TX|1321
+Taylor, WI|914
+Taylor, WV|2570
+Tazewell County, IL|3555
+Tazewell County, VA|4123
+Tazewell, IL|1314
+Tazewell, VA|637
+Tehama County, CA|3905
+Tehama, CA|504
+Telfair County, GA|5178
+Telfair, GA|2274
+Teller County, CO|4525
+Teller, CO|870
+Tensas Parish, LA|5875
+Tensas, LA|2712
+Terrebonne Parish, LA|3629
+Terrebonne, LA|1341
+Terrell County, GA|5751
+Terrell County, TX|6179
+Terrell, GA|2595
+Terrell, TX|3076
+Terry County, TX|5548
+Terry, TX|2860
+Teton County, ID|4712
+Teton County, MT|5373
+Teton County, WY|4560
+Teton, ID|1966
+Teton, MT|2434
+Teton, WY|1851
+Texas County, MO|4462
+Texas County, OK|6204
+Texas, MO|1781
+Texas, OK|916
+Thayer County, NE|6035
+Thayer, NE|2624
+Thomas County, GA|4134
+Thomas County, KS|5579
+Thomas County, NE|6191
+Thomas, GA|1572
+Thomas, KS|2889
+Thomas, NE|2834
+Throckmorton County, TX|6157
+Throckmorton, TX|3060
+Thurston County, NE|5850
+Thurston County, WA|3363
+Thurston, NE|2770
+Thurston, WA|175
+Tift County, GA|4210
+Tift, GA|1613
+Tillamook County, OR|4483
+Tillamook, OR|843
+Tillman County, OK|5710
+Tillman, OK|1098
+Tioga County, NY|4036
+Tioga County, PA|4177
+Tioga, NY|585
+Tioga, PA|674
+Tippah County, MS|5088
+Tippah, MS|2224
+Tippecanoe County, IN|3456
+Tippecanoe, IN|1273
+Tipton County, IN|4908
+Tipton County, TN|3927
+Tipton, IN|2094
+Tipton, TN|520
+Tishomingo County, MS|5128
+Tishomingo, MS|2245
+Titus County, TX|4361
+Titus, TX|1709
+Toa Alta, PR|2163
+Toa Baja, PR|2157
+Todd County, KY|5248
+Todd County, MN|4491
+Todd County, SD|5934
+Todd, KY|2581
+Todd, MN|1802
+Tolland County, CT|3510
+Tolland, CT|275
+Tom Green County, TX|3636
+Tom Green, TX|1348
+Tompkins County, NY|3670
+Tompkins, NY|366
+Tooele County, UT|3955
+Tooele, UT|1486
+Toole County, MT|5380
+Toole, MT|2934
+Toombs County, GA|5041
+Toombs, GA|2193
+Torrance County, NM|4903
+Torrance, NM|2091
+Towner County, ND|6132
+Towns County, GA|4709
+Towns, GA|1964
+Traill County, ND|5682
+Traill, ND|2885
+Transylvania County, NC|4339
+Transylvania, NC|767
+Traverse County, MN|5768
+Traverse, MN|2661
+Travis County, TX|3148
+Travis, TX|1167
+Treasure County, MT|6213
+Treasure, MT|3080
+Trego County, KS|5643
+Trego, KS|3010
+Trempealeau County, WI|4400
+Trempealeau, WI|801
+Treutlen County, GA|5992
+Treutlen, GA|2771
+Trigg County, KY|4675
+Trigg, KY|1937
+Trimble County, KY|5783
+Trimble, KY|2542
+Trinity County, CA|5228
+Trinity County, TX|4674
+Trinity, CA|1024
+Trinity, TX|1935
+Tripp County, SD|6021
+Troup County, GA|3871
+Troup, GA|1454
+Trousdale County, TN|5342
+Trousdale, TN|1099
+Trujillo Alto, PR|2160
+Trumbull County, OH|3397
+Trumbull, OH|200
+Tucker County, WV|4768
+Tucker, WV|2005
+Tulare County, CA|3253
+Tulare, CA|106
+Tulsa County, OK|3210
+Tulsa, OK|74
+Tunica County, MS|5707
+Tunica, MS|2742
+Tuolumne County, CA|3983
+Tuolumne, CA|553
+Turner County, GA|5322
+Turner County, SD|5966
+Turner, GA|2377
+Turner, SD|2883
+Tuscaloosa County, AL|3425
+Tuscaloosa, AL|220
+Tuscarawas County, OH|3717
+Tuscarawas, OH|398
+Tuscola County, MI|3976
+Tuscola, MI|1497
+Twiggs County, GA|5951
+Twiggs, GA|2753
+Twin Falls County, ID|3796
+Twin Falls, ID|1412
+Tyler County, TX|4856
+Tyler County, WV|5871
+Tyler, TX|2064
+Tyler, WV|2750
+Tyrrell County, NC|6055
+Tyrrell, NC|1140
+Uinta County, WY|4859
+Uinta, WY|2066
+Uintah County, UT|4356
+Uintah, UT|1706
+Ulster County, NY|3439
+Ulster, NY|227
+Umatilla County, OR|3807
+Umatilla, OR|451
+Unicoi County, TN|5147
+Unicoi, TN|943
+Union County, AR|5002
+Union County, FL|5734
+Union County, GA|4558
+Union County, IA|5780
+Union County, IL|5659
+Union County, IN|5683
+Union County, KY|5899
+Union County, MS|5042
+Union County, NC|3407
+Union County, NJ|3224
+Union County, NM|5714
+Union County, OH|4019
+Union County, OR|4470
+Union County, PA|4128
+Union County, SC|5030
+Union County, SD|5216
+Union County, TN|4596
+Union Parish, LA|4850
+Union, AR|677
+Union, FL|2573
+Union, GA|1849
+Union, IA|2733
+Union, IL|2501
+Union, IN|2685
+Union, KY|2574
+Union, LA|2060
+Union, MS|2194
+Union, NC|208
+Union, NJ|84
+Union, NM|2955
+Union, OH|574
+Union, OR|837
+Union, PA|1568
+Union, SC|2481
+Union, SD|2520
+Union, TN|932
+United States, |3091
+Upshur County, TX|4219
+Upshur County, WV|4506
+Upshur, TX|1620
+Upshur, WV|1811
+Upson County, GA|4437
+Upson, GA|1764
+Upton County, TX|6089
+Upton, TX|2990
+Utah County, UT|3230
+Utah, UT|1189
+Uvalde County, TX|5046
+Uvalde, TX|2198
+Val Verde County, TX|4065
+Val Verde, TX|1536
+Valdez Cordova Borough, AK|5305
+Valdez Cordova, AK|2361
+Valencia County, NM|3802
+Valencia, NM|1415
+Valley County, ID|4714
+Valley County, MT|5352
+Valley County, NE|6059
+Valley, ID|1967
+Valley, MT|2417
+Valley, NE|2792
+Van Buren County, AR|4626
+Van Buren County, IA|5795
+Van Buren County, MI|3804
+Van Buren County, TN|5378
+Van Buren, AR|961
+Van Buren, IA|2765
+Van Buren, MI|1416
+Van Buren, TN|2438
+Van Wert County, OH|5031
+Van Wert, OH|802
+Van Zandt County, TX|4015
+Van Zandt, TX|1517
+Vance County, NC|4119
+Vance, NC|635
+Vanderburgh County, IN|3444
+Vanderburgh, IN|1268
+Vega Alta, PR|2458
+Vega Baja, PR|2473
+Venango County, PA|3988
+Venango, PA|557
+Ventura County, CA|3172
+Ventura, CA|45
+Vermilion County, IL|3770
+Vermilion Parish, LA|4775
+Vermilion, IL|1401
+Vermilion, LA|1488
+Vermillion County, IN|5536
+Vermillion, IN|2670
+Vernon County, MO|4858
+Vernon County, WI|4385
+Vernon Parish, LA|5403
+Vernon, LA|2010
+Vernon, MO|1853
+Vernon, WI|794
+Victoria County, TX|3745
+Victoria, TX|1389
+Vigo County, IN|3642
+Vigo, IN|1352
+Vilas County, WI|4554
+Vilas, WI|897
+Vinton County, OH|5471
+Vinton, OH|1027
+Virginia Beach City, VA|109
+Virginia Beach County, VA|5796
+Volusia County, FL|3240
+Volusia, FL|1192
+Wabash County, IL|5476
+Wabash County, IN|4806
+Wabash, IL|2529
+Wabash, IN|1987
+Wabasha County, MN|4551
+Wabasha, MN|1841
+Wabaunsee County, KS|5584
+Wabaunsee, KS|2900
+Wadena County, MN|5226
+Wadena, MN|2304
+Wagoner County, OK|3830
+Wagoner, OK|464
+Wahkiakum County, WA|5517
+Wahkiakum, WA|1143
+Wake County, NC|3165
+Wake, NC|40
+Wakulla County, FL|4374
+Wakulla, FL|1724
+Waldo County, ME|4228
+Waldo, ME|1625
+Walker County, AL|4989
+Walker County, GA|3859
+Walker County, TX|3863
+Walker, AL|484
+Walker, GA|1448
+Walker, TX|1449
+Walla Walla County, WA|3950
+Walla Walla, WA|537
+Wallace County, KS|6163
+Wallace, KS|3064
+Waller County, TX|4156
+Waller, TX|1582
+Wallowa County, OR|4978
+Wallowa, OR|1113
+Walsh County, ND|5679
+Walsh, ND|2863
+Walthall County, MS|5537
+Walthall, MS|2285
+Walton County, FL|3987
+Walton County, GA|3753
+Walton, FL|1503
+Walton, GA|1392
+Walworth County, SD|6029
+Walworth County, WI|3667
+Walworth, WI|363
+Wapello County, IA|4287
+Wapello, IA|740
+Ward County, ND|5398
+Ward County, TX|5556
+Ward, ND|1476
+Ward, TX|2676
+Ware County, GA|4274
+Ware, GA|1650
+Warren County, GA|6017
+Warren County, IA|4103
+Warren County, IL|5443
+Warren County, IN|5961
+Warren County, KY|3624
+Warren County, MO|4357
+Warren County, MS|4067
+Warren County, NC|4563
+Warren County, NJ|3639
+Warren County, NY|3882
+Warren County, OH|3394
+Warren County, PA|4737
+Warren County, TN|4214
+Warren County, VA|4249
+Warren, GA|2781
+Warren, IA|625
+Warren, IL|2502
+Warren, IN|2684
+Warren, KY|342
+Warren, MO|1707
+Warren, MS|1537
+Warren, NC|905
+Warren, NJ|345
+Warren, NY|493
+Warren, OH|198
+Warren, PA|1599
+Warren, TN|1615
+Warren, VA|717
+Warrick County, IN|3942
+Warrick, IN|1482
+Wasatch County, UT|4518
+Wasatch, UT|1819
+Wasco County, OR|4486
+Wasco, OR|845
+Waseca County, MN|4873
+Waseca, MN|1873
+Washakie County, WY|5332
+Washakie, WY|2390
+Washburn County, WI|4651
+Washburn, WI|980
+Washington County, AL|5895
+Washington County, AR|3405
+Washington County, CO|6045
+Washington County, FL|4490
+Washington County, GA|5108
+Washington County, IA|5100
+Washington County, ID|5873
+Washington County, IL|4921
+Washington County, IN|4827
+Washington County, KS|5687
+Washington County, KY|5261
+Washington County, MD|3524
+Washington County, ME|4346
+Washington County, MN|3374
+Washington County, MO|4487
+Washington County, MS|4991
+Washington County, NC|5239
+Washington County, NE|5117
+Washington County, NY|3909
+Washington County, OH|3922
+Washington County, OK|4038
+Washington County, OR|3227
+Washington County, PA|3400
+Washington County, RI|3582
+Washington County, TN|3591
+Washington County, TX|4323
+Washington County, UT|3545
+Washington County, VA|3989
+Washington County, VT|3944
+Washington County, WI|3564
+Washington Parish, LA|4089
+Washington, AL|2723
+Washington, AR|206
+Washington, CO|2628
+Washington, FL|1801
+Washington, GA|2237
+Washington, IA|2228
+Washington, ID|1965
+Washington, IL|2517
+Washington, IN|2037
+Washington, KS|2925
+Washington, KY|2333
+Washington, LA|1550
+Washington, MD|283
+Washington, ME|1700
+Washington, MN|183
+Washington, MO|1798
+Washington, MS|2168
+Washington, NC|1031
+Washington, NE|921
+Washington, NY|506
+Washington, OH|516
+Washington, OK|587
+Washington, OR|87
+Washington, PA|201
+Washington, RI|313
+Washington, TN|320
+Washington, TX|1684
+Washington, UT|1308
+Washington, VA|558
+Washington, VT|532
+Washington, WI|304
+Washita County, OK|4949
+Washita, OK|1046
+Washoe County, NV|3266
+Washoe, NV|115
+Washtenaw County, MI|3294
+Washtenaw, MI|1206
+Watauga County, NC|4037
+Watauga, NC|586
+Watonwan County, MN|5553
+Watonwan, MN|2342
+Waukesha County, WI|3276
+Waukesha, WI|122
+Waupaca County, WI|4018
+Waupaca, WI|573
+Waushara County, WI|4502
+Waushara, WI|856
+Wayne County, GA|5025
+Wayne County, IA|6005
+Wayne County, IL|5449
+Wayne County, IN|3856
+Wayne County, KY|4865
+Wayne County, MI|3124
+Wayne County, MO|5232
+Wayne County, MS|5115
+Wayne County, NC|3592
+Wayne County, NE|5935
+Wayne County, NY|3709
+Wayne County, OH|3621
+Wayne County, PA|4011
+Wayne County, TN|4630
+Wayne County, UT|6202
+Wayne County, WV|4782
+Wayne, GA|2028
+Wayne, IA|2656
+Wayne, IL|2504
+Wayne, IN|1445
+Wayne, KY|2069
+Wayne, MI|1159
+Wayne, MO|2110
+Wayne, MS|2239
+Wayne, NC|321
+Wayne, NE|2592
+Wayne, NY|392
+Wayne, OH|340
+Wayne, PA|570
+Wayne, TN|1903
+Wayne, WV|664
+Waynesboro City, VA|903
+Waynesboro County, VA|5812
+Weakley County, TN|4301
+Weakley, TN|1671
+Webb County, TX|3366
+Webb, TX|1240
+Weber County, UT|3380
+Weber, UT|1245
+Webster County, GA|5703
+Webster County, IA|4241
+Webster County, KY|5907
+Webster County, MO|4279
+Webster County, MS|5561
+Webster County, NE|5848
+Webster County, WV|5947
+Webster Parish, LA|5406
+Webster, GA|2806
+Webster, IA|711
+Webster, KY|2578
+Webster, LA|2474
+Webster, MO|1653
+Webster, MS|2678
+Webster, NE|1144
+Webster, WV|2880
+Weld County, CO|3360
+Weld, CO|173
+Wells County, IN|4430
+Wells County, ND|5665
+Wells, IN|1761
+Wells, ND|2963
+West Baton Rouge Parish, LA|5070
+West Baton Rouge, LA|2210
+West Carroll Parish, LA|5552
+West Carroll, LA|2705
+West Feliciana Parish, LA|5457
+West Feliciana, LA|2513
+Westchester County, NY|3153
+Westchester, NY|32
+Westmoreland County, PA|3286
+Westmoreland County, VA|4623
+Westmoreland, PA|131
+Westmoreland, VA|956
+Weston County, WY|4974
+Weston, WY|2418
+Wetzel County, WV|5887
+Wetzel, WV|2637
+Wexford County, MI|4351
+Wexford, MI|1704
+Wharton County, TX|4190
+Wharton, TX|1603
+Whatcom County, WA|3408
+Whatcom, WA|209
+Wheatland County, MT|6136
+Wheatland, MT|3043
+Wheeler County, GA|5983
+Wheeler County, NE|6235
+Wheeler County, OR|6164
+Wheeler County, TX|5762
+Wheeler, GA|2766
+Wheeler, NE|2829
+Wheeler, OR|2692
+Wheeler, TX|2933
+White County, AR|3799
+White County, GA|4438
+White County, IL|5462
+White County, IN|4501
+White County, TN|4469
+White Pine County, NV|4958
+White Pine, NV|2130
+White, AR|448
+White, GA|1765
+White, IL|2728
+White, IN|1809
+White, TN|1787
+Whiteside County, IL|3953
+Whiteside, IL|1484
+Whitfield County, GA|3664
+Whitfield, GA|1360
+Whitley County, IN|4333
+Whitley County, KY|4798
+Whitley, IN|1692
+Whitley, KY|2022
+Whitman County, WA|4133
+Whitman, WA|1571
+Wibaux County, MT|6177
+Wibaux, MT|3075
+Wichita County, KS|6135
+Wichita County, TX|3570
+Wichita, KS|3040
+Wichita, TX|1322
+Wicomico County, MD|3690
+Wicomico, MD|380
+Wilbarger County, TX|5675
+Wilbarger, TX|2310
+Wilcox County, AL|5263
+Wilcox County, GA|5943
+Wilcox, AL|2735
+Wilcox, GA|2693
+Wilkes County, GA|5286
+Wilkes County, NC|3853
+Wilkes, GA|2128
+Wilkes, NC|1444
+Wilkin County, MN|5999
+Wilkin, MN|2775
+Wilkinson County, GA|5750
+Wilkinson County, MS|5484
+Wilkinson, GA|2538
+Wilkinson, MS|2876
+Will County, IL|3197
+Will, IL|1180
+Willacy County, TX|5092
+Willacy, TX|2491
+Williams County, ND|4853
+Williams County, OH|4248
+Williams, ND|2223
+Williams, OH|716
+Williamsburg City, VA|1013
+Williamsburg County, SC|5014
+Williamsburg County, VA|5817
+Williamsburg, SC|751
+Williamson County, IL|3877
+Williamson County, TN|3438
+Williamson County, TX|3265
+Williamson, IL|1456
+Williamson, TN|226
+Williamson, TX|1200
+Wilson County, KS|5699
+Wilson County, NC|3774
+Wilson County, TN|3622
+Wilson County, TX|4159
+Wilson, KS|2367
+Wilson, NC|432
+Wilson, TN|341
+Wilson, TX|1585
+Winchester City, VA|831
+Winchester County, VA|5807
+Windham County, CT|3605
+Windham County, VT|4137
+Windham, CT|329
+Windham, VT|644
+Windsor County, VT|3967
+Windsor, VT|546
+Winkler County, TX|5756
+Winkler, TX|2899
+Winn Parish, LA|5721
+Winn, LA|2700
+Winnebago County, IA|5746
+Winnebago County, IL|3323
+Winnebago County, WI|3469
+Winnebago, IA|1062
+Winnebago, IL|1219
+Winnebago, WI|244
+Winneshiek County, IA|5110
+Winneshiek, IA|900
+Winona County, MN|4030
+Winona, MN|580
+Winston County, AL|5063
+Winston County, MS|5133
+Winston, AL|857
+Winston, MS|2250
+Wirt County, WV|6018
+Wirt, WV|2784
+Wise County, TX|3947
+Wise County, VA|4785
+Wise, TX|534
+Wise, VA|680
+Wolfe County, KY|5985
+Wolfe, KY|2767
+Wood County, OH|3584
+Wood County, TX|4178
+Wood County, WI|3818
+Wood County, WV|3743
+Wood, OH|315
+Wood, TX|1595
+Wood, WI|458
+Wood, WV|415
+Woodbury County, IA|3668
+Woodbury, IA|364
+Woodford County, IL|4229
+Woodford County, KY|4489
+Woodford, IL|1626
+Woodford, KY|1800
+Woodruff County, AR|5987
+Woodruff, AR|1109
+Woods County, OK|4970
+Woods, OK|2378
+Woodson County, KS|5636
+Woodson, KS|2995
+Woodward County, OK|4869
+Woodward, OK|924
+Worcester County, MA|3180
+Worcester County, MD|4031
+Worcester, MA|51
+Worcester, MD|581
+Worth County, GA|5101
+Worth County, IA|5755
+Worth County, MO|5727
+Worth, GA|2229
+Worth, IA|2610
+Worth, MO|3042
+Wrangell Borough, AK|6126
+Wright County, IA|5840
+Wright County, MN|3585
+Wright County, MO|4600
+Wright, IA|1029
+Wright, MN|316
+Wright, MO|1878
+Wyandot County, OH|4851
+Wyandot, OH|2221
+Wyandotte County, KS|3496
+Wyandotte, KS|1284
+Wyoming County, NY|4173
+Wyoming County, PA|5420
+Wyoming County, WV|5069
+Wyoming, NY|670
+Wyoming, PA|810
+Wyoming, WV|2209
+Wythe County, VA|4394
+Wythe, VA|797
+Yadkin County, NC|5892
+Yadkin, NC|708
+Yakima County, WA|3371
+Yakima, WA|179
+Yakutat Borough, AK|6190
+Yalobusha County, MS|5473
+Yalobusha, MS|2322
+Yamhill County, OR|3683
+Yamhill, OR|374
+Yancey County, NC|4616
+Yancey, NC|950
+Yankton County, SD|5432
+Yankton, SD|2488
+Yates County, NY|4482
+Yates, NY|842
+Yavapai County, AZ|3396
+Yavapai, AZ|199
+Yazoo County, MS|5421
+Yazoo, MS|2190
+Yell County, AR|5090
+Yell, AR|891
+Yellow Medicine County, MN|5481
+Yellow Medicine, MN|2534
+Yellowstone County, MT|3522
+Yellowstone, MT|1294
+Yoakum County, TX|5580
+Yoakum, TX|2890
+Yolo County, CA|3410
+Yolo, CA|210
+York County, ME|3420
+York County, NE|5867
+York County, PA|3257
+York County, SC|3383
+York County, VA|3886
+York, ME|216
+York, NE|2306
+York, PA|110
+York, SC|189
+York, VA|494
+Young County, TX|4877
+Young, TX|2256
+Yuba County, CA|3834
+Yuba, CA|467
+Yukon Koyukuk Borough, AK|6025
+Yuma County, AZ|3421
+Yuma County, CO|5299
+Yuma, AZ|217
+Yuma, CO|1075
+Zapata County, TX|5219
+Zapata, TX|2850
+Zavala County, TX|5696
+Zavala, TX|2675
