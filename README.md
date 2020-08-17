@@ -12,3 +12,5 @@
 ![Household Income](Images/household_income.png)
 
 ![Median Home Value](Images/median_home_value_line.png)
+
+![Price to Rent Ratio](Images/price_to_rent_ratio.png)
