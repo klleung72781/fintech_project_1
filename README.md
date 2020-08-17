@@ -7,3 +7,8 @@
 * King Leung
 ---
 
+![Population Density](Images/population_density_bubble_map.png)
+
+![Household Income](Images/household_income.png)
+
+![Median Home Value](Images/median_home_value_line.png)
