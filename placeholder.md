@@ -1,6 +1,53 @@
 
 
 
+# Major Findings for Group Two
+
+## This README file serves as a written summary of major findings. Included are headings for each major question asked of the Group Two data. Also, under each heading is a short description of what Group Two found and any relevant plots/charts/graphs.
+
+## In the attempt to disprove the group of stated null hypotheses, Group Two claimed major findings as it discovered data. Group Two followed a methodology for the acquisition, cleaning, and leverage of data. This methodology is provided.
+
+## Methodology (from Approach Slide of Presentation)
+
+Collect Past Data.
+Clean Data.
+Analyze Data.
+Chart and Organize Past Data.
+Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
+Form Interactive Dashboard with Indicators.
+Determine Methodology for Predicting Future Real Estate Earnings.
+Leverage Organized Data to Make Predictions for Earnings.
+
+## During each step in the methodology, Group Two probed the process with a question and found a major finding as an anwer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++++
+Slide Text Below
 According to realtor.com, there may be volatility in several real estate markets in terms of increased buyer demand
 (https://www.realtor.com/research/july-2020-data/).
 
