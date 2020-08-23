@@ -80,3 +80,73 @@ census.gov
 zillow.com 
 finance.yahoo.com
 Important Lesson Learned… Decisions for finding and leveraging data influenced the scope of the project (could not include fundrise.com or roofstock.com because these fintech real estate companies had no data available).
+
+
+
+Discover, document, discount, and drop aberrations.
+
+
+Place data through planned processes (plotting, Monte Carlo, etc.).
+Constant monitor for practical knowledge.
+Always ask whether the data makes sense.
+Important Lesson Learned… It is crucial to examine the data the entire way through the process, from collection, through tabulation, all the way to use.
+
+Apply lessons from class.
+Constantly examine charts and graphs for practical knowledge, patterns, and accord with hypotheses.
+Always ask oneself whether the data makes any sense.
+
+
+The User will be able to toggle views of US real estate market based on maps from selected real estate indicator.
+
+Given identified real estate market, determine a methodology for calculation of future earnings.
+
+Apply lessons from class.
+Run Monte Carlo simulation.
+Analyze predictions - just like in class.
+
+
+Given identified real estate market, compare earnings.
+Leverage Monte Carlo methodology.
+Compare confidence intervals.
+
+
+Data for Determination of Most Ideal Real Estate Market
+Data for Charting Past Performance of REITs and Indices
+Data for Indices to Determine Validity of Hypothesis
+Methodology for Calculating Real Estate Purchase Returns
+Projections of Data from Simulations
+
+
+From the work of the Approach Section, collected, processed, and charted data is available for examination.
+Data for Determination of Most Ideal Real Estate Market
+Data for Charting Past Performance of REITs (PLD, CCI, AMT) and Indices (Vanguard et al.:  VTI, VXUS, BND, BNDX, VUG, VB, VOO, VONG, VYM)
+Data for Indices to Determine Validity of Hypothesis
+Methodology for Calculating Returns
+Projections of Data from Simulations
+Compare confidence intervals.
+Interesting findings.
+
+Interesting Findings
+Implications of Findings
+Current Status of Running Narrative
+
+
+Important Principle - Data Determines the Project (refer to fundrise and roofstock fintech companies).
+In general, up to this point, the data show that the most ideal markets are the biggest markets (NYC, LA, etc.).
+Price to Rent Ratio and other indicator values fluctuate greatly - San Francisco goes from about twelve to fifty (https://smartasset.com/mortgage/price-to-rent-ratio-in-us-cities).
+Discussion of Los Angeles and Chicago.
+
+Additional research questions would deal with the international real estate markets (Tokyo, Hong Kong, London) and also national and international real estate market fluctuations during a pandemic (e.g. 1918 H1N1 influenza A pandemic).
+Up to this point, findings support educated guesses.
+With more time, Group Two could possibly look for relationships between real estate values and employment figures.
+
+How should one invest a million dollars?
+Up to this point, real estate looks like the best vehicle because of the traditional stability in owning property.
+What are the top real estate markets?
+Up to this point, large urban markets.
+How much can investment in real estate bring you?
+Still calculating...
+
+
+ancillary hypothesis is that markets are hotter in areas of higher income and in higher population density...
+
