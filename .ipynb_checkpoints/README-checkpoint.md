@@ -34,8 +34,7 @@ Analyze Data.
 Chart and Organize Past Data.
 Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
 Form Interactive Dashboard with Indicators.
-Determine Methodology for Predicting Future Real Estate Earnings.
-Leverage Organized Data to Make Predictions for Earnings.
+
 
 ## During each step in the methodology, Group Two probed the process with a question and found a major finding as an answer.
 
@@ -125,13 +124,8 @@ Group Two was able to provide a graphical map representation of household income
 
 ## Form Interactive Dashboard with Indicators.
 
-Group Two formed an interactive dashboard based on the indicators...
+Group Two formed an interactive dashboard based on the indicators.
 
-## Determine Methodology for Predicting Future Real Estate Earnings.
-
-Group Two leveraged the Monte Carlo methodology for predicting future earnings...
-
-## Leverage Organized Data to Make Predictions for Earnings.
 
 
 
