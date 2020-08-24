@@ -73,6 +73,18 @@ After the collection and analysis of data, Group Two charted and organized the d
 
 ![Income and Density](incomeanddensity.PNG)
 
+![Cumulative Returns](Cumulative_returns.png)
+
+![Daily Returns](Daily_returns.png)
+
+![Top 5 REIT](Top_5_REIT_Market_Cap.png)
+
+![Top 15 REIT Market Cap](Top_15Market_cap.png)
+
+![Top Market Cap](Top_market_cap(5).png)
+
+
+
 
 With this data, Group Two was able to compose a map.
 
