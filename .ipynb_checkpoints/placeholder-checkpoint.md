@@ -22,6 +22,46 @@ Leverage Organized Data to Make Predictions for Earnings.
 
 
 
+## Collect Past Data.
+Group Two collected data that fit the context of the hypotheses. The main null hypothesis for this project is that investing in real estate ownership does not result in greater returns than investing in any combination of REITs or conventional stock indices. In the endeavor to find the ideal real estate market, there are at least two ancillary hypotheses. One ancillary hypothesis is that population density does not have any relationship with real estate property values. Another ancillary hypothesis is that median household income does not have any relationship with real estate property values. These three hypotheses served as the main questions to answer as Group Two collected data.
+
+For real estate property data, Group Two found data from several sources, including census.gov, zillow.com, and quandl.com.
+
+For data for Standard & Poor's 500 (500), REITs, and Vanguard, Group Two retrieved data from finance.yahoo.com.
+
+
+## Clean Data.
+
+As Group Two collected its data, Group Two constantly scrutinized the quality of its data. Occasionally, Group Two found data that did not fit expectations. One such finding was the anomalous price to rent ratios that had New York County (Manhattan) having a lower price to rent ratio than Queens County. In this cleaning stage, Group Two had to confront a major question. How does one manage data that does not make sense?
+
+
+[strange results table]
+[kl strange curve graph]
+
+Group Two looked for significant changes in data entries, outliers, and anomalous data entries; Group Two exluded these entries.
+
+
+## Analyze Data.
+
+Group Two continued its data analysis as it collected and cleaned data. Throughout these processes, Group Two kept the focus on the questions and hypotheses. In this discrete data analysis step, Group Two considered questions about population, population density, and median household income. 
+
+Group Two considered how results aligned or conflicted with preconcieved notions and guesses.
+
+## Chart and Organize Past Data.
+
+After the collection and analysis of data, Group Two charted and organized the data. In this stage, Group Two wanted to have an understanding of returns of investment vehicles from the past to the current point. As Group Two charted and organized data, at least one question dominated the focus of the work. What are the returns from investment vehicles to this point?
+
+## Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
+
+Group Two was able to gather data for several categories. The data gathered includes data for household income by county. Also, gathered data includes population. For each of these two data categories, the unit is the US county. 
+
+## Form Interactive Dashboard with Indicators.
+
+## Determine Methodology for Predicting Future Real Estate Earnings.
+
+## Leverage Organized Data to Make Predictions for Earnings.
+
+
 
 
 
