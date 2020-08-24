@@ -54,7 +54,7 @@
     - Potential Income (*Price to Rent Ratio*)
     - Operating Costs (*Real Estate Tax Rate*)
     ![Other Deciding Factors](Images/other_deciding_factors.JPG)
-    - With an assumed investment of $1 million, identify the 10 best-performing counties
+    - With an assumed investment of $1 million, identify the 10 best-performing counties\
         **Top 10**
         | County Name | Total Proceeds (*USD*) | 
         | ----------- | ----------- |
@@ -69,4 +69,18 @@
         | **San Mateo County**<br>California | 2434183 |
         | **Contra Costa County**<br>California | 2421439 |
 
+4. **Neighborhood Data**: Only 342 out of the 1240 neighborhoods had Zillow data
+    **Top 10**
+    | Neighborhood | City | State | Total Proceeds (*USD*) |
+    | ----------- | ----------- | ----------- | ----------- |
+    | Twinbrooks | Saint Petersburg | FL | 5164450 |
+    | Winnetka Heights | Dallas | TX | 4605207 |
+    | Childs Park | Saint Petersburg | FL | 4350882 |
+    | Westminster Heights | Saint Petersburg | FL | 4165232 |
+    | Central Oak Park | Saint Petersburg | FL | 3902721 |
+    | Highland Oaks | Saint Petersburg | FL | 3817110 |
+    | Lake Maggiore | Saint Petersburg | FL | 3753632 |
+    | Harris Park | Saint Petersburg | FL | 3690029 |
+    | Lake Euclid | Saint Petersburg | FL | 3655180 |
+    | Iveywood | Oakland | CA | 3646354 |
     
