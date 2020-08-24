@@ -55,12 +55,42 @@ Group Two considered how results aligned or conflicted with preconcieved notions
 
 After the collection and analysis of data, Group Two charted and organized the data. In this stage, Group Two wanted to have an understanding of returns of investment vehicles from the past to the current point. As Group Two charted and organized data, at least one question dominated the focus of the work. What are the returns from investment vehicles to this point?
 
+![REITs Daily Returns](bok1.png)
+
+![REITs Portfolio Returns](bok2.png)
+
+![REITs Cumulative](bok3.png)
+
+![REITs and SP500](reitand500.PNG)
+
+![REITs Beta](reitbeta.PNG)
+
 ![Cleaned Price to Rent Ratio](price_to_rent_ratio.png)
+
+![Income](topincome.PNG)
+
+![Population Density](popdensity.PNG)
+
+![Income and Density](incomeanddensity.PNG)
+
+
+With this data, Group Two was able to compose a map.
+
+![Initial Map](hood_geo.PNG)
+
+
 
 
 ## Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
 
 Group Two was able to gather data for several categories. The data gathered includes data for household income by county. Also, gathered data includes population. For each of these two data categories, the unit is the US county. At this point, the main questions for Group Two shifted. How does the data appear visually? What are the US counties that have the both the highest household income and the greatest population density?
+
+Group Two was able to provide a graphical map representation of household income and population density.
+
+![Income](household_income.png)
+![Density](population_density_bubble_map.png)
+
+
 
 ## Form Interactive Dashboard with Indicators.
 
