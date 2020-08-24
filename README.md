@@ -7,6 +7,9 @@
 * King Leung
 ---
 
+
+
+
 ### Real Estate Data Gathering and Preparation:
 
 1. **Demand**: finding the most densely populated counties in the US, since population density is not a readily available stat, we used 2 datapoints to yield the desired results.
