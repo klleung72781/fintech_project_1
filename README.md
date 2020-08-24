@@ -53,8 +53,8 @@ For data for Standard & Poor's 500 (500), REITs, and Vanguard, Group Two retriev
 As Group Two collected its data, Group Two constantly scrutinized the quality of its data. Occasionally, Group Two found data that did not fit expectations. One such finding was the anomalous price to rent ratios that had New York County (Manhattan) having a lower price to rent ratio than Queens County. In this cleaning stage, Group Two had to confront a major question. How does one manage data that does not make sense?
 
 
-![strange results table](ptorstrange.png)
-![kl strange curve graph](klfindingprob.png)
+![strange results table](Images/ptorstrange.png)
+![kl strange curve graph](Images/klfindingprob.png)
 
 Group Two looked for significant changes in data entries, outliers, and anomalous data entries; Group Two excluded these entries.
 
@@ -63,8 +63,8 @@ Group Two looked for significant changes in data entries, outliers, and anomalou
 
 Group Two continued its data analysis as it collected and cleaned data. Throughout these processes, Group Two kept the focus on the questions and hypotheses. In this discrete data analysis step, Group Two considered questions about population, population density, and median household income. 
 
-![Population Density Table](popdensity.PNG)
-![Median Household Income](topincome.PNG)
+![Population Density Table](Images/popdensity.PNG)
+![Median Household Income](Images/topincome.PNG)
 
 
 Group Two considered how results aligned or conflicted with preconceived notions and guesses.
@@ -73,40 +73,40 @@ Group Two considered how results aligned or conflicted with preconceived notions
 
 After the collection and analysis of data, Group Two charted and organized the data. In this stage, Group Two wanted to have an understanding of returns of investment vehicles from the past to the current point. As Group Two charted and organized data, at least one question dominated the focus of the work. What are the returns from investment vehicles to this point?
 
-![REITs Daily Returns](bok1.png)
+![REITs Daily Returns](Images/bok1.png)
 
-![REITs Portfolio Returns](bok2.png)
+![REITs Portfolio Returns](Images/bok2.png)
 
-![REITs Cumulative](bok3.png)
+![REITs Cumulative](Images/bok3.png)
 
-![REITs and SP500](reitand500.PNG)
+![REITs and SP500](Images/reitand500.PNG)
 
-![REITs Beta](reitbeta.PNG)
+![REITs Beta](Images/reitbeta.PNG)
 
-![Cleaned Price to Rent Ratio](price_to_rent_ratio.png)
+![Cleaned Price to Rent Ratio](Images/price_to_rent_ratio.png)
 
-![Income](topincome.PNG)
+![Income](Images/topincome.PNG)
 
-![Population Density](popdensity.PNG)
+![Population Density](Images/popdensity.PNG)
 
-![Income and Density](incomeanddensity.PNG)
+![Income and Density](Images/incomeanddensity.PNG)
 
-![Cumulative Returns](Cumulative_returns.png)
+![Cumulative Returns](Images/Cumulative_returns.png)
 
-![Daily Returns](Daily_returns.png)
+![Daily Returns](Images/Daily_returns.png)
 
-![Top 5 REIT](Top_5_REIT_Market_Cap.png)
+![Top 5 REIT](Images/Top_5_REIT_Market_Cap.png)
 
-![Top 15 REIT Market Cap](Top_15Market_cap.png)
+![Top 15 REIT Market Cap](Images/Top_15Market_cap.png)
 
-![Top Market Cap](Top_market_cap(5).png)
+![Top Market Cap](Images/Top_market_cap(5).png)
 
 
 
 
 With this data, Group Two was able to compose a map.
 
-![Initial Map](hood_geo.PNG)
+![Initial Map](Images/hood_geo.PNG)
 
 
 
@@ -117,8 +117,8 @@ Group Two was able to gather data for several categories. The data gathered incl
 
 Group Two was able to provide a graphical map representation of household income and population density.
 
-![Income](household_income.png)
-![Density](population_density_bubble_map.png)
+![Income](Images/household_income.png)
+![Density](Images/population_density_bubble_map.png)
 
 
 
