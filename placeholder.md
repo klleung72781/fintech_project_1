@@ -35,8 +35,8 @@ For data for Standard & Poor's 500 (500), REITs, and Vanguard, Group Two retriev
 As Group Two collected its data, Group Two constantly scrutinized the quality of its data. Occasionally, Group Two found data that did not fit expectations. One such finding was the anomalous price to rent ratios that had New York County (Manhattan) having a lower price to rent ratio than Queens County. In this cleaning stage, Group Two had to confront a major question. How does one manage data that does not make sense?
 
 
-[strange results table]
-[kl strange curve graph]
+![strange results table](ptorstrange.png)
+![kl strange curve graph](klfindingprob.png)
 
 Group Two looked for significant changes in data entries, outliers, and anomalous data entries; Group Two exluded these entries.
 
@@ -45,19 +45,30 @@ Group Two looked for significant changes in data entries, outliers, and anomalou
 
 Group Two continued its data analysis as it collected and cleaned data. Throughout these processes, Group Two kept the focus on the questions and hypotheses. In this discrete data analysis step, Group Two considered questions about population, population density, and median household income. 
 
+![Population Density Table](popdensity.PNG)
+![Median Household Income](topincome.PNG)
+
+
 Group Two considered how results aligned or conflicted with preconcieved notions and guesses.
 
 ## Chart and Organize Past Data.
 
 After the collection and analysis of data, Group Two charted and organized the data. In this stage, Group Two wanted to have an understanding of returns of investment vehicles from the past to the current point. As Group Two charted and organized data, at least one question dominated the focus of the work. What are the returns from investment vehicles to this point?
 
+![Cleaned Price to Rent Ratio](price_to_rent_ratio.png)
+
+
 ## Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
 
-Group Two was able to gather data for several categories. The data gathered includes data for household income by county. Also, gathered data includes population. For each of these two data categories, the unit is the US county. 
+Group Two was able to gather data for several categories. The data gathered includes data for household income by county. Also, gathered data includes population. For each of these two data categories, the unit is the US county. At this point, the main questions for Group Two shifted. How does the data appear visually? What are the US counties that have the both the highest household income and the greatest population density?
 
 ## Form Interactive Dashboard with Indicators.
 
+Group Two formed an interactive dashboard based on the indicators...
+
 ## Determine Methodology for Predicting Future Real Estate Earnings.
+
+Group Two leveraged the Monte Carlo methodology for predicting future earnings...
 
 ## Leverage Organized Data to Make Predictions for Earnings.
 
