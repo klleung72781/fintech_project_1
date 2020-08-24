@@ -1,4 +1,4 @@
-# FinTech Bootcamp Project #1 Population Density, Housing Prices, and a Comparison to the Stock Market
+# FinTech Bootcamp Project 1 *Real Estate vs Security*
 ### Group 2
 ##### Members
 * Aaron Sechler
@@ -7,129 +7,83 @@
 * King Leung
 ---
 
-![Population Density](Images/population_density_bubble_map.png)
 
-![Household Income](Images/household_income.png)
 
-![Median Home Value](Images/median_home_value_line.png)
 
-![Price to Rent Ratio](Images/price_to_rent_ratio.png)
-
-
-
-
-
-
-# Major Findings for Group Two
-
-## This README file serves as a written summary of major findings. Included are headings for each major question asked of the Group Two data. Also, under each heading is a short description of what Group Two found and any relevant plots/charts/graphs.
-
-## In the attempt to disprove the group of stated null hypotheses, Group Two claimed major findings as it discovered data. Group Two followed a methodology for the acquisition, cleaning, and leverage of data. This methodology is provided.
-
-## Methodology (from Approach Slide of Presentation)
-
-Collect Past Data.
-Clean Data.
-Analyze Data.
-Chart and Organize Past Data.
-Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
-Form Interactive Dashboard with Indicators.
-
-
-## During each step in the methodology, Group Two probed the process with a question and found a major finding as an answer.
-
-
-
-## Collect Past Data.
-Group Two collected data that fit the context of the hypotheses. The main null hypothesis for this project is that investing in real estate ownership does not result in greater returns than investing in any combination of REITs or conventional stock indices. In the endeavor to find the ideal real estate market, there are at least two ancillary hypotheses. One ancillary hypothesis is that population density does not have any relationship with real estate property values. Another ancillary hypothesis is that median household income does not have any relationship with real estate property values. These three hypotheses served as the main questions to answer as Group Two collected data.
-
-For real estate property data, Group Two found data from several sources, including census.gov, zillow.com, and quandl.com.
-
-For data for Standard & Poor's 500 (500), REITs, and Vanguard, Group Two retrieved data from finance.yahoo.com.
-
-
-## Clean Data.
-
-As Group Two collected its data, Group Two constantly scrutinized the quality of its data. Occasionally, Group Two found data that did not fit expectations. One such finding was the anomalous price to rent ratios that had New York County (Manhattan) having a lower price to rent ratio than Queens County. In this cleaning stage, Group Two had to confront a major question. How does one manage data that does not make sense?
-
-
-![strange results table](Images/ptorstrange.png)
-![kl strange curve graph](Images/klfindingprob.png)
-
-Group Two looked for significant changes in data entries, outliers, and anomalous data entries; Group Two excluded these entries.
-
-
-## Analyze Data.
-
-Group Two continued its data analysis as it collected and cleaned data. Throughout these processes, Group Two kept the focus on the questions and hypotheses. In this discrete data analysis step, Group Two considered questions about population, population density, and median household income. 
-
-![Population Density Table](Images/popdensity.PNG)
-![Median Household Income](Images/topincome.PNG)
-
-
-Group Two considered how results aligned or conflicted with preconceived notions and guesses.
-
-## Chart and Organize Past Data.
-
-After the collection and analysis of data, Group Two charted and organized the data. In this stage, Group Two wanted to have an understanding of returns of investment vehicles from the past to the current point. As Group Two charted and organized data, at least one question dominated the focus of the work. What are the returns from investment vehicles to this point?
-
-![REITs Daily Returns](Images/bok1.png)
-
-![REITs Portfolio Returns](Images/bok2.png)
-
-![REITs Cumulative](Images/bok3.png)
-
-![REITs and SP500](Images/reitand500.PNG)
-
-![REITs Beta](Images/reitbeta.PNG)
-
-![Cleaned Price to Rent Ratio](Images/price_to_rent_ratio.png)
-
-![Income](Images/topincome.PNG)
-
-![Population Density](Images/popdensity.PNG)
-
-![Income and Density](Images/incomeanddensity.PNG)
-
-![Cumulative Returns](Images/Cumulative_returns.png)
-
-![Daily Returns](Images/Daily_returns.png)
-
-![Top 5 REIT](Images/Top_5_REIT_Market_Cap.png)
-
-![Top 15 REIT Market Cap](Images/Top_15Market_cap.png)
-
-![Top Market Cap](Images/Top_market_cap(5).png)
-
-
-
-
-With this data, Group Two was able to compose a map.
-
-![Initial Map](Images/hood_geo.PNG)
-
-
-
-
-## Leverage Indicators and Indicator Data for Comparison of Data/Assessment of Hypothesis.
-
-Group Two was able to gather data for several categories. The data gathered includes data for household income by county. Also, gathered data includes population. For each of these two data categories, the unit is the US county. At this point, the main questions for Group Two shifted. How does the data appear visually? What are the US counties that have the both the highest household income and the greatest population density?
-
-Group Two was able to provide a graphical map representation of household income and population density.
-
-![Income](Images/household_income.png)
-![Density](Images/population_density_bubble_map.png)
-
-
-
-## Form Interactive Dashboard with Indicators.
-
-Group Two formed an interactive dashboard based on the indicators. This dashboard is provided.
-
-
-
-
-
-
-
-
+### Real Estate Data Gathering and Preparation:
+
+1. **Demand**: finding the most densely populated counties in the US, since population density is not a readily available stat, we used 2 datapoints to yield the desired results.
+    - Since 2019 is not a census year, we decided to use the 2019 population estimate available on Census.gov:\
+        https://www.census.gov/programs-surveys/popest/technical-documentation/file-layouts.html
+    - Population density = Population / Land Area (this was obtained from Census TIGER/Line shapefiles):
+        https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html\
+        The county `shp` file also contains latitudes and longitudes of each county, useful for plotting on a map.
+        ![Population Density](Images/population_density_bubble_map.png)
+        **Top 10**
+        | County Name | Population Density<br>(*People per Sq. Mile*) | 
+        | ----------- | ----------- |
+        | **New York County**<br>New York | 71874 |
+        | **Kings County**<br>New York | 36901 |
+        | **Bronx County**<br>New York | 33727 |
+        | **Queens County**<br>New York | 20720 |
+        | **San Francisco County**<br>California | 18795 |
+        | **Hudson County**<br>New Jersey | 14556 |
+        | **Suffolk County**<br>Massachusetts | 13801 |
+        | **Philadelphia County**<br>Pennsylvania | 11797 |
+        | **District of Columbia** | 11544 |
+        | **Alexandria city** (Census County) <br>Virginia | 10675 |
+
+2. **Market Value**:  finding the counties with the highest median income
+    - CensusData python library provides easy access to the data\
+        https://pypi.org/project/CensusData/
+    - Combining the data with TIGER/Line shapefiles to create a bubble map visualization\
+        ![Household Income](Images/household_income.png)
+        **Top 10**
+        | County Name | Median Household Income (*USD*) | 
+        | ----------- | ----------- |
+        | **Los Angeles County**<br>California | 1514629.0 |
+        | **Cook County**<br>Illinois | 1116759.0 |
+        | **Maricopa County**<br>Arizona | 933112.0 |
+        | **Harris County**<br>Texas | 865645.0 |
+        | **San Diego County**<br>California | 593890.0 |
+        | **Orange County**<br>California | 592269.0 |
+        | **King County**<br>Washington | 494443.0 |
+        | **Riverside County**<br>California | 472401.0 |
+        | **Dallas County**<br>Texas | 459974.0 |
+        | **Miami-Dade County**<br>Florida | 449056.0 |
+
+3. **Other deciding factors**: gather additional dataset of counties that are both top 100 in population density and income in an attempt to locate a hidden gem...
+    - Capital Gain (*Median Home Value per Sq. Foot*)
+    - Potential Income (*Price to Rent Ratio*)
+    - Operating Costs (*Real Estate Tax Rate*)
+    ![Other Deciding Factors](Images/other_deciding_factors.JPG)
+    - With an assumed investment of $1 million, identify the 10 best-performing counties\
+        **Top 10**
+        | County Name | Total Proceeds (*USD*) | 
+        | ----------- | ----------- |
+        | **Wayne County**<br>Michigan | 3169917 |
+        | **Macomb County**<br>Michigan | 2553876 |
+        | **DeKalb County**<br>Georgia | 2522056 |
+        | **Alameda County**<br>California | 2500199 |
+        | **Broward County**<br>Florida | 2489344 |
+        | **Sacramento County**<br>California | 2479974 |
+        | **Pinellas County**<br>Florida | 2470103 |
+        | **Dallas County**<br>Texas | 2449903 |
+        | **San Mateo County**<br>California | 2434183 |
+        | **Contra Costa County**<br>California | 2421439 |
+
+4. **Neighborhood Data**: Only 342 out of the 1240 neighborhoods had Zillow data\
+    **Top 10**
+    | Neighborhood | City | State | Total Proceeds (*USD*) |
+    | ----------- | ----------- | ----------- | ----------- |
+    | Twinbrooks | Saint Petersburg | FL | 5164450 |
+    | Winnetka Heights | Dallas | TX | 4605207 |
+    | Childs Park | Saint Petersburg | FL | 4350882 |
+    | Westminster Heights | Saint Petersburg | FL | 4165232 |
+    | Central Oak Park | Saint Petersburg | FL | 3902721 |
+    | Highland Oaks | Saint Petersburg | FL | 3817110 |
+    | Lake Maggiore | Saint Petersburg | FL | 3753632 |
+    | Harris Park | Saint Petersburg | FL | 3690029 |
+    | Lake Euclid | Saint Petersburg | FL | 3655180 |
+    | Iveywood | Oakland | CA | 3646354 |
+    **Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
