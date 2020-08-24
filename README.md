@@ -7,7 +7,7 @@
 * King Leung
 ---
 
-### Data Gathering and Preparation:
+### Real Estate Data Gathering and Preparation:
 
 1. **Demand**: finding the most densely populated counties in the US, since population density is not a readily available stat, we used 2 datapoints to yield the desired results.
     - Since 2019 is not a census year, we decided to use the 2019 population estimate available on Census.gov:\
@@ -33,7 +33,7 @@
 2. **Market Value**:  finding the counties with the highest median income
     - CensusData python library provides easy access to the data\
         https://pypi.org/project/CensusData/
-    - Combining the data with TIGER/Line shapefiles to create a bubble map visualization
+    - Combining the data with TIGER/Line shapefiles to create a bubble map visualization\
         ![Household Income](Images/household_income.png)
         **Top 10**
         | County Name | Median Household Income (*USD*) | 
@@ -69,7 +69,7 @@
         | **San Mateo County**<br>California | 2434183 |
         | **Contra Costa County**<br>California | 2421439 |
 
-4. **Neighborhood Data**: Only 342 out of the 1240 neighborhoods had Zillow data
+4. **Neighborhood Data**: Only 342 out of the 1240 neighborhoods had Zillow data\
     **Top 10**
     | Neighborhood | City | State | Total Proceeds (*USD*) |
     | ----------- | ----------- | ----------- | ----------- |
@@ -83,4 +83,4 @@
     | Harris Park | Saint Petersburg | FL | 3690029 |
     | Lake Euclid | Saint Petersburg | FL | 3655180 |
     | Iveywood | Oakland | CA | 3646354 |
-    
+    **Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
