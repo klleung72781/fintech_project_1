@@ -1,4 +1,4 @@
-# FinTech Bootcamp Project Name TBD
+# FinTech Bootcamp Project #1 Population Density, Housing Prices, and a Comparison to the Stock Market
 ### Group 2
 ##### Members
 * Aaron Sechler
