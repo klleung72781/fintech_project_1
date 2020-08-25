@@ -1,4 +1,4 @@
-# FinTech Bootcamp Project 1 *Real Estate vs Security*
+# FinTech Bootcamp Project 1 *Real Estate vs REITs vs Security*
 ### Group 2
 ##### Members
 * Aaron Sechler
