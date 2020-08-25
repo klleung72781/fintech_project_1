@@ -96,5 +96,12 @@
 1. **Data**: REITs data are acquired from Yahoo! Finance
     - This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP.\
         **Top 5**
+        | Symbol | Name | Market Cap<br>(*Billion*) |
+        | ----------- | ----------- | ----------- |
+        | AMT | American Tower Corporation (REIT) | 111.217 |
+        | PLD | Prologis, Inc. | 75.827 |
+        | CCI | Crown Castle International Corp. (REIT) | 68.977 |
+        | EQIX | Equinix, Inc. (REIT) | 68.200 |
+        | SPG-PJ | Simon Property Group, Inc. | 52.987 |
         
 
