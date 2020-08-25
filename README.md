@@ -74,6 +74,7 @@
         | **Contra Costa County**<br>California | 2421439 |
 
 4. **Neighborhood Data**: Only 342 out of the 1240 neighborhoods had Zillow data\
+    ![Top Neighborhood](Images/top_neighborhood.JPG)
     **Top 10**
     | Neighborhood | City | State | Total Proceeds (*USD*) |
     | ----------- | ----------- | ----------- | ----------- |
@@ -93,9 +94,10 @@
 ###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/REIT.ipynb
 ###### REITS are an alternative investment option to those that want to invest in real estate, but do not have the funds to buy property or simply do not qualify for mortgage. Reits historically have delivered competitive high returns based on long term capital appreciation. This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP, calculate rolling statistics, betas and compare them to the trends of S&P 500 market Cap index over time.
 
-1. **Data**: REITs data are acquired from Yahoo! Finance
+1. **Identify the REITs**: This section analyzes the Top 15 REITs by Market Cap (data acquired from Yahoo! Finance)
     - This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP.\
-        **Top 5**
+    ![Top 15 Market Cap REITs](Images/Top_market_cap(5).png)
+    - Plotting the top 5 in details
         | Symbol | Name | Market Cap<br>(*Billion*) |
         | ----------- | ----------- | ----------- |
         | AMT | American Tower Corporation (REIT) | 111.217 |
@@ -103,5 +105,23 @@
         | CCI | Crown Castle International Corp. (REIT) | 68.977 |
         | EQIX | Equinix, Inc. (REIT) | 68.200 |
         | SPG-PJ | Simon Property Group, Inc. | 52.987 |
-        
+        ![Top 5 REITs](Images/Top_5_REIT_Market_Cap.png)
+2. **REITs in details**: Import and clean the data of 3 largest REIT stocks by Market Cap while combining them into a portfolio
+    - Cumulative Returns
+        ![REITs Cumulative Returns](Images/Cumulative_returns.png)
+    - Daily Returns
+        ![REITs Daily Returns](Images/Daily_returns.png)
+3. **Compare to S&P 500**: Finding the beta against S&P 500
+    - Calculate 30-Day Rolling Betas of REIT Stock Returns vs. S&P 500 Returns
+        ![rolling beta](Images/reits_rolling_beta.png)
+
+
+### Conclusion:
+- It is important to return to the initial hypotheses. The main null hypothesis is that investment in physical real estate property does not provide a greater return than an investment in any combination of REITs and stock indices. In the determination of the ideal real estate market for the purchase of property, there were two supporting hypotheses. One ancillary hypothesis is that population density does not have any relationship with real estate property values. Another ancillary hypothesis is that median household income does not have any relationship with real estate property values.
+
+- One could both make and win the argument that the supporting null hypotheses were disproven with the tabulation of the data and the construction of the maps. The highest real estate property values had an association with population density. In addition, the highest real estate property values had an association with median household income.
+
+- With the strong possibility of synergistic relationships among population density, median household income, and real estate property values, an ideal real estate market was identified. This market was identified as Saint Petersburg, Florida. Given a set investment of a fixed sum over a given period, this investment would have provided a return that far outweighs the returns from any investment in REITs or stock indices. In addition, this set investment may not be complete in that this set investment may not include the collections from renting the supposed property.
+
+- It is important to reassert the ancient disclaimer that past performance does not guarantee future results. Nobody can determine future events, and in the case that anyone could determine future events, then that person would behave accordingly. The exercises of Group Two serve to provide the reader with an analysis of data to this point. Based on the data, it was possible to select for high value real estate markets based on population density. Furthermore, based on the data, it was possible to select for high value real estate markets based on median household income. This data was used to filter down to a specific select real estate market. The comparison with the historical returns from combinations of REITs and stock market indices established that investment in real estate property brought a higher return. Given the extra benefits of physical ownership and the flexibility to rent the property, one can disprove the overarching null hypothesis. It is better to invest in physical real estate than in REITs and stocks.
 
