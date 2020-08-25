@@ -11,6 +11,7 @@
 
 
 ### Real Estate Data Gathering and Preparation:
+###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/data_gathering.ipynb
 
 1. **Demand**: finding the most densely populated counties in the US, since population density is not a readily available stat, we used 2 datapoints to yield the desired results.
     - Since 2019 is not a census year, we decided to use the 2019 population estimate available on Census.gov:\
@@ -86,4 +87,21 @@
     | Harris Park | Saint Petersburg | FL | 3690029 |
     | Lake Euclid | Saint Petersburg | FL | 3655180 |
     | Iveywood | Oakland | CA | 3646354 |
-    **Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
+    **Twinbrooks in Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
+
+### REITs Data Gathering and Preparation:
+###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/REIT.ipynb
+###### REITS are an alternative investment option to those that want to invest in real estate, but do not have the funds to buy property or simply do not qualify for mortgage. Reits historically have delivered competitive high returns based on long term capital appreciation. This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP, calculate rolling statistics, betas and compare them to the trends of S&P 500 market Cap index over time.
+
+1. **Data**: REITs data are acquired from Yahoo! Finance
+    - This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP.\
+        **Top 5**
+        | Symbol | Name | Market Cap<br>(*Billion*) |
+        | ----------- | ----------- | ----------- |
+        | AMT | American Tower Corporation (REIT) | 111.217 |
+        | PLD | Prologis, Inc. | 75.827 |
+        | CCI | Crown Castle International Corp. (REIT) | 68.977 |
+        | EQIX | Equinix, Inc. (REIT) | 68.200 |
+        | SPG-PJ | Simon Property Group, Inc. | 52.987 |
+        
+
