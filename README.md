@@ -7,7 +7,16 @@
 * King Leung
 ---
 
+## Introduction:
+- Is it worth it to invest in US real estate? How much money can one make by investing in real estate (investment in real estate = buying a property to rent out)?
+- What makes an ideal real estate market for an investor?
+- How can we use what we have learned up to this point to find an ideal real estate market?
+- How can we use what we have learned up to this point to predict earnings from an investment in real estate?
+- What is a Real Estate Investment Trust (REIT)? REIT = stock for real estate.
+- How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
+- How can we leverage what we have learned so far to predict the value of investments?
 
+---
 
 
 ### Real Estate Data Gathering and Preparation:
@@ -88,7 +97,9 @@
     | Harris Park | Saint Petersburg | FL | 3690029 |
     | Lake Euclid | Saint Petersburg | FL | 3655180 |
     | Iveywood | Oakland | CA | 3646354 |
-    **Twinbrooks in Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
+    - **Twinbrooks in Saint Petersburg, FL** turns out to the hidden gem according to this analysis with a 500% return over 7 years.
+
+---
 
 ### REITs Data Gathering and Preparation:
 ###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/REIT.ipynb
@@ -115,8 +126,9 @@
     - Calculate 30-Day Rolling Betas of REIT Stock Returns vs. S&P 500 Returns
         ![rolling beta](Images/reits_rolling_beta.png)
 
+---
 
-### Conclusion:
+## Conclusion:
 - It is important to return to the initial hypotheses. The main null hypothesis is that investment in physical real estate property does not provide a greater return than an investment in any combination of REITs and stock indices. In the determination of the ideal real estate market for the purchase of property, there were two supporting hypotheses. One ancillary hypothesis is that population density does not have any relationship with real estate property values. Another ancillary hypothesis is that median household income does not have any relationship with real estate property values.
 
 - One could both make and win the argument that the supporting null hypotheses were disproven with the tabulation of the data and the construction of the maps. The highest real estate property values had an association with population density. In addition, the highest real estate property values had an association with median household income.
