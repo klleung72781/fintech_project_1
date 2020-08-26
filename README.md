@@ -101,6 +101,21 @@
 
 ---
 
+### Vanguard Fund Data Gathering and Preperation:
+###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/ACTUAL%20FINAL%20VANGUARD.ipynb
+
+In order to compare the perfomace of the Real Estate markets analyzed we looked at nine of the core Vanguard Mutual Funds. We looked at those because they represent investments that are often made by a typical investor, and because they represent several different ways of capturing the performance of large parts of the market. The first one, Vangaurd Total Stock Market ETF (VTI) attempts to capture the performance of the entire stock market by using the CRSP Total Market Index. The Vanguard Total Inernational Stock Index (VXUS) uses an index that tracks the performance of all stock markets outside the US. Vanguard's Total Bond Market ETF (BND) is intended to track the performance of the entire US Bond market and is identified as a stable long term investment that's a good way to diversify equity investments. Vanguard Total International Bond ETF (BNDX) attempts to mirror the performance of an index that represents the non-US investment grade bond market hedged in US Dollars. The next set of funds looks at a smaller part of the US Market. Vanguard Growth ETF (VUG) replecates the performance of the CRSP Large Cap Growth Index, the Vanguard Small-Cap ETF (VB) mirrors the performance of a CRSP index of stocks with a small market cap, Vanguard S&P 500 ETF (VOO) track the S&P 500, and the Vanguard Russell 1000 Growth ETF (VONG) mirros an Russel index that tracks stock with good potential for long term growth and is volitaile but is said to have excellent long term growth potential.  All of the funds mentioned here are passively managed. The descriptions of the objectives of the funds are taken from Vanguard's website, and CRSP is the Center for Research in Stock Prices. The data was retrieved from Alpaca.
+
+INSERT FIRST AND SECOND GRAPH.
+
+The portfolio of equally weighted funds and each of the individual funds, which represent the US Market as a whole, the S&P 500, and domestic and foreign bond markets were greatly outperformed by the real estate markets identified above.
+
+INSERT THIRD AND FOURTH GRAPH.
+
+The notebook allows a user to pick as many stocks as they are interested in and create their own portfolio that's weighted as they choose. The pictures depict some well known companies.
+
+The code then attempts to run a Monte Carlo Analysis on the funds or stocks two at a time, but it's not running for an unknown reason despite it being identical to code that worked in the API homework.
+
 ### REITs Data Gathering and Preparation:
 ###### notebook: https://github.com/klleung72781/fintech_project_1/blob/master/REIT.ipynb
 ###### REITS are an alternative investment option to those that want to invest in real estate, but do not have the funds to buy property or simply do not qualify for mortgage. Reits historically have delivered competitive high returns based on long term capital appreciation. This analysis will use hvplots visualizations to plot the top 15 REITS by market CAP, calculate rolling statistics, betas and compare them to the trends of S&P 500 market Cap index over time.
