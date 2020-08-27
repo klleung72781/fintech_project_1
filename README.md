@@ -112,9 +112,9 @@ In order to compare the perfomace of the Real Estate markets analyzed we looked 
 
 The portfolio of equally weighted funds and each of the individual funds, which represent the US Market as a whole, the S&P 500, and domestic and foreign bond markets were greatly outperformed by the real estate markets identified above.
 
-![Custom Stock Performance over the Same Period](Images/Top_market_cap(5).png)
+![Custom Stock Performance over the Same Period](Images/VG3.png)
 
-![Custom Portfolio Performance](Images/Top_market_cap(5).png)
+![Custom Portfolio Performance](Images/VG4.png)
 
 The notebook allows a user to pick as many stocks as they are interested in and create their own portfolio that's weighted as they choose. The pictures depict some well known companies.
 
